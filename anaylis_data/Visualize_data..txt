@@ -1,0 +1,40 @@
+"statement": "Người xem dưới 16 tuổi được xem phim có nội dung thuộc phân loại T18",
+"legal_passages": "
+	Phân loại phim\n\n
+	1. Phim được phân loại theo nội dung để phổ biến phù hợp với độ tuổi người xem hoặc không được phép phổ biến như sau:\n\n
+		a) Loại P: Phim được phép phổ biến đến người xem ở mọi độ tuổi;\n\n
+		b) Loại T18 (18+): Phim được phổ biến đến người xem từ đủ 18 tuổi trở lên;\n\n
+		c) Loại T16 (16+): Phim được phổ biến đến người xem từ đủ 16 tuổi trở lên:\n\n
+		d) Loại T13 (13+): Phim được phổ biến đến người xem từ đủ 13 tuổi trở lên;\n\n
+		đ) Loại K: Phim được phổ biến đến người xem dưới 13 tuổi với điều kiện xem cùng cha, mẹ hoặc người giám hộ;\n\n	
+		e) Loại C: Phim không được phép phổ biến.\n\n
+		
+	2. Tiêu chí phân loại phim áp dụng chung cho các hình thức phổ biến phim do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định.\n\n"
+
+
+
+"statement": "Trong vòng 03 ngày làm việc, kể từ ngày người cai nghiện ma túy sử dụng dịch vụ hoặc tự ý chấm dứt việc sử dụng dịch vụ hoặc hoàn thành dịch vụ phải thông báo cho Ủy ban nhân dân cấp xã nơi người đó đăng ký cai nghiện ma túy tự nguyện tại gia đình, cộng đồng.",
+"legal_passages": 
+	"Cai nghiện ma túy tự nguyện tại gia đình, cộng đồng\n\n
+	1. Cai nghiện ma túy tự nguyện tại gia đình, cộng đồng là việc người nghiện ma túy thực hiện cai nghiện tự nguyện tại gia đình, cộng đồng với sự hỗ trợ chuyên môn của tổ chức, cá nhân cung cấp dịch vụ cai nghiện ma túy, sự phối hợp, trợ giúp của gia đình, cộng đồng và chịu sự quản lý của Ủy ban nhân dân cấp xã.\n\n
+	2. Thời hạn cai nghiện ma túy tự nguyện tại gia đình, cộng đồng là từ đủ 06 tháng đến 12 tháng.\n\n
+	3. Người cai nghiện ma túy tự nguyện tại gia đình, cộng đồng khi hoàn thành ít nhất 03 giai đoạn quy định tại các điểm a, b và c khoản 1 Điều 29 của Luật này được hỗ trợ kinh phí.\n\n
+	4. Người cai nghiện ma túy tự nguyện tại gia đình, cộng đồng có trách nhiệm sau đây:\n\n
+		a) Thực hiện đúng, đầy đủ các quy định về cai nghiện ma túy tự nguyện và tuân thủ hướng dẫn của cơ quan chuyên môn;\n\n
+		b) Nộp chi phí liên quan đến cai nghiện ma túy theo quy định.\n\n
+	5. Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm sau đây:\n\n
+		a) Tiếp nhận đăng ký cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;\n\n
+		b) Hướng dẫn, quản lý người cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;\n\n
+		c) Cấp giấy xác nhận hoàn thành cai nghiện ma túy tự nguyện tại gia đình, cộng đồng.\n\n
+	6. Chủ tịch Ủy ban nhân dân cấp huyện có trách nhiệm sau đây:\n\n
+		a) Giao nhiệm vụ cho các đơn vị sự nghiệp công lập thuộc thẩm quyền trên địa bàn cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;\n\n
+		b) Tiếp nhận đăng ký và công bố danh sách tổ chức, cá nhân đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;\n\n
+		c) Thông báo cho Ủy ban nhân dân cấp xã danh sách tổ chức, cá nhân cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;\n\n
+		d) Bố trí kinh phí hỗ trợ công tác cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;\n\n
+		đ) Chỉ đạo, hướng dẫn, kiểm tra công tác cai nghiện ma túy tự nguyện tại gia đình, cộng đồng.\n\n
+	7. Cơ sở cai nghiện ma túy, tổ chức, cá nhân đủ điều kiện cung cấp một hoặc nhiều hoạt động cai nghiện theo quy trình cai nghiện ma túy quy định tại khoản 1 Điều 29 của Luật này được cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng và có trách nhiệm sau đây:\n\n
+		a) Tiếp nhận và tổ chức thực hiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;\n\n
+		b) Thực hiện đúng quy trình chuyên môn nghiệp vụ theo quy định của cơ quan có thẩm quyền;\n\n
+		c) Trong thời hạn 05 ngày làm việc kể từ ngày người cai nghiện ma túy sử dụng dịch vụ hoặc tự ý chấm dứt việc sử dụng dịch vụ hoặc hoàn thành dịch vụ phải thông báo cho Ủy ban nhân dân cấp xã nơi người đó đăng ký cai nghiện ma túy tự nguyện tại gia đình, cộng đồng.\n\n
+	8. Tổ chức, cá nhân có đủ điều kiện thì được đăng ký cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng với Chủ tịch Ủy ban nhân dân cấp huyện.\n\n
+	9. Chính phủ quy định chi tiết Điều này.\n\n"

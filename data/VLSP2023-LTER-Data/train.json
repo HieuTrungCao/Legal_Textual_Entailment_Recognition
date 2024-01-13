@@ -1,0 +1,838 @@
+[
+ {
+  "example_id": "q9zjh7Uw7Q",
+  "label": "No",
+  "statement": "Người xem dưới 16 tuổi được xem phim có nội dung thuộc phân loại T18",
+  "legal_passages": [
+   {
+    "law_id": "Luật Điện ảnh 2022",
+    "article_id": "32"
+   }
+  ]
+ },
+ {
+  "example_id": "ckQFn8y202",
+  "label": "No",
+  "statement": "Trong vòng 03 ngày làm việc, kể từ ngày người cai nghiện ma túy sử dụng dịch vụ hoặc tự ý chấm dứt việc sử dụng dịch vụ hoặc hoàn thành dịch vụ phải thông báo cho Ủy ban nhân dân cấp xã nơi người đó đăng ký cai nghiện ma túy tự nguyện tại gia đình, cộng đồng.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "30"
+   }
+  ]
+ },
+ {
+  "example_id": "3ROu621ZEO",
+  "label": "Yes",
+  "statement": "Viên chức có 02 năm liên tiếp bị phân loại đánh giá ở mức độ không hoàn thành nhiệm vụ",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "29"
+   }
+  ]
+ },
+ {
+  "example_id": "VT1QuVmhCc",
+  "label": "Yes",
+  "statement": "Các biện pháp cai nghiện ma túy là những biện pháp nào sau đây?. Trả lời: Cai nghiện ma túy tự nguyện và Cai nghiện ma túy bắt buộc",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "28"
+   }
+  ]
+ },
+ {
+  "example_id": "0MwITLtbmg",
+  "label": "No",
+  "statement": "Viên chức thuộc một đơn vị sự nghiệp công lập hiện tại không được tham gia hợp đồng vụ, việc với các đơn vị, cơ quan, tổ chức khác",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "14"
+   }
+  ]
+ },
+ {
+  "example_id": "iWBRVGwBcb",
+  "label": "No",
+  "statement": "Người từ đủ 14 tuổi đến dưới 18 tuổi đang cai nghiện ma túy bắt buộc mà bị phát hiện thực hiện hành vi phạm tội trước hoặc trong thời gian chấp hành quyết định cai nghiện ma túy bắt buộc và bị Tòa án xử phạt tù nhưng không được hưởng án treo thì không được miễn chấp hành thời gian còn lại trong quyết định đưa vào cơ sở cai nghiện bắt buộc.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "39"
+   }
+  ]
+ },
+ {
+  "example_id": "XsfBrLUkvw",
+  "label": "No",
+  "statement": "Trách nhiệm của Bộ Y tế trong việc phòng, chống ma túy là gì? Trả lời: Tổ chức công tác giám định chất ma túy và tiền chất",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "49"
+   }
+  ]
+ },
+ {
+  "example_id": "bu3nyKAUNT",
+  "label": "No",
+  "statement": "Người xem từ 18 tuổi trở lên được pháp xem phim có nội dung thuộc phân loại K với điều kiện xem cùng cha, mẹ hoặc người giám hộ",
+  "legal_passages": [
+   {
+    "law_id": "Luật Điện ảnh 2022",
+    "article_id": "32"
+   }
+  ]
+ },
+ {
+  "example_id": "msHHa3bELB",
+  "label": "Yes",
+  "statement": "Viên chức có quyền được đào tạo, bồi dưỡng nâng cao trình độ chính trị, chuyên môn, nghiệp vụ",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "11"
+   }
+  ]
+ },
+ {
+  "example_id": "RVV34aoTvI",
+  "label": "No",
+  "statement": "Cơ sở giáo dục thường xuyên bao gồm trường đại học hay viện nghiên cứu.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "44"
+   }
+  ]
+ },
+ {
+  "example_id": "M5lSCyhgJE",
+  "label": "Yes",
+  "statement": "Người nghiện ma túy từ đủ 18 tuổi trở lên bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc theo quy định của Luật Xử lý vi phạm hành chính khi bị phát hiện sử dụng chất ma túy một cách trái phép trong thời gian cai nghiện ma túy tự nguyện.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "32"
+   }
+  ]
+ },
+ {
+  "example_id": "XEJo5sXAMr",
+  "label": "No",
+  "statement": "Cơ quan, tổ chức, đơn vị quản lý viên chức ra quyết định nghỉ hưu đối với viên chức trong thời hạn 06 tháng tính đến ngày viên chức nghỉ hưu",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "46"
+   }
+  ]
+ },
+ {
+  "example_id": "sqjV9Bb2WH",
+  "label": "Yes",
+  "statement": "Mục tiêu của giáo dục đại học là nhằm đào tạo ra nhân lực trình độ cao, nâng cao dân trí và bồi dưỡng nhân tài.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "39"
+   }
+  ]
+ },
+ {
+  "example_id": "ZBC6orkgch",
+  "label": "No",
+  "statement": "Có bao nhiêu trình độ đào tạo giáo dục đại học? Trả lời: 02 trình độ đào tạo giáo dục đại học",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "38"
+   }
+  ]
+ },
+ {
+  "example_id": "LQv3sLibDh",
+  "label": "Yes",
+  "statement": "Trách nhiệm của người sử dụng ma túy là phải chấp hành việc quản lý của cơ quan nhà nước, cụ thể là Ủy ban nhân dân cấp xã, phường.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "24"
+   }
+  ]
+ },
+ {
+  "example_id": "EQqD60Y271",
+  "label": "Yes",
+  "statement": "Cán bộ quản lý giáo dục là người giữ vai trò quan trọng trong việc quản lý, tổ chức, và điều hành các hoạt động giáo dục.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "18"
+   }
+  ]
+ },
+ {
+  "example_id": "fjoqioXeO1",
+  "label": "No",
+  "statement": "Trách nhiệm của Bộ Quốc phòng trong việc phòng, chống ma túy là gì? Trả lời: Thực hiện hợp tác quốc tế về cai nghiện ma túy",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "48"
+   }
+  ]
+ },
+ {
+  "example_id": "40giv2OvF6",
+  "label": "No",
+  "statement": "Nhà trường bị giải thể trong trường hợp nào? Trả lời: Bảo đảm chất lượng giáo dục.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "51"
+   }
+  ]
+ },
+ {
+  "example_id": "aS4Oxqxklj",
+  "label": "Yes",
+  "statement": "Người từ 16 tuổi trở lên được phép xem phim có nội dung thuộc phân loại P",
+  "legal_passages": [
+   {
+    "law_id": "Luật Điện ảnh 2022",
+    "article_id": "32"
+   }
+  ]
+ },
+ {
+  "example_id": "g4rqqRWpdb",
+  "label": "Yes",
+  "statement": "Trong quá trình thực hiện hợp đồng làm việc, nếu một bên có yêu cầu thay đổi nội dung hợp đồng làm việc thì phải báo cho bên kia biết trước ít nhất 03 ngày làm việc",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "28"
+   }
+  ]
+ },
+ {
+  "example_id": "4dE11xmkXc",
+  "label": "No",
+  "statement": "Trước 03 tháng, tính đến ngày viên chức nghỉ hưu, cơ quan, tổ chức, đơn vị quản lý viên chức phải thông báo bằng văn bản về thời điểm nghỉ hưu",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "46"
+   }
+  ]
+ },
+ {
+  "example_id": "X2H73lQFHY",
+  "label": "Yes",
+  "statement": "Không được phép lợi dụng hoạt động giáo dục để xuyên tạc chủ trương và chống phá nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "21"
+   }
+  ]
+ },
+ {
+  "example_id": "4bjolT6L3z",
+  "label": "Yes",
+  "statement": "Chính phủ là cơ quan thống nhất quản lý nhà nước về thanh niên ",
+  "legal_passages": [
+   {
+    "law_id": "Luật Thanh niên 2020",
+    "article_id": "37"
+   }
+  ]
+ },
+ {
+  "example_id": "zbVo7IuSOp",
+  "label": "Yes",
+  "statement": "Đoàn Thanh niên Cộng sản Hồ Chí Minh là cơ quan có trách nhiệm tổng hợp, phản ánh ý kiến, kiến nghị của thanh niên đến cơ quan, tổ chức có thẩm quyền",
+  "legal_passages": [
+   {
+    "law_id": "Luật Thanh niên 2020",
+    "article_id": "28"
+   }
+  ]
+ },
+ {
+  "example_id": "61bCyfsfYX",
+  "label": "No",
+  "statement": "Cho phép truyền bá tôn giáo và thực hiện các nghi lễ tôn giáo trong cơ sở giáo dục của hệ thống giáo dục quốc dân và tổ chức chính trị.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "20"
+   }
+  ]
+ },
+ {
+  "example_id": "dIIYvZHbtq",
+  "label": "No",
+  "statement": "Trường giáo dưỡng có nhiệm vụ giáo dục người chưa thành niên vi phạm pháp luật nhằm mục đích nào sau đây? Trả lời: Đi du học nước ngoài.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "64"
+   }
+  ]
+ },
+ {
+  "example_id": "H6PxIjmdgH",
+  "label": "Yes",
+  "statement": "Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có tính nhân dân, và dân tộc, mang tính khoa học, hiện đại.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "3"
+   }
+  ]
+ },
+ {
+  "example_id": "4O7z6fOAPJ",
+  "label": "No",
+  "statement": "Khoảng thời gian cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy là bao lâu? Trả lời: Từ 48 tháng đến 60 tháng",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "31"
+   }
+  ]
+ },
+ {
+  "example_id": "gtjDrBrJ19",
+  "label": "No",
+  "statement": "Trong vòng 05 ngày làm việc, kể từ ngày nhận được kết quả xét nghiệm dương tính của người cư trú tại địa phương, Chủ tịch Ủy ban nhân dân cấp xã, phường có trách nhiệm ra quyết định và tổ chức quản lý người sử dụng trái phép chất ma túy cư trú tại địa phương.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "23"
+   }
+  ]
+ },
+ {
+  "example_id": "LxjhKFcDMD",
+  "label": "No",
+  "statement": "Thứ trưởng Bộ Giáo dục và Đào tạo trong phạm vi nhiệm vụ, quyền hạn của mình, quy định chi tiết về chương trình, sách giáo khoa, giáo trình, tài liệu cho giáo dục thường xuyên.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "43"
+   }
+  ]
+ },
+ {
+  "example_id": "jnGYfFIs7N",
+  "label": "Yes",
+  "statement": "Thanh niên hoàn thành nghĩa vụ quân sự, nghĩa vụ tham gia Công an nhân dân được hưởng chính sách hỗ trợ đào tạo nghề theo quy định",
+  "legal_passages": [
+   {
+    "law_id": "Luật Thanh niên 2020",
+    "article_id": "21"
+   }
+  ]
+ },
+ {
+  "example_id": "E3nezW9AK0",
+  "label": "No",
+  "statement": "Phim loại C là phim được phép phổ biến đến người xem ở mọi độ tuổi",
+  "legal_passages": [
+   {
+    "law_id": "Luật Điện ảnh 2022",
+    "article_id": "32"
+   }
+  ]
+ },
+ {
+  "example_id": "NILu7qLntt",
+  "label": "Yes",
+  "statement": "Hình thức đào tạo, bồi dưỡng viên chức gồm: Đào tạo, bồi dưỡng theo tiêu chuẩn chức vụ quản lý, bồi dưỡng theo tiêu chuẩn chức danh nghề nghiệp, và bồi dưỡng nhằm bổ sung, cập nhật kiến thức, kỹ năng phục vụ hoạt động nghề nghiệp. ",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "33"
+   }
+  ]
+ },
+ {
+  "example_id": "HxZtqBzeEZ",
+  "label": "Yes",
+  "statement": "Tháng 3 hằng năm là Tháng Thanh niên",
+  "legal_passages": [
+   {
+    "law_id": "Luật Thanh niên 2020",
+    "article_id": "9"
+   }
+  ]
+ },
+ {
+  "example_id": "BkupPYuKXv",
+  "label": "Yes",
+  "statement": "Bộ trưởng Bộ Giáo dục và Đào tạo không được quy định ngưỡng đầu vào trình độ cao đẳng, trình độ đại học thuộc ngành đào tạo giáo viên.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "6"
+   }
+  ]
+ },
+ {
+  "example_id": "3ZjbFGpytH",
+  "label": "No",
+  "statement": "Người đứng đầu đơn vị sự nghiệp công lập đơn phương có quyền quyết định ký kết tiếp hoặc chấm dứt hợp đồng làm việc đối với viên chức.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "28"
+   }
+  ]
+ },
+ {
+  "example_id": "6T9RLlCXIy",
+  "label": "No",
+  "statement": "Đơn vị sự nghiệp có quyền đơn phương chấm dứt hợp đồng đối với viên chức khi viên chức ốm đau hoặc bị tai nạn, đang điều trị bệnh nghề nghiệp theo quyết định của cơ sở chữa bệnh",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "29"
+   }
+  ]
+ },
+ {
+  "example_id": "smWUCz4HtS",
+  "label": "Yes",
+  "statement": "Bộ Nội Vụ là cơ quan nào chủ trì, phối hợp với các bộ, cơ quan ngang bộ có liên quan quy định hệ thống danh mục, tiêu chuẩn và mã số chức danh nghề nghiệp",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "8"
+   }
+  ]
+ },
+ {
+  "example_id": "W51vKx6Y5S",
+  "label": "Yes",
+  "statement": "Chương trình giáo dục cần phải thể hiện mục tiêu giáo dục và yêu cầu người học phải đạt về phẩm chất và năng lực tương ứng.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "8"
+   }
+  ]
+ },
+ {
+  "example_id": "7yASh5EiMy",
+  "label": "No",
+  "statement": "Trách nhiệm của Bộ Công an trong việc phòng, chống ma túy là gì? Trả lời: Chỉ đạo lực lượng Bộ đội Biên phòng, Cảnh sát biển Việt Nam trong việc phòng chống ma túy.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "46"
+   }
+  ]
+ },
+ {
+  "example_id": "5aJlXB1eST",
+  "label": "Yes",
+  "statement": "Việc đánh giá viên chức được thực hiện hàng năm",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "41"
+   }
+  ]
+ },
+ {
+  "example_id": "lQ9frTtrtV",
+  "label": "No",
+  "statement": "Đối với trường hợp người được tuyển dụng dưới 18 tuổi, hợp đồng lao động chỉ cần ghi họ tên, địa chỉ, ngày, tháng, năm sinh của người đại diện theo pháp luật của người được tuyển dụng",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "26"
+   }
+  ]
+ },
+ {
+  "example_id": "u4ykYXXEms",
+  "label": "Yes",
+  "statement": "Viên chức được hoạt động nghề nghiệp ngoài thời gian làm việc quy định trong hợp đồng làm việc và theo đúng các quy định của Pháp luật",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "14"
+   }
+  ]
+ },
+ {
+  "example_id": "x3S4gfwqxV",
+  "label": "Yes",
+  "statement": "Cơ sở cai nghiện ma túy công lập là Chủ tịch Ủy ban nhân dân cấp tỉnh ra quyết định thành lập.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "35"
+   }
+  ]
+ },
+ {
+  "example_id": "ZtB35RZhRI",
+  "label": "No",
+  "statement": "Phương pháp giáo dục thường xuyên phải phát huy tính thụ động của người học.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "43"
+   }
+  ]
+ },
+ {
+  "example_id": "GE9biFGIt1",
+  "label": "No",
+  "statement": "Doanh nghiệp, tổ chức được yêu cầu phải ưu tiên tuyển dụng thanh niên là người dân tộc thiểu số",
+  "legal_passages": [
+   {
+    "law_id": "Luật Thanh niên 2020",
+    "article_id": "25"
+   }
+  ]
+ },
+ {
+  "example_id": "pyuKTtaCxe",
+  "label": "Yes",
+  "statement": "Bộ Văn hóa, Thể thao và Du lịch là cơ quan giúp Chính phủ thực hiện quản lý nhà nước về điện ảnh",
+  "legal_passages": [
+   {
+    "law_id": "Luật Điện ảnh 2022",
+    "article_id": "45"
+   }
+  ]
+ },
+ {
+  "example_id": "nkiX0ToLxf",
+  "label": "No",
+  "statement": "Nguồn tài chính bảo đảm thực hiện chính sách đối với thanh niên chỉ gồm nguồn tài chính từ ngân sách nhà nước",
+  "legal_passages": [
+   {
+    "law_id": "Luật Thanh niên 2020",
+    "article_id": "6"
+   }
+  ]
+ },
+ {
+  "example_id": "San2cDUQSm",
+  "label": "Yes",
+  "statement": "Người cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy phải có trách nhiệm nộp chi phí liên quan đến cai nghiện ma túy.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "31"
+   }
+  ]
+ },
+ {
+  "example_id": "Q7hGQ5owqU",
+  "label": "Yes",
+  "statement": "Cơ quan Hải quan có trách nhiệm trong việc kiểm soát hoạt động quá cảnh lãnh thổ Việt Nam chất ma túy, tiền chất, thuốc gây nghiện.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "17"
+   }
+  ]
+ },
+ {
+  "example_id": "t9xUgIsTa6",
+  "label": "No",
+  "statement": "Tiếng Anh được dùng chính thức trong cơ sở giáo dục.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "11"
+   }
+  ]
+ },
+ {
+  "example_id": "vER50gJIY7",
+  "label": "Yes",
+  "statement": "Mục tiêu của giáo dục thường xuyên là nhằm mục đích tạo điều kiện cho mọi người có cơ hội vừa làm vừa học, học liên tục",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "41"
+   }
+  ]
+ },
+ {
+  "example_id": "PqLFyODSMe",
+  "label": "Yes",
+  "statement": "Người trúng tuyển viên chức đã có thời gian từ đủ 12 tháng trở lên thực hiện chuyên môn, nghiệp vụ phù hợp với yêu cầu của vị trí việc làm được tuyển dụng không phải thực hiện chế độ tập sự",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "27"
+   }
+  ]
+ },
+ {
+  "example_id": "FsWvvO33Ct",
+  "label": "No",
+  "statement": "Nhà giáo có vai trò nào sau đây? Trả lời: Đi du học nước ngoài nhằm nâng cao kiến thức.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "66"
+   }
+  ]
+ },
+ {
+  "example_id": "wIaqSKIotB",
+  "label": "Yes",
+  "statement": "Bộ Văn hóa, Thể thao và Du lịch và Ủy ban nhân dân có thẩm quyền cấp giấy phép phân loại phim khi đáp ứng các điều kiện theo quy định của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch",
+  "legal_passages": [
+   {
+    "law_id": "Luật Điện ảnh 2022",
+    "article_id": "27"
+   }
+  ]
+ },
+ {
+  "example_id": "hqnWjRtgDK",
+  "label": "No",
+  "statement": "Việc tuyển dụng viên chức chỉ được thực hiện thông qua thi tuyển",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "23"
+   }
+  ]
+ },
+ {
+  "example_id": "7eoNvR742A",
+  "label": "Yes",
+  "statement": "Chủ sở hữu phim có nghĩa vụ mở mã khóa phim để đối chiếu, kiểm tra khi có yêu cầu của cơ quan nhà nước có thẩm quyền",
+  "legal_passages": [
+   {
+    "law_id": "Luật Điện ảnh 2022",
+    "article_id": "35"
+   }
+  ]
+ },
+ {
+  "example_id": "PXDpRnKfph",
+  "label": "No",
+  "statement": "Phát triển giáo dục không phải là quốc sách hàng đầu.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "2"
+   }
+  ]
+ },
+ {
+  "example_id": "g0tEL4A3EC",
+  "label": "Yes",
+  "statement": "Cơ quan, tổ chức có trách nhiệm tạo điều kiện thuận lợi cho cán bộ, công chức, viên chức và người lao động được thường xuyên học tập, học tập suốt đời để nhằm mục đích phát triển bản thân và nâng cao chất lượng cuộc sống.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "46"
+   }
+  ]
+ },
+ {
+  "example_id": "vawQxejhbP",
+  "label": "No",
+  "statement": "Cơ sở cai nghiện ma túy không có trách nhiệm cấp giấy xác nhận hoàn thành cai nghiện ma túy tự nguyện cho người cai nghiện ma túy.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "31"
+   }
+  ]
+ },
+ {
+  "example_id": "ESrSFegdnP",
+  "label": "Yes",
+  "statement": "Tổ chức thanh niên gồm Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Liên hiệp Thanh niên Việt Nam, Hội Sinh viên Việt Nam và các tổ chức khác của thanh niên được thành lập, tổ chức và hoạt động theo quy định của pháp luật",
+  "legal_passages": [
+   {
+    "law_id": "Luật Thanh niên 2020",
+    "article_id": "27"
+   }
+  ]
+ },
+ {
+  "example_id": "tXRGZXvUPj",
+  "label": "No",
+  "statement": "Người đã chấp hành xong quyết định áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc chịu sự quản lý sau cai nghiện ma túy trong thời hạn 05 năm kể từ ngày chấp hành xong quyết định.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "40"
+   }
+  ]
+ },
+ {
+  "example_id": "ddUhS1oQlT",
+  "label": "No",
+  "statement": "Cơ sở cai nghiện ma túy tự nguyện là do cơ quan nhà nước thành lập ra.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "36"
+   }
+  ]
+ },
+ {
+  "example_id": "70KK5g4fPJ",
+  "label": "No",
+  "statement": "Được phép gian lận trong học tập và thi cử. Đồng thời cho phép học sinh được hút thuốc, uống rượu bia và cờ bạc.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "22"
+   }
+  ]
+ },
+ {
+  "example_id": "cCS4VENPft",
+  "label": "Yes",
+  "statement": "Chức danh nghề nghiệp là tên gọi thể hiện trình độ và năng lực chuyên môn, nghiệp vụ của viên chức trong từng lĩnh vực nghề nghiệp",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "8"
+   }
+  ]
+ },
+ {
+  "example_id": "p4zs0isjph",
+  "label": "Yes",
+  "statement": "Công an cấp xã có trách nhiệm giúp Ủy ban nhân dân cùng cấp lập danh sách những người sử dụng trái phép chất ma túy tại địa phương.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "26"
+   }
+  ]
+ },
+ {
+  "example_id": "eDDeyyw6JY",
+  "label": "Yes",
+  "statement": "Ngân sách nhà nước đóng giữ vai trò chủ đạo trong tổng nguồn lực đầu tư cho giáo dục.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "17"
+   }
+  ]
+ },
+ {
+  "example_id": "OU3MJaS8Si",
+  "label": "No",
+  "statement": "Đơn vị sự nghiệp công lập không thể ký hợp đồng vụ, việc với người hưởng chế độ hưu trí, kể cả trường hợp đơn vị có nhu cầu và người hưởng chế độ hưu trí có nguyện vọng",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "46"
+   }
+  ]
+ },
+ {
+  "example_id": "31WyXImQt7",
+  "label": "Yes",
+  "statement": "Trách nhiệm của cơ quan Mặt Trận Tổ Quốc Việt Nam trong việc phòng, chống ma túy là phòng ngừa, và ngăn chặn người của tổ chức mình và mọi công dân vi phạm luật phòng, chống ma túy.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "10"
+   }
+  ]
+ },
+ {
+  "example_id": "InehZtAZn9",
+  "label": "Yes",
+  "statement": "Viên chức bị kỷ luật từ khiển trách đến cách chức thì không thực hiện việc quy hoạch, đào tạo, bồi dưỡng, bổ nhiệm trong thời hạn 12 tháng, kể từ ngày quyết định kỷ luật có hiệu lực",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "56"
+   }
+  ]
+ },
+ {
+  "example_id": "xcuMZRBDKw",
+  "label": "Yes",
+  "statement": "Đoàn Thanh niên Cộng sản Hồ Chí Minh là tổ chức chính trị-xã hội của thanh niên Việt Nam, giữ vai trò nòng cốt trong phong trào thanh niên và tổ chức thanh niên; tổ chức hướng dẫn hoạt động của thiếu niên, nhi đồng, phụ trách Đội Thiếu niên tiền phong Hồ Chí Minh",
+  "legal_passages": [
+   {
+    "law_id": "Luật Thanh niên 2020",
+    "article_id": "28"
+   }
+  ]
+ },
+ {
+  "example_id": "3lEnngVd8Z",
+  "label": "Yes",
+  "statement": "Viên chức bị khiển trách thì thời hạn nâng lương bị kéo dài 03 tháng",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "9"
+   }
+  ]
+ },
+ {
+  "example_id": "6nfjyV5thx",
+  "label": "No",
+  "statement": "Cơ quan nhà nước không có thẩm quyền theo dõi, kiểm tra, và giám sát các hoạt động nghiên cứu, sản xuất chất ma túy (không bao gồm trồng cây có chứa chất ma túy).",
+  "legal_passages": [
+   {
+    "law_id": "Luật Phòng, chống ma túy 2021",
+    "article_id": "14"
+   }
+  ]
+ },
+ {
+  "example_id": "TisBomZhjP",
+  "label": "Yes",
+  "statement": "Cách chức là một trong các hình thức xử lý kỷ luật dành cho viên chức quản lý",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "52"
+   }
+  ]
+ },
+ {
+  "example_id": "O8JI0xlIS5",
+  "label": "Yes",
+  "statement": "Hợp đồng làm việc đối với trường hợp người được tuyển dụng là người trên 18 tuổi  có những nội dung chủ yếu sau: Tên, địa chỉ của đơn vị sự nghiệp công lập và người đứng đầu đơn vị sự nghiệp công lập, Họ tên, địa chỉ, ngày, tháng, năm sinh của người được tuyển dụng.",
+  "legal_passages": [
+   {
+    "law_id": "Luật Viên chức 2010",
+    "article_id": "26"
+   }
+  ]
+ },
+ {
+  "example_id": "Rev8SuR3fn",
+  "label": "Yes",
+  "statement": "Quyền của nhà giáo là gì? Trả lời: Được giảng dạy theo chuyên môn đào tạo",
+  "legal_passages": [
+   {
+    "law_id": "Luật Giáo dục 2019",
+    "article_id": "70"
+   }
+  ]
+ }
+]

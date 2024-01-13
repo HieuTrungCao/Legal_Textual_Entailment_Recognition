@@ -1,0 +1,898 @@
+example_id,statement,legal_passages,label,score
+q-189,Chiếm đoạt tài sản lớn hơn 500.000.000 đồng sẽ bị phạt tù dưới 5 năm.,"3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 07 năm đến 15 năm:
+
+a) Chiếm đoạt tài sản trị giá từ 200.000.000 đồng đến dưới 500.000.000 đồng",No,10.700172161249727
+q-552,"Luật sư có các nghĩa vụ: (1) tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ, (2) tham gia tố tụng đầy đủ, kịp thời trong các vụ án do cơ quan tiến hành tố tụng yêu cầu, (3) thực hiện trợ giúp pháp lý.","c) Tham gia tố tụng đầy đủ, kịp thời trong các vụ án do cơ quan tiến hành tố tụng yêu cầu",Yes,26.57755720923018
+q-541,"Chứng chỉ hành nghề luật sư bị thu hồi khi được tuyển dụng, bổ nhiệm là cán bộ, công chức, viên chức.","b) Được tuyển dụng, bổ nhiệm làm cán bộ, công chức, viên chức; sĩ quan, quân nhân chuyên nghiệp, công nhân quốc phòng trong cơ quan, đơn vị thuộc Quân đội nhân dân; sĩ quan, hạ sĩ quan, công nhân trong cơ quan, đơn vị thuộc Công an nhân dân",Yes,10.04353074564293
+q-249,"Chỉ những hành vi pháp lý đơn phương làm thay đổi quyền, nghĩa vụ dân sự mới được coi là giao dịch dân sự.","Giao dịch dân sự
+
+Giao dịch dân sự là hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự.",No,3.671371210337013
+q-542,"Chứng chỉ hành nghề luật sư bị thu hồi khi không còn thường trú tại Việt Nam, hoặc bị thu hồi khi bị kết án và bản án đã có hiệu lực pháp luật, hoặc được tuyển dụng, bổ nhiệm là cán bộ, công chức, viên chức.",i) Bị kết án mà bản án đã có hiệu lực pháp luật,Yes,18.056206696057643
+q-20,Hút thuốc là hành vi bị nghiêm cấm trong cơ sở giáo dục.,"Các hành vi bị nghiêm cấm trong cơ sở giáo dục
+
+1. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học",Yes,6.03063234231828
+q-561,Mỗi luật sư hướng dẫn chỉ được hướng dẫn không quá hai người tập sự tại cùng một thời điểm.,"Tổ chức hành nghề luật sư phân công luật sư hướng dẫn người tập sự hành nghề luật sư. Luật sư hướng dẫn tập sự phải là người có ít nhất ba năm kinh nghiệm hành nghề luật sư và không thuộc trường hợp đang trong thời gian bị xử lý kỷ luật theo quy định tại khoản 1 Điều 85 của Luật này. Tại cùng một thời điểm, một luật sư không được hướng dẫn quá ba người tập sự",No,12.043064932666663
+q-330,"Sau khi kết hôn, người vợ phải cải đạo theo người chồng.","Tôn trọng quyền tự do tín ngưỡng, tôn giáo của vợ, chồng
+
+Vợ, chồng có nghĩa vụ tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhau.",No,0.8219487784336595
+q-485,Luật sư hướng dẫn tập sự hành nghề luật sư không cần đang hành nghề trong một tổ chức hành nghề luật sư.,"Điều kiện đối với luật sư hướng dẫn
+
+Luật sư hướng dẫn tập sự hành nghề luật sư phải đáp ứng đủ các điều kiện sau đây:
+
+1. Đang hành nghề trong một tổ chức hành nghề luật sư quy định tại khoản 3 Điều 4 của Thông tư này",No,6.647273633332803
+q-305,"Theo quy định về việc thừa kế theo pháp luật đối với vợ, chồng đã li hôn và kết hôn với người khác thì người đang là vợ hoặc chồng của một người tại thời điểm người đó chết thì dù sau đó đã kết hôn với người khác vẫn được thừa kế di sản.",3. Người đang là vợ hoặc chồng của một người tại thời điểm người đó chết thì dù sau đó đã kết hôn với người khác vẫn được thừa kế di sản.,Yes,14.815082872969317
+q-406,"Người tập sự hành nghề luật sư không được đại diện, bào chữa, bảo về quyền lợi và lợi ích hợp pháp cho khách hàng tại phiên tòa","d) Liên hệ với cá nhân, cơ quan, tổ chức để thực hiện các quyền, nghĩa vụ và các hoạt động có liên quan đến việc bào chữa, đại diện, bảo vệ quyền, lợi ích hợp pháp của khách hàng hoặc hoạt động tư vấn pháp luật",Yes,7.127603303085433
+q-211,Thu lợi bất chính từ việc xâm nhập trái phép vào mạng máy tính của người khác từ 2.000.000.000 đồng đến 10.000.000.000 đồng sẽ bị phạt tù từ 3 đến 7 năm.,"Tội xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác
+
+1. Người nào cố ý vượt qua cảnh báo, mã truy cập, tường lửa, sử dụng quyền quản trị của người khác hoặc bằng phương thức khác xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác chiếm quyền điều khiển; can thiệp vào chức năng hoạt động của phương tiện điện tử; lấy cắp, thay đổi, hủy hoại, làm giả dữ liệu hoặc sử dụng trái phép các dịch vụ, thì bị phạt tiền từ 50.000.000 đồng đến 300.000.000 đồng hoặc phạt tù từ 01 năm đến 05 năm",No,26.11023877967549
+q-340,"Nhà nước và xã hội khuyến khích việc hòa giải ở cơ sở khi vợ, chồng có yêu cầu ly hôn.","Khuyến khích hòa giải ở cơ sở
+
+Nhà nước và xã hội khuyến khích việc hòa giải ở cơ sở khi vợ, chồng có yêu cầu ly hôn. Việc hòa giải được thực hiện theo quy định của pháp luật về hòa giải ở cơ sở.",Yes,5.416144299103008
+q-461,Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự được tính theo tính chất nghiêm trọng của vụ án.,"Mức trần thù lao luật sư tham gia tố tụng trong vụ án hình sự
+
+1. Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự do khách hàng và văn phòng luật sư, công ty luật thỏa thuận trong hợp đồng dịch vụ pháp lý dựa trên các căn cứ quy định tại Khoản 1 Điều 55 của Luật luật sư và được tính theo giờ hoặc tính trọn gói theo vụ việc, nhưng mức cao nhất cho 01 giờ làm việc của luật sư không được vượt quá 0,3 lần mức lương cơ sở do Chính phủ quy định",No,13.765056851074435
+q-115,"Hằng năm, người sử dụng lao động thông báo kết quả đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề cho cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp huyện.","2. Hằng năm, người sử dụng lao động thông báo kết quả đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề cho cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh.",No,9.903748697446844
+q-480,"Báo cáo quá trình tập sự hành nghề luật sư của người tập sự không cần có đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.","2. Báo cáo quá trình tập sự hành nghề luật sư của người tập sự phải có nhận xét, chữ ký của luật sư hướng dẫn theo quy định tại khoản 3 Điều 13 của Thông tư này, xác nhận của tổ chức hành nghề luật sư nhận tập sự và đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.",No,14.630621080557386
+q-286,"Theo điều 612 bộ luật dân sự năm 2015, di sản của người chết bao gồm toàn bộ tài sản riêng của người chết, phần tài sản chung của với các chủ sở hữu khác.","Di sản
+
+Di sản bao gồm tài sản riêng của người chết, phần tài sản của người chết trong tài sản chung với người khác.",Yes,6.109819253023535
+q-362,"Nhà nước quy định nguyên tắc, phương pháp định giá đất.","Nhà nước quyết định giá đất
+
+1. Nhà nước quy định nguyên tắc, phương pháp định giá đất",Yes,2.7682936264678375
+q-334,Mọi tài sản riêng của vợ và chồng trước khi kết hôn sẽ trở thành tài sản chung của vợ chồng sau khi kết hôn.,"Tài sản riêng của vợ, chồng
+
+1. Tài sản riêng của vợ, chồng gồm tài sản mà mỗi người có trước khi kết hôn; tài sản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân; tài sản được chia riêng cho vợ, chồng theo quy định tại các điều 38, 39 và 40 của Luật này; tài sản phục vụ nhu cầu thiết yếu của vợ, chồng và tài sản khác mà theo quy định của pháp luật thuộc sở hữu riêng của vợ, chồng",No,5.453457328485158
+q-15,"Phát triển giáo dục, xây dựng xã hội học tập là sự nghiệp của riêng Nhà nước.","Xã hội hóa sự nghiệp giáo dục
+
+1. Phát triển giáo dục, xây dựng xã hội học tập là sự nghiệp của Nhà nước và của toàn dân",No,6.702282992697152
+q-102,"Trong quá trình thực hiện hợp đồng lao động, nếu các bên có yêu cầu sửa đổi, bổ sung nội dung hợp đồng lao động thì có thể báo cho bên còn lại biết trước ít nhất vài ngày làm việc về nội dung cần sửa đổi, bổ sung hoặc không.","Sửa đổi, bổ sung hợp đồng lao động
+
+1. Trong quá trình thực hiện hợp đồng lao động, nếu bên nào có yêu cầu sửa đổi, bổ sung nội dung hợp đồng lao động thì phải báo cho bên kia biết trước ít nhất 03 ngày làm việc về nội dung cần sửa đổi, bổ sung",No,14.68792629187648
+q-11,"Cơ hội học tập không bình đẳng với mọi công dân mà phân biệt dựa vào dân tộc, tôn giáo, tín ngưỡng, giới tính, đặc điểm cá nhân, nguồn gốc gia đình, địa vị xã hội và hoàn cảnh kinh tế.","Quyền và nghĩa vụ học tập của công dân
+
+1. Học tập là quyền và nghĩa vụ của công dân. Mọi công dân không phân biệt dân tộc, tôn giáo, tín ngưỡng, giới tính, đặc điểm cá nhân, nguồn gốc gia đình, địa vị xã hội, hoàn cảnh kinh tế đều bình đẳng về cơ hội học tập",No,18.51353778039103
+q-592,"Trong thời gian tập sự, ngoài nghĩa vụ tuân thủ các quy định của pháp luật về luật sư và hành nghề luật sư, người tập sự hành nghề luật sư còn có nghĩa vụ lập thời khóa biểu tập sự, ghi chép lịch đến tổ chức hành nghề tập sự.","Nghĩa vụ của người tập sự
+
+1. Tuân thủ các quy định của pháp luật về luật sư và hành nghề luật sư",No,14.994140284814769
+q-88,Việc làm bao gồm tất cả các hoạt động tạo ra thu nhập,"Việc làm, giải quyết việc làm
+
+1. Việc làm là hoạt động lao động tạo ra thu nhập mà pháp luật không cấm",No,3.4163493292044675
+q-87,"Mọi cơ quan nhà nước đều có thẩm quyền hỗ trợ xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định","2. Người sử dụng lao động, tổ chức đại diện người sử dụng lao động và người lao động, tổ chức đại diện người lao động xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định với sự hỗ trợ của cơ quan nhà nước có thẩm quyền",No,4.922734945634586
+q-136,"Làm thêm giờ trong trường hợp thực hiện lệnh động viên, huy động bảo đảm nhiệm vụ quốc phòng, an ninh theo quy định của pháp luật, người sử dụng lao động được sử dụng người lao động làm thêm giờ vào bất kỳ ngày nào mà không bị giới hạn về số giờ làm thêm.","Làm thêm giờ trong trường hợp đặc biệt
+
+Người sử dụng lao động có quyền yêu cầu người lao động làm thêm giờ vào bất kỳ ngày nào mà không bị giới hạn về số giờ làm thêm theo quy định tại Điều 107 của Bộ luật này và người lao động không được từ chối trong trường hợp sau đây:
+
+1. Thực hiện lệnh động viên, huy động bảo đảm nhiệm vụ quốc phòng, an ninh theo quy định của pháp luật",Yes,24.714778670032185
+q-551,Luật sư không có nghĩa vụ thực hiện trợ giúp pháp lý.,d) Thực hiện trợ giúp pháp lý,No,9.434060222981554
+q-293,"Trong bộ luật dân sự năm 2015 đã chỉ rõ, di chúc là sự thể hiện ý chí cá nhân nhằm để lại di sản của mình cho người khác sau khi chết.","Di chúc
+
+Di chúc là sự thể hiện ý chí của cá nhân nhằm chuyển tài sản của mình cho người khác sau khi chết.",Yes,4.274133647855029
+q-437,"Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 1 ngày lương theo mức lương tối thiểu vùng và phụ cấp tàu xe, lưu trú (nếu có).","Thù lao và chi phí cho luật sư trong trường hợp luật sư tham gia tố tụng theo yêu cầu của cơ quan tiến hành tố tụng
+
+1. Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 01 ngày làm việc của luật sư là 0,4 lần mức lương cơ sở do Chính phủ quy định",No,31.49352603681186
+q-424,Công ty luật hợp danh có thể chuyển đổi sang hình thức văn phòng luật sư.,"Chuyển đổi công ty luật trách nhiệm hữu hạn và công ty luật hợp danh
+
+1. Công ty luật trách nhiệm hữu hạn một thành viên có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn hai thành viên trở lên. Công ty luật trách nhiệm hữu hạn hai thành viên trở lên có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn một thành viên. Công ty luật trách nhiệm hữu hạn có thể chuyển đổi sang hình thức công ty luật hợp danh. Công ty luật hợp danh có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn",No,11.811316952009538
+q-484,Luật sư hướng dẫn tập sự hành nghề luật sư phải không trong thời gian bị áp dụng các hình thức xử lý kỉ luật theo quy định của Điều lệ của Liên đoàn luật sư Việt Nam.,3. Không trong thời gian bị áp dụng các hình thức xử lý kỷ luật theo quy định của Điều lệ của Liên đoàn luật sư Việt Nam,Yes,17.363428035145816
+q-357,Đất đai thuộc sở hữu cá nhân.,"Sở hữu đất đai
+
+Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý. Nhà nước trao quyền sử dụng đất cho người sử dụng đất theo quy định của Luật này.",No,1.1781265824215787
+q-312,Công dân nữ được phép có nhiều hơn một chồng.,"2. Hôn nhân giữa công dân Việt Nam thuộc các dân tộc, tôn giáo, giữa người theo tôn giáo với người không theo tôn giáo, giữa người có tín ngưỡng với người không có tín ngưỡng, giữa công dân Việt Nam với người nước ngoài được tôn trọng và được pháp luật bảo vệ",No,4.049514292242426
+q-242,"Nơi cư trú của người chưa thành niên là nơi người đó thường xuyên sinh sống mà không cần sự đồng ý của cha, mẹ.","Nơi cư trú của người chưa thành niên
+
+1. Nơi cư trú của người chưa thành niên là nơi cư trú của cha, mẹ; nếu cha, mẹ có nơi cư trú khác nhau thì nơi cư trú của người chưa thành niên là nơi cư trú của cha hoặc mẹ mà người chưa thành niên thường xuyên chung sống",No,5.607009427469882
+q-563,Luật sư không được phép hướng dẫn người tập sự nào.,"3. Người tập sự hành nghề luật sư được giúp luật sư hướng dẫn trong hoạt động nghề nghiệp nhưng không được đại diện, bào chữa, bảo vệ quyền và lợi ích hợp pháp cho khách hàng tại phiên tòa, không được ký văn bản tư vấn pháp luật",No,4.194908310176758
+q-366,Bộ Tư pháp chịu trách nhiệm trước Chính phủ trong việc thống nhất quản lý nhà nước về đất đai.,2. Bộ Tài nguyên và Môi trường chịu trách nhiệm trước Chính phủ trong việc thống nhất quản lý nhà nước về đất đai,No,6.566700252909786
+q-380,"Chính phủ phê duyệt quy hoạch, kế hoạch sử dụng đất cấp tỉnh; quy hoạch, kế hoạch sử dụng đất quốc phòng; quy hoạch, kế hoạch sử dụng đất an ninh.","2. Chính phủ phê duyệt quy hoạch, kế hoạch sử dụng đất cấp tỉnh; quy hoạch, kế hoạch sử dụng đất quốc phòng; quy hoạch, kế hoạch sử dụng đất an ninh",Yes,8.313660479967576
+q-315,"Kết hôn là việc nam và nữ, hoặc nam và nam, hoặc nữ và nữ xác lập quan hệ vợ chồng với nhau theo quy định của Luật này về điều kiện kết hôn và đăng ký kết hôn.",5. Kết hôn là việc nam và nữ xác lập quan hệ vợ chồng với nhau theo quy định của Luật này về điều kiện kết hôn và đăng ký kết hôn,No,42.892883462445646
+q-78,"Trường hợp cơ quan, người có trách nhiệm thực hiện việc đăng ký thường trú, đăng ký tạm trú không đúng đối tượng và điều kiện theo quy định của Luật này thì cơ quan đã thực hiện việc đăng ký không được ra quyết định hủy bỏ việc đăng ký đó.","Hủy bỏ đăng ký thường trú, đăng ký tạm trú
+
+Trường hợp cơ quan, người có trách nhiệm thực hiện việc đăng ký thường trú, đăng ký tạm trú không đúng thẩm quyền, không đúng đối tượng và điều kiện theo quy định của Luật này thì cơ quan đã thực hiện việc đăng ký hoặc thủ trưởng cấp trên trực tiếp của cơ quan đã đăng ký có trách nhiệm ra quyết định hủy bỏ việc đăng ký đó. Cơ quan đã đăng ký có trách nhiệm thông báo bằng văn bản cho người đăng ký và nêu rõ lý do.",No,14.238394520957625
+q-26,"Giáo dục nghề nghiệp đào tạo trình độ sơ cấp, trình độ trung cấp, trình độ cao đẳng và chương trình đào tạo nghề nghiệp khác cho người học, đáp ứng nhu cầu nhân lực trực tiếp trong sản xuất, kinh doanh và dịch vụ.","Các trình độ đào tạo giáo dục nghề nghiệp
+
+Giáo dục nghề nghiệp đào tạo trình độ sơ cấp, trình độ trung cấp, trình độ cao đẳng và chương trình đào tạo nghề nghiệp khác cho người học, đáp ứng nhu cầu nhân lực trực tiếp trong sản xuất, kinh doanh và dịch vụ.",Yes,9.322891750536932
+q-580,"Theo quy định của Luật luật sư và văn bản hướng dẫn thi hành, hồ sơ đăng kí tập sự hành nghề luật sư gồm giấy đề nghị đăng kí tập sự hành nghề luật sư; giấy xác nhận của tổ chức hành nghề luật sư về việc nhận tập sự, bản sao Giấy chứng nhận tốt nghiệp đào tạo nghề luật sư hoặc giấy tờ chứng minh được miễn đào tạo nghề luật sư.",c) Bản sao Giấy chứng nhận tốt nghiệp đào tạo nghề luật sư hoặc giấy tờ chứng minh được miễn đào tạo nghề luật sư đối với các trường hợp quy định tại khoản 4 Điều 13 của Luật luật sư,Yes,28.934510875105882
+q-109,Phương án sử dụng lao động nhất định phải được thông báo công khai cho người lao động biết trong thời hạn không quá 15 ngày kể từ ngày phương án sử dụng lao động được thông qua.,"2. Khi xây dựng phương án sử dụng lao động, người sử dụng lao động phải trao đổi ý kiến với tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở. Phương án sử dụng lao động phải được thông báo công khai cho người lao động biết trong thời hạn 15 ngày kể từ ngày được thông qua.",Yes,19.333248403059486
+q-479,Báo cáo quá trình tập sự hành nghề luật sư của người tập sự không cần có xác nhận của tổ chức hành nghề luật sư nhận tập sự.,"2. Báo cáo quá trình tập sự hành nghề luật sư của người tập sự phải có nhận xét, chữ ký của luật sư hướng dẫn theo quy định tại khoản 3 Điều 13 của Thông tư này, xác nhận của tổ chức hành nghề luật sư nhận tập sự và đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.",No,9.569060628344925
+q-460,"Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự được tính theo giờ hoặc tính trọn gói theo vụ việc nhưng mức cao nhất cho một giờ làm việc của luật sư không được vượt quá 0,3 lần mức lương cơ sở do Chính phủ quy định.","Mức trần thù lao luật sư tham gia tố tụng trong vụ án hình sự
+
+1. Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự do khách hàng và văn phòng luật sư, công ty luật thỏa thuận trong hợp đồng dịch vụ pháp lý dựa trên các căn cứ quy định tại Khoản 1 Điều 55 của Luật luật sư và được tính theo giờ hoặc tính trọn gói theo vụ việc, nhưng mức cao nhất cho 01 giờ làm việc của luật sư không được vượt quá 0,3 lần mức lương cơ sở do Chính phủ quy định",Yes,31.215749584204087
+q-175,Người dưới 18 tuổi vẫn có thể nhận án tử hình.,"2. Không áp dụng hình phạt tử hình đối với người dưới 18 tuổi khi phạm tội, phụ nữ có thai, phụ nữ đang nuôi con dưới 36 tháng tuổi hoặc người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử",No,4.283030098523965
+q-496,Người muốn tập sự hành nghề luật sư không phải lựa chọn và thỏa thuận với một luật sư chính thức để tập sự hành nghề luật sư.,"2. Trong trường hợp người muốn tập sự hành nghề luật sư không thỏa thuận được với tổ chức hành nghề luật sư về việc nhận tập sự thì có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự. Trong thời hạn mười ngày, kể từ ngày nhận được đề nghị, Ban chủ nhiệm Đoàn luật sư có trách nhiệm xem xét, phân công một tổ chức hành nghề luật sư nhận người đó vào tập sự; trong trường hợp tổ chức hành nghề luật sư từ chối phải thông báo bằng văn bản cho Đoàn luật sư và nêu rõ lý do",Yes,8.171101951413425
+q-124,Thời hạn của thỏa ước lao động tập thể phải từ 01 năm đến 03 năm. Thời hạn cụ thể do các bên thỏa thuận và ghi trong thỏa ước lao động tập thể.,3. Thỏa ước lao động tập thể có thời hạn từ 01 năm đến 03 năm. Thời hạn cụ thể do các bên thỏa thuận và ghi trong thỏa ước lao động tập thể. Các bên có quyền thỏa thuận thời hạn khác nhau đối với các nội dung của thỏa ước lao động tập thể.,Yes,16.146896425576525
+q-342,"Khi vợ hoặc chồng yêu cầu ly hôn mà hòa giải tại Tòa án không thành thì Tòa án giải quyết cho ly hôn nếu có căn cứ về việc vợ, chồng có hành vi bạo lực gia đình hoặc vi phạm nghiêm trọng quyền, nghĩa vụ của vợ, chồng làm cho hôn nhân lâm vào tình trạng trầm trọng, đời sống chung không thể kéo dài, mục đích của hôn nhân không đạt được.","Ly hôn theo yêu cầu của một bên
+
+1. Khi vợ hoặc chồng yêu cầu ly hôn mà hòa giải tại Tòa án không thành thì Tòa án giải quyết cho ly hôn nếu có căn cứ về việc vợ, chồng có hành vi bạo lực gia đình hoặc vi phạm nghiêm trọng quyền, nghĩa vụ của vợ, chồng làm cho hôn nhân lâm vào tình trạng trầm trọng, đời sống chung không thể kéo dài, mục đích của hôn nhân không đạt được",Yes,29.210173023258193
+q-103,Người lao động có quyền đơn phương chấm dứt hợp đồng lao động nhưng nhất định phải báo trước cho người sử dụng lao động tối thiểu là trước 45 ngày trong trường hợp làm việc theo hợp đồng lao động không xác định thời hạn,"Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
+
+1. Người lao động có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau:
+
+a) Ít nhất 45 ngày nếu làm việc theo hợp đồng lao động không xác định thời hạn",Yes,28.0635882463899
+q-462,Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự được tính từ khi bắt đầu khởi tố cho đến khi bắt đầu phiên tòa sơ thẩm.,"Mức trần thù lao luật sư tham gia tố tụng trong vụ án hình sự
+
+1. Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự do khách hàng và văn phòng luật sư, công ty luật thỏa thuận trong hợp đồng dịch vụ pháp lý dựa trên các căn cứ quy định tại Khoản 1 Điều 55 của Luật luật sư và được tính theo giờ hoặc tính trọn gói theo vụ việc, nhưng mức cao nhất cho 01 giờ làm việc của luật sư không được vượt quá 0,3 lần mức lương cơ sở do Chính phủ quy định",No,10.603613203575328
+q-51,Nơi cư trú của người được giám hộ là nơi cư trú của người giám hộ nếu người giám hộ không phản đối và pháp luật không có có quy định khác.,2. Người được giám hộ có thể có nơi cư trú khác với nơi cư trú của người giám hộ nếu được người giám hộ đồng ý hoặc pháp luật có quy định.,Yes,7.917394093542904
+q-391,Nhà nước thu hồi đất không được bồi thường về đất nếu đất được Nhà nước giao để quản lý.,2. Đất được Nhà nước giao để quản lý,Yes,9.966218545352781
+q-505,Tổ chức hành nghề luật sư nhận tập sự không thể là chi nhánh của tổ chức hành nghề luật sư nước ngoài tại Việt Nam.,"b) Chi nhánh của tổ chức hành nghề luật sư nước ngoài tại Việt Nam; công ty luật nước ngoài tại Việt Nam, chi nhánh của công ty luật nước ngoài tại Việt Nam",No,7.392024356958255
+q-379,"Quốc hội quyết định quy hoạch, kế hoạch sử dụng đất cấp quốc gia.","Thẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất
+
+1. Quốc hội quyết định quy hoạch, kế hoạch sử dụng đất cấp quốc gia",Yes,7.155276552263006
+q-277,Nếu trong quá trình bảo hành có xuất hiện thiệt hại do khuyết tật về kĩ thuật thì bên mua được quyền yêu cầu bồi thường đối với bên bán.,"Bồi thường thiệt hại trong thời hạn bảo hành
+
+1. Ngoài việc yêu cầu thực hiện các biện pháp bảo hành, bên mua có quyền yêu cầu bên bán bồi thường thiệt hại do khuyết tật về kỹ thuật của vật gây ra trong thời hạn bảo hành",Yes,7.692574249608131
+q-230,Người phạm tội không bị cấm đảm nhiệm chức vụ nhất định sau khi đăng ký hộ tịch trái pháp luật.,3. Người phạm tội còn có thể bị cấm đảm nhiệm chức vụ nhất định từ 01 năm đến 05 năm.,No,7.548824610084591
+q-223,Môi giới mại dâm đối với người từ 16 đến 18 tuổi sẽ bị phạt tù từ 3 đến 7 năm.,"2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 03 năm đến 07 năm:
+
+a) Đối với người từ đủ 16 tuổi đến dưới 18 tuổi",Yes,11.716611915118184
+q-381,"Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp thông qua quy hoạch, kế hoạch sử dụng đất cấp tỉnh trước khi trình Chính phủ phê duyệt.","Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp thông qua quy hoạch, kế hoạch sử dụng đất cấp tỉnh trước khi trình Chính phủ phê duyệt",Yes,10.87004672740845
+q-363,"Nhà nước quy định quyền và nghĩa vụ của người sử dụng đất phù hợp với hình thức giao đất, cho thuê đất, công nhận quyền sử dụng đất, nguồn gốc sử dụng đất và nghĩa vụ tài chính của người sử dụng đất.","Nhà nước quy định quyền và nghĩa vụ của người sử dụng đất
+
+Nhà nước quy định quyền và nghĩa vụ của người sử dụng đất phù hợp với hình thức giao đất, cho thuê đất, công nhận quyền sử dụng đất, nguồn gốc sử dụng đất và nghĩa vụ tài chính của người sử dụng đất.",Yes,13.972447375411218
+q-415,Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất 3 năm hành nghề liên tục hoặc 5 năm hành nghề kể từ ngày được cấp thẻ luật sư.,"3. Điều kiện thành lập tổ chức hành nghề luật sư:
+
+a) Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất hai năm hành nghề liên tục làm việc theo hợp đồng lao động cho tổ chức hành nghề luật sư hoặc hành nghề với tư cách cá nhân theo hợp đồng lao động cho cơ quan, tổ chức theo quy định của Luật này",No,14.29046520787744
+q-186,Nếu vu khống người khác phạm tội rất nghiêm trọng hoặc đặc biệt nghiêm trọng sẽ bị phạt tù dưới 1 năm.,h) Vu khống người khác phạm tội rất nghiêm trọng hoặc đặc biệt nghiêm trọng,No,18.775933581403702
+q-178,Thời hiệu thi hành bản án hình sự đối với người bị xử phạt chung thân là 20 năm.,d) 20 năm đối với các trường hợp xử phạt tù chung thân hoặc tử hình,Yes,6.97712989273451
+q-507,"Tổ chức hành nghề luật sư nhận tập sự không thể là công ty luật nước ngoài tại Việt Nam, chi nhánh của công ty luật nước ngoài tại Việt Nam.","b) Chi nhánh của tổ chức hành nghề luật sư nước ngoài tại Việt Nam; công ty luật nước ngoài tại Việt Nam, chi nhánh của công ty luật nước ngoài tại Việt Nam",No,16.19465468074165
+q-167,"Người che giấu tội phạm an ninh quốc gia nếu là ông, bà, cha, mẹ, con, cháu, anh chị em ruột, vợ hoặc chồng của người phạm tội thì không phải chịu trách nhiệm hình sự.","2. Người che giấu tội phạm là ông, bà, cha, mẹ, con, cháu, anh chị em ruột, vợ hoặc chồng của người phạm tội không phải chịu trách nhiệm hình sự theo quy định tại khoản 1 Điều này, trừ trường hợp che giấu các tội xâm phạm an ninh quốc gia hoặc tội đặc biệt nghiêm trọng khác quy định tại Điều 389 của Bộ luật này.",No,11.48938399614702
+q-140,"Mỗi 5 năm làm việc cho cùng người sử dụng lao động, thì người lao động làm việc cho một người sử dụng lao động thì số ngày nghỉ được tăng thêm 1 ngày hàng năm.","Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc
+
+Cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được tăng thêm tương ứng 01 ngày.",Yes,9.027737416463026
+q-139,"Người lao động được nghỉ làm việc, hưởng nguyên lương tối thiểu 20 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.","c) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm",No,17.34142860316514
+q-322,Nam từ đủ 18 tuổi trở lên có thể kết hôn.,"Điều kiện kết hôn
+
+1. Nam, nữ kết hôn với nhau phải tuân theo các điều kiện sau đây:
+
+a) Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên",No,9.532973102584396
+q-65,Thời hạn tạm trú tối đa là hai năm nếu không gia hạn.,"2. Thời hạn tạm trú tối đa là 02 năm và có thể tiếp tục gia hạn nhiều lần
+
+3. Công dân không được đăng ký tạm trú mới tại chỗ ở quy định tại Điều 23 của Luật này.",Yes,4.669837176230584
+q-258,Khi tài sản chung được một trong các chủ sở hữu chung sở hữu toàn bộ thì sở hữu chung sẽ chấm dứt.,2. Một trong số các chủ sở hữu chung được hưởng toàn bộ tài sản chung,Yes,9.114984138721454
+q-584,"Người tập sự hành nghề luật sư được liên hệ với cá nhân, cơ quan, tổ chức để thực hiện việc bào chữa, đại diện, bảo về quyền, lợi ích hợp pháp của khách hàng.","2. Giúp luật sư hướng dẫn thực hiện các công việc quy định tại khoản 3 Điều 14 của Luật luật sư, đồng thời được liên hệ với cá nhân, cơ quan, tổ chức để thực hiện các quyền, nghĩa vụ và các hoạt động có liên quan đến việc bào chữa, đại diện, bảo vệ quyền, lợi ích hợp pháp của khách hàng hoặc hoạt động tư vấn pháp luật",No,12.995047828683605
+q-514,Chi nhánh của công ty luật nước ngoài tại Việt Nam không được nhận người tập sự hành nghề luật sư khi chỉ có sự đồng ý bằng văn bản của Sở Tư pháp nơi Chi nhánh của công ty luật nước ngoài tại Việt Nam đặt trụ sở.,"Chi nhánh của tổ chức hành nghề luật sư Việt Nam, chi nhánh của công ty luật nước ngoài tại Việt Nam được nhận người tập sự hành nghề luật sư khi có ủy quyền bằng văn bản của người đứng đầu tổ chức hành nghề luật sư hoặc Giám đốc công ty luật nước ngoài tại Việt Nam.",Yes,22.261349058050573
+q-64,Thành viên hộ gia đình không được tách hộ để đăng ký thường trú tại cùng một chỗ ở hợp pháp.,"Tách hộ
+
+1. Thành viên hộ gia đình được tách hộ để đăng ký thường trú tại cùng một chỗ ở hợp pháp khi đáp ứng các điều kiện sau đây:
+
+a) Có năng lực hành vi dân sự đầy đủ; trường hợp có nhiều thành viên cùng đăng ký tách hộ để lập thành một hộ gia đình mới thì trong số các thành viên đó có ít nhất một người có năng lực hành vi dân sự đầy đủ",No,13.171062350098651
+q-526,"Theo quy định của Luật Luật sư, thì thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng tư vấn do Bộ Giáo dục và Đào tạo thành lập.",Người được miễn tập sự hành nghề luật sư theo quy định tại khoản 1 Điều 16 của Luật này thì không phải tham dự kiểm tra kết quả tập sự hành nghề luật sư,No,6.249147421183167
+q-252,"Đại diện theo pháp luật của cá nhân chưa thành niên là cha, mẹ hoặc người giám hộ theo bộ luật dân sự quy định.","Đại diện theo pháp luật của cá nhân
+
+1. Cha, mẹ đối với con chưa thành niên",Yes,10.710438018703739
+q-446,"Sở Tư pháp không có thẩm quyền thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài.","2. Bộ Tư pháp quyết định thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài",Yes,7.59361318779756
+q-215,"Người sử dụng trái phép tần số vô tuyến dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh và gây thiệt hại 200.000.000 đồng đến 500.000.000 đồng hoặc chưa được xóa án tích về tội này sẽ có thể bị phạt cải tạo không giam giữ đến 3 năm.","Tội sử dụng trái phép tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh
+
+1. Người nào sử dụng trái phép tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh vào mục đích khác gây thiệt hại từ 200.000.000 đồng đến dưới 500.000.000 đồng hoặc đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt tiền từ 50.000.000 đồng đến 100.000.000 đồng hoặc phạt cải tạo không giam giữ đến 03 năm",Yes,37.16246378915417
+q-32,"Nhà giáo làm nhiệm vụ giảng dạy, giáo dục trong mọi cơ sở giáo dục.","Vị trí, vai trò của nhà giáo
+
+1. Nhà giáo làm nhiệm vụ giảng dạy, giáo dục trong cơ sở giáo dục, trừ cơ sở giáo dục quy định tại điểm c khoản 1 Điều 65 của Luật này",No,4.0313857469148235
+q-369,"Bộ Tài nguyên và Môi trường chỉ đạo, hướng dẫn việc lập bản đồ hành chính các cấp trong phạm vi cả nước và tổ chức thực hiện việc lập bản đồ hành chính toàn quốc, tỉnh, thành phố trực thuộc Trung ương.","2. Việc lập bản đồ hành chính được thực hiện theo quy định sau đây:
+
+a) Bộ Tài nguyên và Môi trường chỉ đạo, hướng dẫn việc lập bản đồ hành chính các cấp trong phạm vi cả nước và tổ chức thực hiện việc lập bản đồ hành chính toàn quốc, tỉnh, thành phố trực thuộc trung ương",Yes,17.37183200072777
+q-39,Ngày 20 tháng 11 hằng năm là ngày Nhà giáo Việt Nam.,"Ngày Nhà giáo Việt Nam
+
+Ngày 20 tháng 11 hằng năm là ngày Nhà giáo Việt Nam.",Yes,3.5069814546502807
+q-200,Nếu vi phạm các quy định sử dụng đất đai và lặp lại 2 lần trở lên thì bị phạt tù 20 năm.,"Tội vi phạm các quy định về sử dụng đất đai
+
+1. Người nào lấn chiếm đất, chuyển quyền sử dụng đất hoặc sử dụng đất trái với các quy định của pháp luật về quản lý và sử dụng đất đai, đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt tiền từ 50.000.000 đồng đến 500.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm",No,10.40684118253519
+q-262,"Nếu chủ sở hữu có bất động sản bị bịt kín bởi các bất động sản của các chủ sở hữu khác và không có đủ lối đi ra đường công cộng, có quyền yêu cầu các chủ sở hữu vây quanh dành cho mình một lối đi hợp lý trên đất của họ. Vị trí, chiều dài, chiều rộng sẽ do chủ sở hữu có bất động sản bị vây bọc đơn phương quyết định.","Quyền về lối đi qua
+
+1. Chủ sở hữu có bất động sản bị vây bọc bởi các bất động sản của các chủ sở hữu khác mà không có hoặc không đủ lối đi ra đường công cộng, có quyền yêu cầu chủ sở hữu bất động sản vây bọc dành cho mình một lối đi hợp lý trên phần đất của họ",No,31.483131300551857
+q-67,Người có quyết định của Tòa án tuyên bố mất tích hoặc đã chết thì bị xóa đăng ký tạm trú.,"Xóa đăng ký tạm trú
+
+1. Người thuộc một trong các trường hợp sau đây thì bị xóa đăng ký tạm trú:
+
+a) Chết; có quyết định của Tòa án tuyên bố mất tích hoặc đã chết",Yes,17.328740898192823
+q-237,Mọi người thành niên đều có đầy đủ năng lực hành vi dân sự.,"2. Người thành niên có năng lực hành vi dân sự đầy đủ, trừ trường hợp quy định tại các điều 22, 23 và 24 của Bộ luật này.",No,3.463640599924989
+q-554,"Luật sư có quyền không tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ nếu muốn.","đ) Tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ",No,15.769692219983725
+q-302,Trong trường hợp người chết không để lại di chúc thì người thừa kế sẽ được xác định thừa kế theo pháp luật,"Những trường hợp thừa kế theo pháp luật
+
+1. Thừa kế theo pháp luật được áp dụng trong trường hợp sau đây:
+
+a) Không có di chúc",Yes,7.206379863780808
+q-555,Luật sư có quyền không tham gia tố tụng trong các vụ án do cơ quan tiến hành tố tụng yêu cầu nếu muốn.,"c) Tham gia tố tụng đầy đủ, kịp thời trong các vụ án do cơ quan tiến hành tố tụng yêu cầu",No,20.101235115895136
+q-377,Kỳ quy hoạch sử dụng đất là 10 năm.,"Kỳ quy hoạch, kế hoạch sử dụng đất
+
+1. Kỳ quy hoạch sử dụng đất là 10 năm",Yes,3.295430192545625
+q-435,Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 8 lần mức lương cơ sở và các khoản phụ cấp khác do Chính phủ quy định.,"Thù lao và chi phí cho luật sư trong trường hợp luật sư tham gia tố tụng theo yêu cầu của cơ quan tiến hành tố tụng
+
+1. Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 01 ngày làm việc của luật sư là 0,4 lần mức lương cơ sở do Chính phủ quy định",No,33.56425917482579
+q-17,"Nhà nước khuyến khích truyền bá tôn giáo, tiến hành các lễ nghi tôn giáo trong cơ sở giáo dục của hệ thống giáo dục quốc dân, cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội và lực lượng vũ trang nhân dân.","Không truyền bá tôn giáo trong cơ sở giáo dục
+
+Không truyền bá tôn giáo, tiến hành các lễ nghi tôn giáo trong cơ sở giáo dục của hệ thống giáo dục quốc dân, cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội và lực lượng vũ trang nhân dân.",No,9.109932294306397
+q-72,"Nội dung khai báo tạm vắng bao gồm họ và tên, số định danh cá nhân hoặc số Chứng minh nhân dân, số hộ chiếu của người khai báo tạm vắng; lý do tạm vắng; thời gian tạm vắng; địa chỉ nơi đến.","4. Nội dung khai báo tạm vắng bao gồm họ và tên, số định danh cá nhân hoặc số Chứng minh nhân dân, số hộ chiếu của người khai báo tạm vắng; lý do tạm vắng; thời gian tạm vắng; địa chỉ nơi đến",Yes,46.8740973162861
+q-472,"Báo cáo quá trình tập sự hành nghề luật sư của người tập sự cần có nhận xét, chữ ký của luật sư hướng dẫn.","2. Báo cáo quá trình tập sự hành nghề luật sư của người tập sự phải có nhận xét, chữ ký của luật sư hướng dẫn theo quy định tại khoản 3 Điều 13 của Thông tư này, xác nhận của tổ chức hành nghề luật sư nhận tập sự và đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.",Yes,8.306460539209489
+q-254,"Theo quy định của Bộ luật dân sự năm 2015, thời điểm bắt đầu của thời hạn được xác định bằng một sự kiện thì được tính từ ngày xảy ra sự kiện đó.",3. Khi thời hạn bắt đầu bằng một sự kiện thì ngày xảy ra sự kiện không được tính mà tính từ ngày tiếp theo liền kề của ngày xảy ra sự kiện đó.,No,11.500355269569077
+q-272,Hợp đồng mua bán tài sản là sự thoả thuận của bên bán quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán theo điều 400 bộ luật dân sự năm 2015.,"Hợp đồng mua bán tài sản
+
+Hợp đồng mua bán tài sản là sự thỏa thuận giữa các bên, theo đó bên bán chuyển quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán",No,18.149790478168498
+q-272,Hợp đồng mua bán tài sản là sự thoả thuận của bên bán quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán theo điều 400 bộ luật dân sự năm 2015.,Trường hợp hợp đồng giao kết bằng lời nói và sau đó được xác lập bằng văn bản thì thời điểm giao kết hợp đồng được xác định theo khoản 3 Điều này.,No,4.363643091943495
+q-104,Người lao động có quyền đơn phương chấm dứt hợp đồng lao động không cần báo trước trong trường hợp được trả đủ lương và trả lương đúng thời hạn.,"b) Không được trả đủ lương hoặc trả lương không đúng thời hạn, trừ trường hợp quy định tại khoản 4 Điều 97 của Bộ luật này",No,19.87918709816465
+q-353,Quan hệ hôn nhân và gia đình có yếu tố nước ngoài được tôn trọng và bảo vệ phù hợp với các quy định của pháp luật Việt Nam và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.,"Bảo vệ quyền, lợi ích hợp pháp của các bên trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài
+
+1. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, quan hệ hôn nhân và gia đình có yếu tố nước ngoài được tôn trọng và bảo vệ phù hợp với các quy định của pháp luật Việt Nam và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên",Yes,16.691248430774944
+q-328,Người chồng là người được phép quyết định việc lựa chọn nơi cư trú.,"Lựa chọn nơi cư trú của vợ chồng
+
+Việc lựa chọn nơi cư trú của vợ chồng do vợ chồng thỏa thuận, không bị ràng buộc bởi phong tục, tập quán, địa giới hành chính.",No,1.5206052401022703
+q-316,"Tảo hôn là việc lấy vợ, lấy chồng khi một bên hoặc cả hai bên đã đủ tuổi kết hôn theo quy định tại Điểm a khoản 1 Điều 8 của Luật này.","8. Tảo hôn là việc lấy vợ, lấy chồng khi một bên hoặc cả hai bên chưa đủ tuổi kết hôn theo quy định tại điểm a khoản 1 Điều 8 của Luật này",No,59.75014600407431
+q-75,"Thực hiện công tác đăng ký cư trú không cần đến chuyên môn, nghiệp vụ.","Người làm công tác đăng ký cư trú
+
+1. Người làm công tác đăng ký cư trú phải được đào tạo, bồi dưỡng chuyên môn, nghiệp vụ phù hợp với nhiệm vụ được giao",No,2.664398101724427
+q-550,"Luật sư không có nghĩa vụ tham gia tố tụng đầy đủ, kịp thời trong các vụ án do cơ quan tiến hành tố tụng yêu cầu.","c) Tham gia tố tụng đầy đủ, kịp thời trong các vụ án do cơ quan tiến hành tố tụng yêu cầu",No,24.300601410022317
+q-119,"Thương lượng tập thể không thành khi thời gian thương lượng tập thể quá 60 ngày kể từ ngày bắt đầu thương lượng, trừ trường hợp các bên có thỏa thuận khác.","2. Thời gian thương lượng tập thể không được quá 90 ngày kể từ ngày bắt đầu thương lượng, trừ trường hợp các bên có thỏa thuận khác",No,21.80681742969726
+q-119,"Thương lượng tập thể không thành khi thời gian thương lượng tập thể quá 60 ngày kể từ ngày bắt đầu thương lượng, trừ trường hợp các bên có thỏa thuận khác.","Thương lượng tập thể không thành
+
+1. Thương lượng tập thể không thành thuộc một trong các trường hợp sau đây:
+
+a) Một bên từ chối thương lượng hoặc không tiến hành thương lượng trong thời hạn quy định tại khoản 1 Điều 70 của Bộ luật này",No,6.052401175439746
+q-547,"Luật sư có nghĩa vụ tham gia tố tụng đầy đủ, kịp thời trong các vụ án do cơ quan tiến hành tố tụng yêu cầu.","c) Tham gia tố tụng đầy đủ, kịp thời trong các vụ án do cơ quan tiến hành tố tụng yêu cầu",Yes,24.300601410022317
+q-455,"Một trong những nghĩa vụ của luật sư là hỗ trợ pháp lý miễn phí cho người nghèo và học tập nâng cao kiến thức chuyên môn, kỹ năng hành nghề theo quy định của Luật luật sư.","c) Hành nghề luật sư, lựa chọn hình thức hành nghề luật sư và hình thức tổ chức hành nghề luật sư theo quy định của Luật này",No,7.735773473651209
+q-359,"Người sử dụng đất thực hiện quyền, nghĩa vụ của mình trong thời hạn sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.","3. Người sử dụng đất thực hiện quyền, nghĩa vụ của mình trong thời hạn sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.",Yes,16.660370467372076
+q-581,"Theo quy định của Luật luật sư và văn bản hướng dẫn thi hành, hồ sơ đăng kí tập sự hành nghề luật sư gồm giấy đề nghị đăng kí tập sự hành nghề luật sư; giấy xác nhận của tổ chức hành nghề luật sư về việc nhận tập sự.",b) Giấy xác nhận của tổ chức hành nghề luật sư về việc nhận tập sự hoặc hợp đồng lao động theo quy định tại khoản 1 Điều 4 của Thông tư này,No,11.452501959958893
+q-360,Người sử dụng đất có quyền thực hiện bất kỳ điều gì trong giới hạn phạm vi đất của mình mà không cần xin phép.,"3. Người sử dụng đất thực hiện quyền, nghĩa vụ của mình trong thời hạn sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.",No,5.50377399428243
+q-360,Người sử dụng đất có quyền thực hiện bất kỳ điều gì trong giới hạn phạm vi đất của mình mà không cần xin phép.,"Nhà nước quyết định mục đích sử dụng đất
+
+Nhà nước quyết định mục đích sử dụng đất thông qua quy hoạch sử dụng đất, kế hoạch sử dụng đất và cho phép chuyển mục đích sử dụng đất.",No,1.94738633659667
+q-308,Mọi thoả thuận của người thừa kế trong họp mặt thừa kế bắt buộc phải lập thành văn bản.,2. Mọi thỏa thuận của những người thừa kế phải được lập thành văn bản.,Yes,7.5207584612185645
+q-356,Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý.,"Sở hữu đất đai
+
+Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý. Nhà nước trao quyền sử dụng đất cho người sử dụng đất theo quy định của Luật này.",Yes,3.959053282788793
+q-38,Nhà giáo có bằng tiến sỹ không được phép dạy giáo dục mầm non.,"Trình độ chuẩn được đào tạo của nhà giáo
+
+1. Trình độ chuẩn được đào tạo của nhà giáo được quy định như sau:
+
+a) Có bằng tốt nghiệp cao đẳng sư phạm trở lên đối với giáo viên mầm non",No,3.6916388106313303
+q-513,Chi nhánh của công ty luật nước ngoài tại Việt Nam không đủ điều kiện nhận được người tập sự hành nghề luật sư khi có sự đồng ý bằng văn bản của Sở Tư pháp nơi Chi nhánh của công ty luật nước ngoài tại Việt Nam đặt trụ sở.,"Chi nhánh của tổ chức hành nghề luật sư Việt Nam, chi nhánh của công ty luật nước ngoài tại Việt Nam được nhận người tập sự hành nghề luật sư khi có ủy quyền bằng văn bản của người đứng đầu tổ chức hành nghề luật sư hoặc Giám đốc công ty luật nước ngoài tại Việt Nam.",Yes,22.261349058050573
+q-414,Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có 4 năm hành nghề kể từ ngày được cấp thẻ luật sư.,"5. Trong thời hạn ba mươi ngày, kể từ ngày được cấp Giấy đăng ký hoạt động, các luật sư thành lập, tham gia thành lập tổ chức hành nghề luật sư không phải là thành viên của Đoàn luật sư nơi có tổ chức hành nghề luật sư phải chuyển về gia nhập Đoàn luật sư nơi có tổ chức hành nghề luật sư hoặc chi nhánh của tổ chức hành nghề luật sư theo quy định tại Điều 20 của Luật này.",No,11.468960297501322
+q-196,"Người nào quảng cáo gian dối về hàng hóa, dịch vụ, đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì có thể bị phạt cải tạo không giam giữ đến 03 năm.","Tội quảng cáo gian dối
+
+1. Người nào quảng cáo gian dối về hàng hóa, dịch vụ, đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng hoặc phạt cải tạo không giam giữ đến 03 năm",Yes,23.822808752124885
+q-214,"Thu lợi bất chính từ việc mua bán, trao đổi tài khoản ngân hàng người khác nhiều hơn 200.000.000 đồng sẽ bị phạt tù dưới 1 năm.","Tội thu thập, tàng trữ, trao đổi, mua bán, công khai hóa trái phép thông tin về tài khoản ngân hàng
+
+1. Người nào thu thập, tàng trữ, trao đổi, mua bán, công khai hóa trái phép thông tin về tài khoản ngân hàng của người khác với số lượng từ 20 tài khoản đến dưới 50 tài khoản hoặc thu lợi bất chính từ 20.000.000 đồng đến dưới 50.000.000 đồng, thì bị phạt tiền từ 20.000.000 đồng đến 100.000.000 đồng hoặc phạt cải tạo không giam giữ đến 03 năm",No,12.939779543611726
+q-132,Thời gian làm việc ban đêm tính từ 10 giờ tối đến 6 giờ sáng ngày hôm sau.,"Giờ làm việc ban đêm
+
+Giờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.",Yes,3.8818399126935104
+q-251,Mục đích của giao dịch dân sự là nghĩa vụ mà chủ thể mong muốn đạt được khi xác lập giao dịch đó.,Mục đích của giao dịch dân sự,No,1.4384103622589042
+q-409,"Người tập sự hành nghề luật sư được đại diện, bào chữa, bảo vệ quyền và lợi ích hợp pháp cho khách hàng tại phiên tòa nếu được tòa án cho phép.","d) Liên hệ với cá nhân, cơ quan, tổ chức để thực hiện các quyền, nghĩa vụ và các hoạt động có liên quan đến việc bào chữa, đại diện, bảo vệ quyền, lợi ích hợp pháp của khách hàng hoặc hoạt động tư vấn pháp luật",No,9.913228170706411
+q-525,"Theo quy định của Luật Luật sư, thì thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng tư vấn do Liên đoàn luật sư Việt Nam thành lập.","2. Liên đoàn luật sư Việt Nam tổ chức kiểm tra kết quả tập sự hành nghề luật sư. Việc kiểm tra kết quả tập sự hành nghề luật sư do Hội đồng kiểm tra kết quả tập sự hành nghề luật sư tiến hành; thành phần Hội đồng gồm Chủ tịch hoặc một Phó Chủ tịch Liên đoàn luật sư Việt Nam làm Chủ tịch, đại diện Ban chủ nhiệm một số Đoàn luật sư và một số luật sư là thành viên. Danh sách thành viên Hội đồng do Chủ tịch Liên đoàn luật sư Việt Nam quyết định",No,7.717801813313379
+q-238,Người chưa đủ mười tám tuổi trở lên không phải là người thành niên.,"Người thành niên
+
+1. Người thành niên là người từ đủ mười tám tuổi trở lên",Yes,4.803643855545814
+q-149,"Bộ Lao động và thương binh xã hội cấp tỉnh quyết định Chương trình an toàn, vệ sinh lao động của địa phương và đưa vào kế hoạch phát triển kinh tế - xã hội.","2. Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp quyết định Chương trình an toàn, vệ sinh lao động của địa phương và đưa vào kế hoạch phát triển kinh tế - xã hội.",No,9.204977368463537
+q-53,"Nơi cư trú của vợ, chồng có thể khác nhau.","2. Vợ, chồng có thể có nơi cư trú khác nhau theo thỏa thuận hoặc theo quy định của pháp luật có liên quan.",Yes,2.991049325649609
+q-498,"Người muốn tập sự hành nghề luật sư có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự trong trường hợp không thỏa thuận được với tổ chức hành nghề luật sư về thu nhập, thù lao trong quá trình tập sự hành nghề luật sư.","2. Trong trường hợp người muốn tập sự hành nghề luật sư không thỏa thuận được với tổ chức hành nghề luật sư về việc nhận tập sự thì có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự. Trong thời hạn mười ngày, kể từ ngày nhận được đề nghị, Ban chủ nhiệm Đoàn luật sư có trách nhiệm xem xét, phân công một tổ chức hành nghề luật sư nhận người đó vào tập sự; trong trường hợp tổ chức hành nghề luật sư từ chối phải thông báo bằng văn bản cho Đoàn luật sư và nêu rõ lý do",No,23.793436765554784
+q-163,"Người đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật Hình Sự có quy định khác.","Tuổi chịu trách nhiệm hình sự
+
+1. Người từ đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật này có quy định khác",Yes,36.41756105497741
+q-62,Mọi chỗ ở đều có thể được đăng ký thường trú mới.,"Địa điểm không được đăng ký thường trú mới
+
+1. Chỗ ở nằm trong địa điểm cấm, khu vực cấm xây dựng hoặc lấn, chiếm hành lang bảo vệ quốc phòng, an ninh, giao thông, thủy lợi, đê điều, năng lượng, mốc giới bảo vệ công trình hạ tầng kỹ thuật, di tích lịch sử - văn hóa đã được xếp hạng, khu vực đã được cảnh báo về nguy cơ lở đất, lũ quét, lũ ống và khu vực bảo vệ công trình khác theo quy định của pháp luật",No,3.532661109698827
+q-201,"Người lợi dụng chức vụ, quyền hạn và cố ý làm thất thoát tiền, hàng cứu trợ từ 100.000.000 đồng đến 300.000.000 đồng có thể sẽ bị phạt cải tạo không giam giữ đến 2 năm.","Tội cố ý làm trái quy định về phân phối tiền, hàng cứu trợ
+
+1. Người nào lợi dụng chức vụ, quyền hạn cố ý làm trái những quy định về phân phối tiền, hàng cứu trợ gây thiệt hại hoặc thất thoát tiền, hàng cứu trợ từ 100.000.000 đồng đến dưới 300.000.000 đồng, thì bị phạt cảnh cáo, phạt tiền từ 50.000.000 đồng đến 200.000.000 đồng hoặc phạt cải tạo không giam giữ đến 02 năm",Yes,24.39236611194119
+q-287,"Theo quy định trong bộ luật dân sự năm 2015, tính từ thời điểm bắt đầu mở thừa kế, những cá nhân là người còn sống sẽ được tính là người thừa kế.","Người thừa kế
+
+Người thừa kế là cá nhân phải là người còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết. Trường hợp người thừa kế theo di chúc không là cá nhân thì phải tồn tại vào thời điểm mở thừa kế.",Yes,5.6956835223511915
+q-350,Con được sinh ra trong thời hạn 365 ngày kể từ thời điểm chấm dứt hôn nhân được coi là con do người vợ có thai trong thời kỳ hôn nhân.,Con được sinh ra trong thời hạn 300 ngày kể từ thời điểm chấm dứt hôn nhân được coi là con do người vợ có thai trong thời kỳ hôn nhân,No,15.393482851949688
+q-41,Lưu trú là việc công dân ở lại một địa điểm không phải nơi thường trú hoặc nơi tạm trú trong thời gian không quá 29 ngày.,6. Lưu trú là việc công dân ở lại một địa điểm không phải nơi thường trú hoặc nơi tạm trú trong thời gian ít hơn 30 ngày,Yes,21.021723716724477
+q-309,"Quy định của điều 658 91/2015/QH13, thứ tự ưu tiên thanh toán của việc mai táng sẽ được thanh toán sau khi đã hoàn thành việc chi trả chi phí cho việc bảo quản di sản.","Thứ tự ưu tiên thanh toán
+
+Các nghĩa vụ tài sản và các khoản chi phí liên quan đến thừa kế được thanh toán theo thứ tự sau đây:
+
+1. Chi phí hợp lý theo tập quán cho việc mai táng",No,12.211036629806628
+q-368,"Công chức địa chính ở xã, phường, thị trấn có trách nhiệm giúp Ủy ban nhân dân cấp xã trong việc quản lý đất đai tại địa phương.","2. Công chức địa chính ở xã, phường, thị trấn có trách nhiệm giúp Ủy ban nhân dân cấp xã trong việc quản lý đất đai tại địa phương.",Yes,9.340336498232842
+q-81,Người lao động có độ tuổi thấp nhất là đủ 15 tuổi trừ một số trường hợp được quy định.,"Độ tuổi lao động tối thiểu của người lao động là đủ 15 tuổi, trừ trường hợp quy định tại Mục 1 Chương XI của Bộ luật này",Yes,18.64785426040396
+q-451,"Theo quy định của Luật Luật sư và văn bản hướng dẫn thi hành, cơ sở đào tạo nghề luật sư là Học viện Tư pháp không thuộc Bộ Tư pháp.","Cơ sở đào tạo nghề luật sư
+
+1. Cơ sở đào tạo nghề luật sư quy định tại Khoản 3 Điều 12 của Luật luật sư bao gồm Học viện Tư pháp thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư thuộc Liên đoàn luật sư Việt Nam",No,14.25911961900535
+q-180,Người mắc bệnh hiểm nghèo có thể được miễn chấp hành hình phạt.,b) Mắc bệnh hiểm nghèo,Yes,6.897659748011163
+q-509,Chi nhánh của công ty luật nước ngoài tại Việt Nam nhận được người tập sự hành nghề luật sư khi có sự đồng ý bằng văn bản của Sở Tư pháp nơi Chi nhánh của công ty luật nước ngoài tại Việt Nam đặt trụ sở.,"Chi nhánh của tổ chức hành nghề luật sư Việt Nam, chi nhánh của công ty luật nước ngoài tại Việt Nam được nhận người tập sự hành nghề luật sư khi có ủy quyền bằng văn bản của người đứng đầu tổ chức hành nghề luật sư hoặc Giám đốc công ty luật nước ngoài tại Việt Nam.",No,22.261349058050573
+q-401,"Khi thực hiện trợ giúp pháp lý cho các khách hàng thuộc đối tượng được hưởng trợ giúp pháp lý, luật sư được nhận tiền hoặc lợi ích khác.","Trợ giúp pháp lý
+
+Trợ giúp pháp lý là việc cung cấp dịch vụ pháp lý miễn phí cho người được trợ giúp pháp lý trong vụ việc trợ giúp pháp lý theo quy định của Luật này, góp phần bảo đảm quyền con người, quyền công dân trong tiếp cận công lý và bình đẳng trước pháp luật.",No,3.0156323538826535
+q-199,"Người vi phạm các quy định về sử dụng đất đai, chưa được xóa án tích và còn tái phạm thì có thể sẽ bị phạt tù từ 6 tháng đến 3 năm.","Tội vi phạm các quy định về sử dụng đất đai
+
+1. Người nào lấn chiếm đất, chuyển quyền sử dụng đất hoặc sử dụng đất trái với các quy định của pháp luật về quản lý và sử dụng đất đai, đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt tiền từ 50.000.000 đồng đến 500.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm",Yes,18.075092405741852
+q-511,Chi nhánh của công ty luật nước ngoài tại Việt Nam nhận được người tập sự hành nghề luật sư khi có sự đồng ý bằng văn bản của Đoàn luật sư nơi Chi nhánh của công ty luật nước ngoài tại Việt Nam đặt trụ sở.,"Chi nhánh của tổ chức hành nghề luật sư Việt Nam, chi nhánh của công ty luật nước ngoài tại Việt Nam được nhận người tập sự hành nghề luật sư khi có ủy quyền bằng văn bản của người đứng đầu tổ chức hành nghề luật sư hoặc Giám đốc công ty luật nước ngoài tại Việt Nam.",No,22.386750927342295
+q-390,"Việc bồi thường khi Nhà nước thu hồi đất phải bảo đảm dân chủ, khách quan, công bằng, công khai, kịp thời và đúng quy định của pháp luật.","3. Việc bồi thường khi Nhà nước thu hồi đất phải bảo đảm dân chủ, khách quan, công bằng, công khai, kịp thời và đúng quy định của pháp luật.",Yes,15.739517119481746
+q-229,Người đăng ký hộ tịch trái phép cho 2 người trở lên sẽ có thể bị phạt từ 3 tháng đến 2 năm tù.,"2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 03 tháng đến 02 năm:
+
+a) Đăng ký, cấp giấy tờ về hộ tịch trái pháp luật cho 02 người trở lên",Yes,9.157223372819669
+q-370,"Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương tổ chức thực hiện việc lập bản đồ hành chính huyện, quận, thị xã, thành phố thuộc tỉnh.","b) Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh) tổ chức thực hiện việc lập bản đồ hành chính huyện, quận, thị xã, thành phố thuộc tỉnh.",Yes,12.55112117259285
+q-42,Chỗ ở hợp pháp buộc phải là bất động sản.,"Giải thích từ ngữ
+
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Chỗ ở hợp pháp là nơi được sử dụng để sinh sống, thuộc quyền sở hữu hoặc quyền sử dụng của công dân, bao gồm nhà ở, tàu, thuyền, phương tiện khác có khả năng di chuyển hoặc chỗ ở khác theo quy định của pháp luật",No,4.84740017278166
+q-324,Nhà nước thừa nhận hôn nhân giữa những người cùng giới tính.,2. Nhà nước không thừa nhận hôn nhân giữa những người cùng giới tính.,No,13.506961933728649
+q-202,"Người cố ý làm trái quy định về phân phối tiền, hàng cứu trợ và gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội sẽ bị phạt dưới 50.000.000 đồng.","Tội cố ý làm trái quy định về phân phối tiền, hàng cứu trợ
+
+1. Người nào lợi dụng chức vụ, quyền hạn cố ý làm trái những quy định về phân phối tiền, hàng cứu trợ gây thiệt hại hoặc thất thoát tiền, hàng cứu trợ từ 100.000.000 đồng đến dưới 300.000.000 đồng, thì bị phạt cảnh cáo, phạt tiền từ 50.000.000 đồng đến 200.000.000 đồng hoặc phạt cải tạo không giam giữ đến 02 năm",No,19.623304984077485
+q-49,"Người chưa thành niên không thể có nơi cư trú khác với nơi cư trú của cha, mẹ.","2. Người chưa thành niên có thể có nơi cư trú khác, với nơi cư trú của cha, mẹ nếu được cha, mẹ đồng ý hoặc pháp luật có quy định.",No,4.368034627443089
+q-295,"Người đủ mười lăm tuổi đến chưa đủ 18 tuổi được phép lập di chúc mà không cần có sự đồng ý của cha mẹ, hoặc người giám hộ","2. Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi được lập di chúc, nếu được cha, mẹ hoặc người giám hộ đồng ý về việc lập di chúc.",No,9.809940201161007
+q-184,Phạm tội với một người và người đó có tỷ lệ thương tổn hơn 61% thì bị phạt đến 10 năm tù.,"3. Phạm tội đối với 02 người trở lên mà tỷ lệ tổn thương cơ thể của mỗi người 61% trở lên, thì bị phạt tù từ 01 năm đến 03 năm.",No,4.874570060311189
+q-289,Quy định tại điều 616 bộ luật dân sự năm 2015 đã chỉ ra rằng cá nhân do người chết chỉ định trong di chúc hoặc do những người thừa kế tiến cử để tiến hành quản lý tài sản của người chết trong quá trình xác định thừa kế sẽ là người quản lý di sản.,"Người quản lý di sản
+
+1. Người quản lý di sản là người được chỉ định trong di chúc hoặc do những người thừa kế thỏa thuận cử ra",Yes,10.227044562797605
+q-577,"Chỉ cần không đăng kí mã số thuế trong thời hạn 1 năm kể từ ngày được cấp Giấy đăng kí hoạt động, tổ chức hành nghề luật sư sẽ bị thu hồi Giấy đăng ký hoạt động.","c) Không đăng ký mã số thuế trong thời hạn 01 năm, kể từ ngày được cấp Giấy đăng ký hoạt động",No,27.35609786523781
+q-481,"Báo cáo quá trình tập sự hành nghề luật sư của người tập sự cần có nhận xét, chữ ký của luật sư hướng dẫn, xác nhận của tổ chức hành nghề luật sư nhận tập sự và đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.","2. Báo cáo quá trình tập sự hành nghề luật sư của người tập sự phải có nhận xét, chữ ký của luật sư hướng dẫn theo quy định tại khoản 3 Điều 13 của Thông tư này, xác nhận của tổ chức hành nghề luật sư nhận tập sự và đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.",Yes,24.44310532389134
+q-128,"Tiền lương bao gồm mức lương theo công việc hoặc chức danh, phụ cấp lương và các khoản bổ sung khác.","Tiền lương
+
+1. Tiền lương là số tiền mà người sử dụng lao động trả cho người lao động theo thỏa thuận để thực hiện công việc, bao gồm mức lương theo công việc hoặc chức danh, phụ cấp lương và các khoản bổ sung khác",Yes,9.173921603813696
+q-283,Thời điểm xác nhận người có tài sản đã từ trần là thời điêm thừa kế của người đó được công bố.,"Thời điểm, địa điểm mở thừa kế
+
+1. Thời điểm mở thừa kế là thời điểm người có tài sản chết. Trường hợp Tòa án tuyên bố một người là đã chết thì thời điểm mở thừa kế là ngày được xác định tại khoản 2 Điều 71 của Bộ luật này",Yes,4.2434068090403345
+q-190,Lừa đảo chiếm đoạt tài sản có tổ chức và từ 50.000.000 đồng đến 200.000.000 đồng sẽ bị phạt tù 2 đến 7 năm.,"Tội lừa đảo chiếm đoạt tài sản
+
+1. Người nào bằng thủ đoạn gian dối chiếm đoạt tài sản của người khác trị giá từ 2.000.000 đồng đến dưới 50.000.000 đồng hoặc dưới 2.000.000 đồng nhưng thuộc một trong các trường hợp sau đây, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm:
+
+a) Đã bị xử phạt vi phạm hành chính về hành vi chiếm đoạt tài sản mà còn vi phạm",Yes,17.591888030291642
+q-269,Bên nhận cầm cố không có nghĩa vụ bồi thường nếu tài sản cầm cố không có thiệt hại.,"Nghĩa vụ của bên nhận cầm cố
+
+1. Bảo quản, giữ gìn tài sản cầm cố; nếu làm mất, thất lạc hoặc hư hỏng tài sản cầm cố thì phải bồi thường thiệt hại cho bên cầm cố",Yes,6.356513565442354
+q-469,"Khi hoàn thành thời gian tập sự hành nghề luật sư, người tập sự có trách nhiệm báo cáo bằng văn bản về quá trình tập sự hành nghề luật sư trong thời gian tập sư cho người đứng đầu tổ chức hành nghề luật sư nhận tập sự và Đoàn luật sư nơi đăng ký tập sự.","Báo cáo quá trình tập sự hành nghề luật sư
+
+1. Khi hoàn thành thời gian tập sự hành nghề luật sư theo quy định tại khoản 1 Điều 6 của Thông tư này, người tập sự có trách nhiệm báo cáo bằng văn bản về quá trình tập sự hành nghề luật sư trong thời gian tập sự cho Đoàn luật sư nơi đăng ký tập sự",No,22.178130158889264
+q-91,"Người sử dụng lao động không được buộc người lao động thực hiện hợp đồng lao động để trả nợ cho người sử dụng lao động trong khi giao kết, thực hiện hợp đồng lao động.",3. Buộc người lao động thực hiện hợp đồng lao động để trả nợ cho người sử dụng lao động.,Yes,8.258747846844289
+q-85,"Người sử dụng lao động phải thực hiện quy định của pháp luật về lao động, việc làm, giáo dục nghề nghiệp, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động; xây dựng và thực hiện các giải pháp phòng, chống quấy rối tình dục tại nơi làm việc.","d) Thực hiện quy định của pháp luật về lao động, việc làm, giáo dục nghề nghiệp, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động; xây dựng và thực hiện các giải pháp phòng, chống quấy rối tình dục tại nơi làm việc",Yes,39.52673113388216
+q-233,Nếu là chỉ huy hoặc là sĩ quan phạm tội đào ngũ thì sẽ bị phạt tù từ 2 đến 7 năm.,"2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 02 năm đến 07 năm:
+
+a) Là chỉ huy hoặc sĩ quan",Yes,15.672065090043768
+q-165,Trường hợp có nhiều hơn 1 người thực hiện hành vi phạm tội gọi là đồng phạm,"Đồng phạm
+
+1. Đồng phạm là trường hợp có hai người trở lên cố ý cùng thực hiện một tội phạm",Yes,5.744191192000419
+q-218,"Tội xâm phạm thi thể, mồ mả, hài cốt vì động cơ đê hèn có thể bị phạt tù từ 02 năm đến 07 năm.","Tội xâm phạm thi thể, mồ mả, hài cốt
+
+1. Người nào đào, phá mồ mả, chiếm đoạt những đồ vật để ở trong mộ, trên mộ hoặc có hành vi khác xâm phạm thi thể, mồ mả, hài cốt, thì bị phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 02 năm",Yes,11.250162437288408
+q-439,"Bộ Kế hoạch và Đầu tư có thẩm quyền thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài.","2. Bộ Tư pháp quyết định thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài",No,8.260487370259687
+q-448,"Theo quy định của Luật Luật sư và văn bản hướng dẫn thi hành, cơ sở đào tạo nghề luật sư là Học viện Tư pháp không thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư thuộc Liên đoàn luật sư Việt Nam.","Cơ sở đào tạo nghề luật sư
+
+1. Cơ sở đào tạo nghề luật sư quy định tại Khoản 3 Điều 12 của Luật luật sư bao gồm Học viện Tư pháp thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư thuộc Liên đoàn luật sư Việt Nam",No,19.749195035489848
+q-47,Nơi cư trú của công dân chỉ bao gồm nơi thường trú.,"Nơi cư trú của công dân
+
+1. Nơi cư trú của công dân bao gồm nơi thường trú, nơi tạm trú",No,2.6478151481670937
+q-473,Báo cáo quá trình tập sự hành nghề luật sư của người tập sự cần có xác nhận của tổ chức hành nghề luật sư nhận tập sự.,"2. Báo cáo quá trình tập sự hành nghề luật sư của người tập sự phải có nhận xét, chữ ký của luật sư hướng dẫn theo quy định tại khoản 3 Điều 13 của Thông tư này, xác nhận của tổ chức hành nghề luật sư nhận tập sự và đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.",Yes,9.569060628344925
+q-90,"Người sử dụng lao động được giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động khi giao kết, thực hiện hợp đồng lao động.","Hành vi người sử dụng lao động không được làm khi giao kết, thực hiện hợp đồng lao động
+
+1. Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động",No,10.479813111174035
+q-404,"Khi thực hiện trợ giúp pháp lý cho các khách hàng thuộc đối tượng được hưởng trợ giúp pháp lý, luật sư được nhận thù lao theo quy định của pháp luật về chế độ công tác phí của cán bộ công chức.","Trợ giúp pháp lý
+
+Trợ giúp pháp lý là việc cung cấp dịch vụ pháp lý miễn phí cho người được trợ giúp pháp lý trong vụ việc trợ giúp pháp lý theo quy định của Luật này, góp phần bảo đảm quyền con người, quyền công dân trong tiếp cận công lý và bình đẳng trước pháp luật.",No,4.454042716141558
+q-332,"Trong trường hợp không có căn cứ để chứng minh tài sản mà vợ, chồng đang có tranh chấp là tài sản riêng của mỗi bên thì tài sản đó được sung công quỹ.","3. Trong trường hợp không có căn cứ để chứng minh tài sản mà vợ, chồng đang có tranh chấp là tài sản riêng của mỗi bên thì tài sản đó được coi là tài sản chung.",No,19.211115821553516
+q-27,Tổ chức và hoạt động giáo dục nghề nghiệp được thực hiện theo quy định của Luật Giáo dục và Luật Giáo dục nghề nghiệp.,"Tổ chức và hoạt động giáo dục nghề nghiệp
+
+Tổ chức và hoạt động giáo dục nghề nghiệp được thực hiện theo quy định của Luật này và Luật Giáo dục nghề nghiệp",Yes,10.632808466959982
+q-417,Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất 4 năm hành nghề liên tục hoặc 5 năm hành nghề kể từ ngày được cấp thẻ luật sư.,"5. Trong thời hạn ba mươi ngày, kể từ ngày được cấp Giấy đăng ký hoạt động, các luật sư thành lập, tham gia thành lập tổ chức hành nghề luật sư không phải là thành viên của Đoàn luật sư nơi có tổ chức hành nghề luật sư phải chuyển về gia nhập Đoàn luật sư nơi có tổ chức hành nghề luật sư hoặc chi nhánh của tổ chức hành nghề luật sư theo quy định tại Điều 20 của Luật này.",No,13.48109330773226
+q-429,Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 1 ngày lương theo mức lương tối thiểu vùng.,"Thù lao và chi phí cho luật sư trong trường hợp luật sư tham gia tố tụng theo yêu cầu của cơ quan tiến hành tố tụng
+
+1. Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 01 ngày làm việc của luật sư là 0,4 lần mức lương cơ sở do Chính phủ quy định",No,31.030615793204166
+q-205,Người dùng vũ lực để uy hiếp tinh thần và buộc người khác sử dụng trái phép chất ma túy thì sẽ bị phạt tù lên đến 50 năm.,"Tội cưỡng bức người khác sử dụng trái phép chất ma túy
+
+1. Người nào dùng vũ lực, đe dọa dùng vũ lực hoặc dùng thủ đoạn khác uy hiếp tinh thần của người khác để buộc họ phải sử dụng trái phép chất ma túy trái với ý muốn của họ, thì bị phạt tù từ 02 năm đến 07 năm",No,23.025360800035383
+q-573,"Tổ chức hành nghề luật sư bị thu hồi Giấy đăng ký hoạt động khi không đăng kí mã số thuế trong thời hạn 1 năm kể từ ngày được cấp Giấy đăng kí hoạt động và không hoạt động tại trụ sở đã đăng kí trong thời hạn 6 tháng liên tục, kể từ ngày được cấp Giấy đăng kí hoạt động.","c) Không đăng ký mã số thuế trong thời hạn 01 năm, kể từ ngày được cấp Giấy đăng ký hoạt động",Yes,44.7943463526284
+q-21,"Giáo dục mầm non là cấp học đầu tiên trong hệ thống giáo dục quốc dân, đặt nền móng cho sự phát triển toàn diện con người Việt Nam, thực hiện việc nuôi dưỡng, chăm sóc, giáo dục trẻ em từ 03 đến 06 tuổi.","Vị trí, vai trò và mục tiêu của giáo dục mầm non
+
+1. Giáo dục mầm non là cấp học đầu tiên trong hệ thống giáo dục quốc dân, đặt nền móng cho sự phát triển toàn diện con người Việt Nam, thực hiện việc nuôi dưỡng, chăm sóc, giáo dục trẻ em từ 03 tháng tuổi đến 06 tuổi",No,14.92507219894069
+q-232,"Người phạm tội sửa chữa và sử dụng giấy chứng nhận, các tài liệu của cơ quan, tổ chức trên 3 lần thì sẽ bị phạt tù dưới 1 năm.","Tội sửa chữa và sử dụng giấy chứng nhận, các tài liệu của cơ quan, tổ chức
+
+1. Người nào sửa chữa, làm sai lệch nội dung hộ chiếu, thị thực, hộ khẩu, hộ tịch, các loại giấy chứng nhận hoặc tài liệu của cơ quan, tổ chức và sử dụng giấy tờ đó thực hiện tội phạm hoặc đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt cảnh cáo, phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm",No,13.449633744060948
+q-2,Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa.,"Tính chất, nguyên lý giáo dục
+
+1. Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lê nin và tư tưởng Hồ Chí Minh làm nền tảng",Yes,5.078233641604244
+q-228,Lôi kéo người khác trốn tránh nghĩa vụ quân sự không bị xử phạt.,"Tội trốn tránh nghĩa vụ quân sự
+
+1. Người nào không chấp hành đúng quy định của pháp luật về đăng ký nghĩa vụ quân sự, không chấp hành lệnh gọi nhập ngũ, lệnh gọi tập trung huấn luyện, đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 02 năm",No,6.451645491851615
+q-508,"Tổ chức hành nghề luật sư nhận tập sự chỉ có thể là công ty luật nước ngoài tại Việt Nam, chi nhánh của công ty luật nước ngoài tại Việt Nam.","b) Chi nhánh của tổ chức hành nghề luật sư nước ngoài tại Việt Nam; công ty luật nước ngoài tại Việt Nam, chi nhánh của công ty luật nước ngoài tại Việt Nam",No,16.19465468074165
+q-116,Người sử dụng lao động phải tổ chức đối thoại tại nơi làm việc mỗi năm tối thiểu một lần.,"2. Người sử dụng lao động phải tổ chức đối thoại tại nơi làm việc trong trường hợp sau đây:
+
+a) Định kỳ ít nhất 01 năm một lần",Yes,11.43144868173245
+q-329,"Vợ, chồng có nghĩa vụ tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhau.","Tôn trọng quyền tự do tín ngưỡng, tôn giáo của vợ, chồng
+
+Vợ, chồng có nghĩa vụ tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhau.",Yes,4.150841331089981
+q-276,"Khi hợp đồng mua bán tài sản xảy ra rủi ro, bên bán sẽ chịu ảnh hưởng của rủi ro với tài sản kể từ khi nhận được tài sản từ bên bán.","Thời điểm chịu rủi ro
+
+1. Bên bán chịu rủi ro đối với tài sản trước khi tài sản được giao cho bên mua, bên mua chịu rủi ro đối với tài sản kể từ thời điểm nhận tài sản, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác",No,4.789527856326545
+q-458,Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự được tính theo số ngày tham gia vụ án.,"Mức trần thù lao luật sư tham gia tố tụng trong vụ án hình sự
+
+1. Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự do khách hàng và văn phòng luật sư, công ty luật thỏa thuận trong hợp đồng dịch vụ pháp lý dựa trên các căn cứ quy định tại Khoản 1 Điều 55 của Luật luật sư và được tính theo giờ hoặc tính trọn gói theo vụ việc, nhưng mức cao nhất cho 01 giờ làm việc của luật sư không được vượt quá 0,3 lần mức lương cơ sở do Chính phủ quy định",No,14.283048869266874
+q-548,Luật sư có nghĩa vụ thực hiện trợ giúp pháp lý.,d) Thực hiện trợ giúp pháp lý,Yes,9.434060222981554
+q-134,"Khoảng thời gian làm việc ngoài thời giờ làm việc bình thường được trả lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc đang làm vào ngày thường, ít nhất bằng 150%, 200% đối với ngày nghỉ hàng tuần, và 300% vào ngày nghỉ lễ tết.","Tiền lương làm thêm giờ, làm việc vào ban đêm
+
+1. Người lao động làm thêm giờ được trả lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc đang làm như sau:
+
+a) Vào ngày thường, ít nhất bằng 150%",Yes,17.982118032217862
+q-450,"Theo quy định của Luật Luật sư và văn bản hướng dẫn thi hành, cơ sở đào tạo nghề luật sư là Học viện Tư pháp không thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư không thuộc Liên đoàn luật sư Việt Nam.","Cơ sở đào tạo nghề luật sư
+
+1. Cơ sở đào tạo nghề luật sư quy định tại Khoản 3 Điều 12 của Luật luật sư bao gồm Học viện Tư pháp thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư thuộc Liên đoàn luật sư Việt Nam",No,19.749195035489848
+q-331,"Tài sản chung của vợ chồng thuộc sở hữu chung hợp nhất, được dùng để bảo đảm nhu cầu của gia đình, thực hiện nghĩa vụ chung của vợ chồng.","2. Tài sản chung của vợ chồng thuộc sở hữu chung hợp nhất, được dùng để bảo đảm nhu cầu của gia đình, thực hiện nghĩa vụ chung của vợ chồng",Yes,17.075207723614042
+q-160,Tội phạm rất nghiêm trọng không phải ngồi tù.,3. Tội phạm rất nghiêm trọng là tội phạm có tính chất và mức độ nguy hiểm cho xã hội rất lớn mà mức cao nhất của khung hình phạt do Bộ luật này quy định đối với tội ấy là từ trên 07 năm đến 15 năm tù,No,2.095534269792883
+q-204,Người chứa chấp việc sử dụng trái phép ma túy và còn tái phạm một cách nguy hiểm thì có thể bị phạt tù dưới 5 năm.,"Tội chứa chấp việc sử dụng trái phép chất ma túy
+
+1. Người nào cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy, nếu không thuộc trường hợp quy định tại Điều 255 của Bộ luật này, thì bị phạt tù từ 02 năm đến 07 năm",No,10.86115341727903
+q-24,Trường trung học cơ sở và trường tiểu học thuộc cơ sở giáo dục phổ thông.,"Cơ sở giáo dục phổ thông
+
+Cơ sở giáo dục phổ thông bao gồm:
+
+1. Trường tiểu học",Yes,4.643204141335392
+q-463,Thời gian phải tập sự hành nghề luật sư của những người tập sự hành nghề luật sư tham gia khóa đào tạo nghề luật sư theo Chương trình khung đào tạo nghề luật sư 6 tháng là 12 tháng.,"Thời gian tập sự hành nghề luật sư
+
+1. Thời gian tập sự hành nghề luật sư là mười hai tháng kể từ ngày Ban chủ nhiệm Đoàn luật sư ra quyết định về việc đăng ký tập sự hành nghề luật sư; người được giảm thời gian tập sự hành nghề luật sư theo quy định tại khoản 2 Điều 16 của Luật luật sư thì thời gian tập sự hành nghề luật sư là bốn tháng; người được giảm thời gian tập sự hành nghề luật sư theo quy định tại khoản 3 Điều 16 của Luật luật sư thì thời gian tập sự hành nghề luật sư là sáu tháng",No,10.039634519277643
+q-125,"Trong thời hạn 90 ngày sau ngày thỏa ước lao động tập thể hết hạn, các bên có thể thương lượng để kéo dài thời hạn của thỏa ước lao động tập thể hoặc ký kết thỏa ước lao động tập thể mới.","Thỏa ước lao động tập thể hết hạn
+
+Trong thời hạn 90 ngày trước ngày thỏa ước lao động tập thể hết hạn, các bên có thể thương lượng để kéo dài thời hạn của thỏa ước lao động tập thể hoặc ký kết thỏa ước lao động tập thể mới. Trường hợp các bên thỏa thuận kéo dài thời hạn của thỏa ước lao động tập thể thì phải lấy ý kiến theo quy định tại Điều 76 của Bộ luật này",No,11.021852329171498
+q-35,Nghỉ hè theo quy định của Chính phủ là quyền của nhà giáo.,5. Được nghỉ hè theo quy định của Chính phủ và các ngày nghỉ khác theo quy định của pháp luật.,Yes,7.362694307625927
+q-207,Lôi kéo người khác sử dụng trái phép ma túy và làm chết 2 người trở lên thì có khả năng sẽ bị phạt tù chung thân,"Tội lôi kéo người khác sử dụng trái phép chất ma túy
+
+1. Người nào rủ rê, dụ dỗ, xúi giục hoặc bằng các thủ đoạn khác nhằm lôi kéo người khác sử dụng trái phép chất ma túy, thì bị phạt tù từ 01 năm đến 05 năm",Yes,14.140519782567925
+q-431,Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 4 ngày lương theo mức lương tối thiểu vùng.,"Thù lao và chi phí cho luật sư trong trường hợp luật sư tham gia tố tụng theo yêu cầu của cơ quan tiến hành tố tụng
+
+1. Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 01 ngày làm việc của luật sư là 0,4 lần mức lương cơ sở do Chính phủ quy định",No,31.030615793204166
+q-243,Người giám hộ phải có năng lực pháp luật dân sự phù hợp với việc giám hộ và có điều kiện cần thiết để thực hiện quyền và nghĩa vụ của người giám hộ.,"2. Có điều kiện cần thiết để thực hiện quyền, nghĩa vụ của người giám hộ.",Yes,6.246125845156255
+q-320,Tập quán không được phép áp dụng vào hôn nhân và gia đình.,"Áp dụng tập quán về hôn nhân và gia đình
+
+1. Trong trường hợp pháp luật không quy định và các bên không có thỏa thuận thì tập quán tốt đẹp thể hiện bản sắc của mỗi dân tộc, không trái với nguyên tắc quy định tại Điều 2 và không vi phạm điều cấm của Luật này được áp dụng",No,5.294177080209464
+q-96,"Thời gian thử việc không quá 60 ngày đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ.","3. Không quá 30 ngày đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ",No,13.023449610339485
+q-333,"Tài sản riêng của vợ, chồng gồm tài sản mà mỗi người có trước khi kết hôn; tài sản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân","Tài sản riêng của vợ, chồng
+
+1. Tài sản riêng của vợ, chồng gồm tài sản mà mỗi người có trước khi kết hôn; tài sản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân; tài sản được chia riêng cho vợ, chồng theo quy định tại các điều 38, 39 và 40 của Luật này; tài sản phục vụ nhu cầu thiết yếu của vợ, chồng và tài sản khác mà theo quy định của pháp luật thuộc sở hữu riêng của vợ, chồng",Yes,11.688104772429133
+q-281,Người hứa thưởng có thể rút lại tuyên bố hứa thưởng trước khi công việc yêu cầu được hoàn thành.,"Rút lại tuyên bố hứa thưởng
+
+Khi chưa đến hạn bắt đầu thực hiện công việc thì người hứa thưởng có quyền rút lại tuyên bố hứa thưởng của mình. Việc rút lại tuyên bố hứa thưởng phải được thực hiện theo cách thức và trên phương tiện mà việc hứa thưởng đã được công bố.",No,4.92536998769093
+q-268,"Theo quy định tại điều 300 Bộ luật dân sự năm 2015, Cầm cố tài sản là việc một bên (sau đây gọi là bên cầm cố) giao tài sản thuộc quyền sở hữu của mình cho bên kia (sau đây gọi là bên nhận cầm cố) để bảo đảm thực hiện nghĩa vụ.","Cầm cố tài sản
+
+Cầm cố tài sản là việc một bên (sau đây gọi là bên cầm cố) giao tài sản thuộc quyền sở hữu của mình cho bên kia (sau đây gọi là bên nhận cầm cố) để bảo đảm thực hiện nghĩa vụ.",No,12.83983622068338
+q-268,"Theo quy định tại điều 300 Bộ luật dân sự năm 2015, Cầm cố tài sản là việc một bên (sau đây gọi là bên cầm cố) giao tài sản thuộc quyền sở hữu của mình cho bên kia (sau đây gọi là bên nhận cầm cố) để bảo đảm thực hiện nghĩa vụ.","2. Trường hợp bên nhận bảo đảm không thông báo về việc xử lý tài sản bảo đảm theo quy định tại khoản 1 Điều này mà gây thiệt hại thì phải bồi thường cho bên bảo đảm, các bên cùng nhận bảo đảm khác.",No,5.705795122207089
+q-494,Người muốn tập sự hành nghề luật sư cần giúp việc cho một luật sư chính thức để tập sự hành nghề luật sư.,"2. Trong trường hợp người muốn tập sự hành nghề luật sư không thỏa thuận được với tổ chức hành nghề luật sư về việc nhận tập sự thì có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự. Trong thời hạn mười ngày, kể từ ngày nhận được đề nghị, Ban chủ nhiệm Đoàn luật sư có trách nhiệm xem xét, phân công một tổ chức hành nghề luật sư nhận người đó vào tập sự; trong trường hợp tổ chức hành nghề luật sư từ chối phải thông báo bằng văn bản cho Đoàn luật sư và nêu rõ lý do",No,5.046989916015255
+q-29,Trình độ tiến sĩ là một cấp đào tạo của giáo dục đại học.,"Các trình độ đào tạo giáo dục đại học
+
+Giáo dục đại học đào tạo trình độ đại học, trình độ thạc sĩ, trình độ tiến sĩ.",Yes,2.112159285187101
+q-198,Nếu số lượng tiền giả có giá trị từ 5.000.000 đồng đến 50.000.000 đồng thì sẽ bị phạt hơn 15 năm tù.,"2. Phạm tội trong trường hợp tiền giả có trị giá tương ứng từ 5.000.000 đồng đến dưới 50.000.000 đồng, thì bị phạt tù từ 05 năm đến 12 năm",No,9.906761944691178
+q-589,"Trong thời gian tập sự, ngoài nghĩa vụ tuân thủ các quy định của pháp luật về luật sư và hành nghề luật sư, người tập sự hành nghề luật sư còn có nghĩa vụ lập nhật ký tập sự, trong đó ghi chép đầy đủ việc thực hiện các công việc trong thời gian tập sự.","6. Lập nhật ký tập sự, trong đó ghi chép đầy đủ việc thực hiện các công việc trong thời gian tập sự theo nội dung của sổ theo dõi quá trình tập sự của người tập sự quy định tại khoản 3 Điều 16 của Thông tư này",Yes,21.48697942682791
+q-588,"Người tập sự hành nghề luật sư không được liên hệ với cá nhân, cơ quan, tổ chức dưới bất kỳ hình thức nào.","2. Giúp luật sư hướng dẫn thực hiện các công việc quy định tại khoản 3 Điều 14 của Luật luật sư, đồng thời được liên hệ với cá nhân, cơ quan, tổ chức để thực hiện các quyền, nghĩa vụ và các hoạt động có liên quan đến việc bào chữa, đại diện, bảo vệ quyền, lợi ích hợp pháp của khách hàng hoặc hoạt động tư vấn pháp luật",No,4.381361227770983
+q-483,"Luật sư hướng dẫn tập sự hành nghề luật sư phải có ít nhất 3 năm kinh nghiệm trong nghề luật sư, có uy tín, trách nhiệm trong công việc hướng dẫn tập sự hành nghề luật sư.","2. Có ít nhất 03 năm kinh nghiệm hành nghề luật sư, có uy tín, trách nhiệm trong việc hướng dẫn tập sự hành nghề luật sư",Yes,15.493179693594664
+q-3,"Giáo dục mầm non bao gồm trình độ đại học, trình độ thạc sĩ và trình độ tiến sĩ.","d) Giáo dục đại học đào tạo trình độ đại học, trình độ thạc sĩ và trình độ tiến sĩ",No,7.946346883958171
+q-60,"Khi tiếp nhận hồ sơ đăng ký thường trú, cơ quan đăng ký cư trú kiểm tra và cấp phiếu tiếp nhận hồ sơ cho người đăng ký.","2. Khi tiếp nhận hồ sơ đăng ký thường trú, cơ quan đăng ký cư trú kiểm tra và cấp phiếu tiếp nhận hồ sơ cho người đăng ký; trường hợp hồ sơ chưa đầy đủ thì hướng dẫn người đăng ký bổ sung hồ sơ",Yes,13.313162437053212
+q-557,"Khi hành nghề, luật sư không được sử dụng thông tin về vụ việc về khách hàng mà mình biết được trong khi hành nghề vào mục đích xâm phạm lợi ích Nhà nước, lợi ích công cộng, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.","2. Luật sư không được sử dụng thông tin về vụ, việc, về khách hàng mà mình biết được trong khi hành nghề vào mục đích xâm phạm lợi ích của Nhà nước, lợi ích công cộng, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân",Yes,19.488365867850284
+q-161,Tội phạm đặc biệt nghiêm trọng có thể phải tử hình.,"4. Tội phạm đặc biệt nghiêm trọng là tội phạm có tính chất và mức độ nguy hiểm cho xã hội đặc biệt lớn mà mức cao nhất của khung hình phạt do Bộ luật này quy định đối với tội ấy là từ trên 15 năm đến 20 năm tù, tù chung thân hoặc tử hình.",Yes,3.286914417694481
+q-310,Quyền sở hữu trí tuệ được xác định theo pháp luật của nước nơi đối tượng quyền sở hữu trí tuệ được yêu cầu bảo hộ.,"Quyền sở hữu trí tuệ
+
+Quyền sở hữu trí tuệ được xác định theo pháp luật của nước nơi đối tượng quyền sở hữu trí tuệ được yêu cầu bảo hộ.",Yes,6.287908155017495
+q-177,Thời hiệu thi hành bản án hình sự đối với người bị xử phạt tù từ 3 đến 15 năm là 5 năm.,3. Thời hiệu thi hành bản án hình sự đối với pháp nhân thương mại là 05 năm,No,8.766751493923838
+q-150,"Người chưa thành niên chưa đủ 13 tuổi chỉ được làm các công việc nghệ thuật, thể dục, thể thao nhưng không làm tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa đủ 13 tuổi và phải có sự đồng ý của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh.","3. Người sử dụng lao động không được tuyển dụng và sử dụng người chưa đủ 13 tuổi làm việc, trừ các công việc nghệ thuật, thể dục, thể thao nhưng không làm tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa đủ 13 tuổi và phải có sự đồng ý của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh",Yes,41.56946080152692
+q-150,"Người chưa thành niên chưa đủ 13 tuổi chỉ được làm các công việc nghệ thuật, thể dục, thể thao nhưng không làm tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa đủ 13 tuổi và phải có sự đồng ý của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh.",4. Người chưa đủ 13 tuổi chỉ được làm các công việc theo quy định tại khoản 3 Điều 145 của Bộ luật này.,Yes,7.191757249356038
+q-241,Nơi cư trú của người thành niên là nơi người đó thường xuyên sinh sống.,"Nơi cư trú của cá nhân
+
+1. Nơi cư trú của cá nhân là nơi người đó thường xuyên sinh sống",Yes,5.407159017835692
+q-253,Người bị hạn chế hành vi dân sự có quyền tự chỉ định người đại diện theo pháp luật của mình.,4. Người do Tòa án chỉ định đối với người bị hạn chế năng lực hành vi dân sự.,No,6.594787217568434
+q-475,"Báo cáo quá trình tập sự hành nghề luật sư của người tập sự chỉ cần có nhận xét, chữ ký của luật sư hướng dẫn.","2. Báo cáo quá trình tập sự hành nghề luật sư của người tập sự phải có nhận xét, chữ ký của luật sư hướng dẫn theo quy định tại khoản 3 Điều 13 của Thông tư này, xác nhận của tổ chức hành nghề luật sư nhận tập sự và đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.",No,8.306460539209489
+q-467,Thời gian phải tập sự hành nghề luật sư của những người tập sự hành nghề luật sư tham gia khóa đào tạo nghề luật sư theo Chương trình khung đào tạo nghề luật sư 6 tháng là 24 tháng.,"Thời gian tập sự hành nghề luật sư
+
+1. Thời gian tập sự hành nghề luật sư là mười hai tháng kể từ ngày Ban chủ nhiệm Đoàn luật sư ra quyết định về việc đăng ký tập sự hành nghề luật sư; người được giảm thời gian tập sự hành nghề luật sư theo quy định tại khoản 2 Điều 16 của Luật luật sư thì thời gian tập sự hành nghề luật sư là bốn tháng; người được giảm thời gian tập sự hành nghề luật sư theo quy định tại khoản 3 Điều 16 của Luật luật sư thì thời gian tập sự hành nghề luật sư là sáu tháng",No,10.039634519277643
+q-84,"Người lao động vừa có quyền đơn phương chấm dứt hợp đồng lao động và cũng có quyền từ chối làm việc nếu có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe trong qua trình thực hiện công việc.","d) Từ chối làm việc nếu có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe trong quá trình thực hiện công việc",Yes,28.961899989001694
+q-389,"Ủy ban nhân dân cấp xã có quyền quyết định thu hồi đất trong trường hợp đất nông nghiệp thuộc quỹ đất công ích của xã, phường, thị trấn.","b) Thu hồi đất nông nghiệp thuộc quỹ đất công ích của xã, phường, thị trấn",No,16.52441907275523
+q-290,"Theo điều 616 bộ luật dân sự năm 2015, cơ quan nhà nước có thẩm quyền sẽ là người quản lý di sản của người chết trong mọi trường hợp.",3. Trường hợp chưa xác định được người thừa kế và di sản chưa có người quản lý theo quy định tại khoản 1 và khoản 2 Điều này thì di sản do cơ quan nhà nước có thẩm quyền quản lý.,No,7.504677411905145
+q-155,"Năm 2022, tuổi nghỉ hưu của người lao động nam trong điều kiện lao động bình thường là đủ 60 tuổi 03 tháng.","Kể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường là đủ 60 tuổi 03 tháng đối với lao động nam và đủ 55 tuổi 04 tháng đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với lao động nam và 04 tháng đối với lao động nữ",No,15.408420894668913
+q-355,Luật Đất đai chỉ được áp dụng đối với người sử dụng đất.,2. Người sử dụng đất,No,2.7753531344913123
+q-436,Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là mức lương cơ sở do Chính phủ quy định.,"Thù lao và chi phí cho luật sư trong trường hợp luật sư tham gia tố tụng theo yêu cầu của cơ quan tiến hành tố tụng
+
+1. Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 01 ngày làm việc của luật sư là 0,4 lần mức lương cơ sở do Chính phủ quy định",No,31.770727731600736
+q-488,Luật sư hướng dẫn tập sự hành nghề luật sư phải đang hành nghề tự do hoặc trong một tổ chức hành nghề luật sư.,"Điều kiện đối với luật sư hướng dẫn
+
+Luật sư hướng dẫn tập sự hành nghề luật sư phải đáp ứng đủ các điều kiện sau đây:
+
+1. Đang hành nghề trong một tổ chức hành nghề luật sư quy định tại khoản 3 Điều 4 của Thông tư này",No,7.901862613765866
+q-195,Ngược đãi người dưới 16 tuổi sẽ bị phạt tù dưới 1 năm.,"2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 02 năm đến 05 năm:
+
+a) Đối với người dưới 16 tuổi, phụ nữ mà biết là có thai, người già yếu",No,8.138022963275345
+q-173,Tù có thời hạn đối với một người phạm tội có mức tối thiểu là dưới 3 tháng.,Tù có thời hạn đối với người phạm một tội có mức tối thiểu là 03 tháng và mức tối đa là 20 năm,No,8.24435639929687
+q-411,Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất 3 năm hành nghề liên tục.,"3. Điều kiện thành lập tổ chức hành nghề luật sư:
+
+a) Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất hai năm hành nghề liên tục làm việc theo hợp đồng lao động cho tổ chức hành nghề luật sư hoặc hành nghề với tư cách cá nhân theo hợp đồng lao động cho cơ quan, tổ chức theo quy định của Luật này",No,11.279270894475527
+q-282,Người hứa thưởng có thể rút lại tuyên bố hứa thưởng trước khi công việc yêu cầu được bắt đầu.,"Rút lại tuyên bố hứa thưởng
+
+Khi chưa đến hạn bắt đầu thực hiện công việc thì người hứa thưởng có quyền rút lại tuyên bố hứa thưởng của mình. Việc rút lại tuyên bố hứa thưởng phải được thực hiện theo cách thức và trên phương tiện mà việc hứa thưởng đã được công bố.",Yes,5.213052060142711
+q-145,Người sử dụng lao động không thể áp dụng hình thức xử lý kỷ luật sa thải đối với người lao động khi xử lý kỷ luật lao động.,"Hình thức xử lý kỷ luật lao động
+
+1. Khiển trách",No,8.611946647413758
+q-559,Mỗi luật sư hướng dẫn chỉ được hướng dẫn không quá ba người tập sự tại cùng một thời điểm.,"Tổ chức hành nghề luật sư phân công luật sư hướng dẫn người tập sự hành nghề luật sư. Luật sư hướng dẫn tập sự phải là người có ít nhất ba năm kinh nghiệm hành nghề luật sư và không thuộc trường hợp đang trong thời gian bị xử lý kỷ luật theo quy định tại khoản 1 Điều 85 của Luật này. Tại cùng một thời điểm, một luật sư không được hướng dẫn quá ba người tập sự",Yes,14.327414371861138
+q-574,"Tổ chức hành nghề luật sư bị thu hồi Giấy đăng ký hoạt động khi không đăng kí mã số thuế trong thời hạn 6 tháng hoặc không hoạt động tại trụ sở đã đăng kí trong thời hạn 6 tháng liên tục, kể từ ngày được cấp Giấy đăng kí hoạt động.","c) Không đăng ký mã số thuế trong thời hạn 01 năm, kể từ ngày được cấp Giấy đăng ký hoạt động",No,29.046646849704686
+q-100,"Trong trường hợp người lao động phải thực hiện nghĩa vụ quân sự, nghĩa vụ tham gia Dân quân tự vệ thì người lao động được tạm hoãn thực hiện hợp đồng lao động. Trong trường hợp đó, người lao động vẫn được hưởng lương và quyền, lợi ích đã giao kết trong hợp đồng lao động, trừ trường hợp hai bên có thỏa thuận khác.","2. Trong thời gian tạm hoãn thực hiện hợp đồng lao động, người lao động không được hưởng lương và quyền, lợi ích đã giao kết trong hợp đồng lao động, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác.",No,35.24281139158735
+q-438,"Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 0,8 ngày lương theo mức lương tối thiểu vùng và phụ cấp tàu xe, lưu trú (nếu có).","Thù lao và chi phí cho luật sư trong trường hợp luật sư tham gia tố tụng theo yêu cầu của cơ quan tiến hành tố tụng
+
+1. Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 01 ngày làm việc của luật sư là 0,4 lần mức lương cơ sở do Chính phủ quy định",No,31.834674959537832
+q-405,"Người tập sự hành nghề luật sư được đại diện, bào chữa, bảo về quyền lợi và lợi ích hợp pháp cho khách hàng tại phiên tòa.","d) Liên hệ với cá nhân, cơ quan, tổ chức để thực hiện các quyền, nghĩa vụ và các hoạt động có liên quan đến việc bào chữa, đại diện, bảo vệ quyền, lợi ích hợp pháp của khách hàng hoặc hoạt động tư vấn pháp luật",No,7.127603303085433
+q-121,Nội dung thỏa ước lao động tập thể không được trái với quy định của pháp luật; khuyến khích có lợi hơn cho người sử dụng lao động so với quy định của pháp luật.,2. Nội dung thỏa ước lao động tập thể không được trái với quy định của pháp luật; khuyến khích có lợi hơn cho người lao động so với quy định của pháp luật.,No,21.273215039039094
+q-297,Di chúc bằng văn bản có tổng cộng 2 loại khác nhau: di chúc bằng văn bản có công chứng và di chúc bằng văn bản có chứng thực được quy định tại điều 628 bộ luật dân sự năm 2015.,3. Di chúc bằng văn bản có công chứng,No,2.844819177473729
+q-210,"Người nào cố ý phát tán, làm lây nhiễm hơn 500 phương tiện điện tử sẽ bị phạt lên đến 50 năm tù.","Tội phát tán chương trình tin học gây hại cho hoạt động của mạng máy tính, mạng viễn thông, phương tiện điện tử
+
+1. Người nào cố ý phát tán chương trình tin học gây hại cho mạng máy tính, mạng viễn thông, phương tiện điện tử thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ 50.000.000 đồng đến 200.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm:
+
+a) Thu lợi bất chính từ 50.000.000 đồng đến dưới 200.000.000 đồng",No,12.003824295192317
+q-288,"Theo quy định trong bộ luật dân sự năm 2015, tính từ thời điểm bắt đầu mở thừa kế, những cá nhân là trẻ được sinh ra và thành thai sau khi người chết để lại tài sản sẽ được tính là người thừa kế.","Người thừa kế
+
+Người thừa kế là cá nhân phải là người còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết. Trường hợp người thừa kế theo di chúc không là cá nhân thì phải tồn tại vào thời điểm mở thừa kế.",No,7.750555468435341
+q-546,"Luật sư có nghĩa vụ tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ.","đ) Tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ",Yes,15.769692219983725
+q-385,"Chính phủ quy định điều kiện của tổ chức, cá nhân hoạt động tư vấn lập quy hoạch, kế hoạch sử dụng đất.","2. Chính phủ quy định điều kiện của tổ chức, cá nhân hoạt động tư vấn lập quy hoạch, kế hoạch sử dụng đất.",Yes,7.216731974022002
+q-434,"Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 0,8 lần mức lương cơ sở và các khoản phụ cấp khác do Chính phủ quy định.","Thù lao và chi phí cho luật sư trong trường hợp luật sư tham gia tố tụng theo yêu cầu của cơ quan tiến hành tố tụng
+
+1. Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 01 ngày làm việc của luật sư là 0,4 lần mức lương cơ sở do Chính phủ quy định",No,34.894880374443154
+q-323,"Nam từ đủ 10 tuổi trở lên, nữ từ đủ 20 tuổi trở lên có thể kết hôn.","Điều kiện kết hôn
+
+1. Nam, nữ kết hôn với nhau phải tuân theo các điều kiện sau đây:
+
+a) Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên",No,17.407501004874533
+q-398,Dịch vụ pháp lý của luật sư không bao gồm hoạt động tham gia tố tụng.,"Dịch vụ pháp lý của luật sư
+
+Dịch vụ pháp lý của luật sư bao gồm tham gia tố tụng, tư vấn pháp luật, đại diện ngoài tố tụng cho khách hàng và các dịch vụ pháp lý khác.",No,2.7672275540599873
+q-7,"Bộ trưởng Bộ Giáo dục và Đào tạo, Bộ trưởng Bộ Lao động - Thương binh và Xã hội, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định việc thực hiện chương trình giáo dục và việc công nhận về giá trị chuyển đổi kết quả học tập trong đào tạo các trình độ của giáo dục đại học, giáo dục nghề nghiệp quy định tại Điều 8 Luật giáo dục.","5. Bộ trưởng Bộ Giáo dục và Đào tạo, Bộ trưởng Bộ Lao động - Thương binh và Xã hội, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định việc thực hiện chương trình giáo dục và việc công nhận về giá trị chuyển đổi kết quả học tập trong đào tạo các trình độ của giáo dục đại học, giáo dục nghề nghiệp quy định tại Điều này.",Yes,47.502104536161106
+q-512,Chi nhánh của công ty luật nước ngoài tại Việt Nam nhận được người tập sự hành nghề luật sư khi có ủy quyền bằng văn bản của Giám đốc công ty luật nước ngoài tại Việt Nam.,"Chi nhánh của tổ chức hành nghề luật sư Việt Nam, chi nhánh của công ty luật nước ngoài tại Việt Nam được nhận người tập sự hành nghề luật sư khi có ủy quyền bằng văn bản của người đứng đầu tổ chức hành nghề luật sư hoặc Giám đốc công ty luật nước ngoài tại Việt Nam.",Yes,25.593606992230708
+q-325,Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng thì phải đăng ký kết hôn.,2. Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng thì phải đăng ký kết hôn.,Yes,11.426193065254962
+q-86,"Các tổ chức có vai trò đại diện, bảo vệ quyền và lợi ích hợp pháp của người sử dụng lao động chỉ bao gồm phòng Thương mại và Công nghiệp Việt Nam, Liên minh Hợp tác xã Việt Nam và các tổ chức đại diện của người sử dụng lao động khác được thành lập theo quy định của pháp luật","4. Phòng Thương mại và Công nghiệp Việt Nam, Liên minh Hợp tác xã Việt Nam và các tổ chức đại diện của người sử dụng lao động khác được thành lập theo quy định của pháp luật có vai trò đại diện, bảo vệ quyền và lợi ích hợp pháp của người sử dụng lao động, tham gia xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định.",Yes,25.0575893147705
+q-407,"Người tập sự hành nghề luật sư được đại diện, bào chữa, bảo vệ quyền và lợi ích hợp pháp cho khách hàng tại phiên tòa nếu được khách hàng đồng ý bằng văn bản.","d) Liên hệ với cá nhân, cơ quan, tổ chức để thực hiện các quyền, nghĩa vụ và các hoạt động có liên quan đến việc bào chữa, đại diện, bảo vệ quyền, lợi ích hợp pháp của khách hàng hoặc hoạt động tư vấn pháp luật",No,10.751535244504108
+q-270,Bên nhận cầm cố được phép cho thuê sử dụng tài sản cầm cố để hưởng lợi tức mà không cần sự đồng ý của bên cầm cố.,"Nghĩa vụ của bên nhận cầm cố
+
+1. Bảo quản, giữ gìn tài sản cầm cố; nếu làm mất, thất lạc hoặc hư hỏng tài sản cầm cố thì phải bồi thường thiệt hại cho bên cầm cố",No,6.419881018358616
+q-549,"Luật sư không có nghĩa vụ tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ.","đ) Tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ",No,15.769692219983725
+q-208,Lôi kéo người đã cai nghiện sử dụng trái phép ma túy có thể bị phạt tù 30 năm.,"Tội lôi kéo người khác sử dụng trái phép chất ma túy
+
+1. Người nào rủ rê, dụ dỗ, xúi giục hoặc bằng các thủ đoạn khác nhằm lôi kéo người khác sử dụng trái phép chất ma túy, thì bị phạt tù từ 01 năm đến 05 năm",No,12.61170760998158
+q-226,Người trên 18 tuổi mua dâm và gây tổn hại trên 61% cơ thể của nạn nhân thì sẽ bị chung thân.,b) Gây tổn hại cho sức khỏe của nạn nhân mà tỷ lệ tổn thương cơ thể 61% trở lên,No,8.822164529604727
+q-395,Dịch vụ pháp lý của luật sư có bao gồm hoạt động đại diện ngoài tố tụng cho khách hàng.,"Dịch vụ pháp lý của luật sư
+
+Dịch vụ pháp lý của luật sư bao gồm tham gia tố tụng, tư vấn pháp luật, đại diện ngoài tố tụng cho khách hàng và các dịch vụ pháp lý khác.",Yes,3.6302737714153297
+q-532,Thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng kiểm tra do Bộ Giáo dục và Đào tạo thành lập.,"2. Liên đoàn luật sư Việt Nam tổ chức kiểm tra kết quả tập sự hành nghề luật sư. Việc kiểm tra kết quả tập sự hành nghề luật sư do Hội đồng kiểm tra kết quả tập sự hành nghề luật sư tiến hành; thành phần Hội đồng gồm Chủ tịch hoặc một Phó Chủ tịch Liên đoàn luật sư Việt Nam làm Chủ tịch, đại diện Ban chủ nhiệm một số Đoàn luật sư và một số luật sư là thành viên. Danh sách thành viên Hội đồng do Chủ tịch Liên đoàn luật sư Việt Nam quyết định",No,5.677771129957165
+q-298,"Trong trường hợp nguy kịch đến tính mạng, cá nhân có thể lập di chúc miệng và sau 2 tháng kể từ ngày di chúc được lập, di chúc sẽ không có hiệu lực khi người lập di chúc còn sống, minh mẫn sáng suốt.","2. Sau 03 tháng, kể từ thời điểm di chúc miệng mà người lập di chúc còn sống, minh mẫn, sáng suốt thì di chúc miệng mặc nhiên bị hủy bỏ.",No,8.293181008456584
+q-275,"Khi hợp đồng mua bán tài sản xảy ra rủi ro, bên mua sẽ chịu ảnh hưởng của rủi ro với tài sản kể từ khi nhận được tài sản từ bên bán.","Thời điểm chịu rủi ro
+
+1. Bên bán chịu rủi ro đối với tài sản trước khi tài sản được giao cho bên mua, bên mua chịu rủi ro đối với tài sản kể từ thời điểm nhận tài sản, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác",Yes,5.051079041666732
+q-510,Chi nhánh của công ty luật nước ngoài tại Việt Nam nhận được người tập sự hành nghề luật sư khi có sự đồng ý bằng văn bản của Liên đoàn luật sư Việt Nam.,"Chi nhánh của tổ chức hành nghề luật sư Việt Nam, chi nhánh của công ty luật nước ngoài tại Việt Nam được nhận người tập sự hành nghề luật sư khi có ủy quyền bằng văn bản của người đứng đầu tổ chức hành nghề luật sư hoặc Giám đốc công ty luật nước ngoài tại Việt Nam.",No,16.805799927537564
+q-491,Người muốn tập sự hành nghề luật sư cần lựa chọn và thỏa thuận với một tổ chức hành nghề luật sư để tập sự hành nghề luật sư.,"Nhận tập sự hành nghề luật sư
+
+1. Người muốn tập sự hành nghề luật sư lựa chọn và thỏa thuận với một tổ chức hành nghề luật sư để tập sự hành nghề luật sư. Tổ chức hành nghề luật sư nhận tập sự cấp Giấy xác nhận về việc nhận tập sự hành nghề luật sư theo mẫu ban hành kèm theo Thông tư này (Mẫu TP-LS-01) và cử luật sư đáp ứng đủ điều kiện theo quy định tại khoản 1 Điều 14 của Luật luật sư và Điều 12 của Thông tư này hướng dẫn người muốn tập sự hành nghề luật sư",Yes,8.196216591324706
+q-392,Nhà nước thu hồi đất luôn phải bồi thường trong mọi trường hợp.,"Trường hợp Nhà nước thu hồi đất không được bồi thường về đất
+
+Nhà nước thu hồi đất không bồi thường về đất trong các trường hợp sau đây:
+
+1. Các trường hợp quy định tại khoản 1 Điều 76 của Luật này",No,4.744992806658046
+q-164,Người phạm tội chưa đạt không phải chịu trách nhiệm hình sự.,Người phạm tội chưa đạt phải chịu trách nhiệm hình sự về tội phạm chưa đạt.,No,4.274289965067349
+q-231,"Người nào sửa chữa, làm sai lệch nội dung hộ chiếu, thị thực, hộ khẩu, hộ tịch, các loại giấy chứng nhận hoặc tài liệu của cơ quan, tổ chức và sử dụng giấy tờ đó thực hiện tội phạm hoặc đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì có thể bị phạt cảnh cáo, phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm.","Tội sửa chữa và sử dụng giấy chứng nhận, các tài liệu của cơ quan, tổ chức
+
+1. Người nào sửa chữa, làm sai lệch nội dung hộ chiếu, thị thực, hộ khẩu, hộ tịch, các loại giấy chứng nhận hoặc tài liệu của cơ quan, tổ chức và sử dụng giấy tờ đó thực hiện tội phạm hoặc đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt cảnh cáo, phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm",Yes,53.56027386287861
+q-527,"Theo quy định của Luật Lao động, thì thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng tư vấn do Bộ Giáo dục và Đào tạo thành lập.",Người được miễn tập sự hành nghề luật sư theo quy định tại khoản 1 Điều 16 của Luật này thì không phải tham dự kiểm tra kết quả tập sự hành nghề luật sư,No,6.113913359226274
+q-235,Năng lực pháp luật dân sự của cá nhân là khả năng của cá nhân có quyền dân sự và nghĩa vụ dân sự.,"Năng lực pháp luật dân sự của cá nhân
+
+1. Năng lực pháp luật dân sự của cá nhân là khả năng của cá nhân có quyền dân sự và nghĩa vụ dân sự",Yes,6.985353306109281
+q-260,"Theo khoản 2 điều 230, với tài sản bị đánh rơi là tài sản thuộc di tích lịch sử - văn hoá theo quy định của Luật di sản văn hoá thì sẽ được thuộc về Nhà nước nếu sau 1 năm không thể xác định được chủ sở hữu.","b) Trường hợp tài sản bị đánh rơi, bị bỏ quên là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa thì tài sản đó thuộc về Nhà nước; người nhặt được tài sản được hưởng một khoản tiền thưởng theo quy định của pháp luật.",Yes,20.17846476230832
+q-531,Thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng kiểm tra do Liên đoàn luật sư Việt Nam thành lập.,"2. Liên đoàn luật sư Việt Nam tổ chức kiểm tra kết quả tập sự hành nghề luật sư. Việc kiểm tra kết quả tập sự hành nghề luật sư do Hội đồng kiểm tra kết quả tập sự hành nghề luật sư tiến hành; thành phần Hội đồng gồm Chủ tịch hoặc một Phó Chủ tịch Liên đoàn luật sư Việt Nam làm Chủ tịch, đại diện Ban chủ nhiệm một số Đoàn luật sư và một số luật sư là thành viên. Danh sách thành viên Hội đồng do Chủ tịch Liên đoàn luật sư Việt Nam quyết định",Yes,7.67224598807186
+q-107,"Khi đơn phương chấm dứt hợp đồng lao động trái pháp luật, người lao động phải bồi thường cho người sử dụng lao động một phần hai tiền lương theo hợp đồng lao động và một khoản tiền ứng với tiền lương theo hợp đồng lao động trong những ngày không báo trước.",2. Phải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp đồng lao động và một khoản tiền tương ứng với tiền lương theo hợp đồng lao động trong những ngày không báo trước,Yes,19.383881995546897
+q-433,Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 4 lần mức lương cơ sở do Chính phủ quy định.,"Thù lao và chi phí cho luật sư trong trường hợp luật sư tham gia tố tụng theo yêu cầu của cơ quan tiến hành tố tụng
+
+1. Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 01 ngày làm việc của luật sư là 0,4 lần mức lương cơ sở do Chính phủ quy định",No,34.09082120810949
+q-12,"Học tập là một trong những quyền của công dân, ngoài ra nó cũng là nghĩa vụ của họ.","Quyền và nghĩa vụ học tập của công dân
+
+1. Học tập là quyền và nghĩa vụ của công dân. Mọi công dân không phân biệt dân tộc, tôn giáo, tín ngưỡng, giới tính, đặc điểm cá nhân, nguồn gốc gia đình, địa vị xã hội, hoàn cảnh kinh tế đều bình đẳng về cơ hội học tập",Yes,5.0363697499417395
+q-225,Người lớn hơn 18 tuổi mua dâm người dưới 18 tuổi và làm tổn hại cơ thể từ 31% đến 60% thì sẽ bị phạt tù từ 3 đến 7 năm.,"Tội mua dâm người dưới 18 tuổi
+
+1. Người nào đủ 18 tuổi trở lên mua dâm người dưới 18 tuổi trừ trường hợp quy định tại điểm b khoản 1 Điều 142 của Bộ luật này, thì bị phạt tù từ 01 năm đến 05 năm",Yes,13.006642168834997
+q-500,Người muốn tập sự hành nghề luật sư có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự trong trường hợp không thỏa thuận được với một luật sư chính thức về việc nhận tập sự.,"2. Trong trường hợp người muốn tập sự hành nghề luật sư không thỏa thuận được với tổ chức hành nghề luật sư về việc nhận tập sự thì có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự. Trong thời hạn mười ngày, kể từ ngày nhận được đề nghị, Ban chủ nhiệm Đoàn luật sư có trách nhiệm xem xét, phân công một tổ chức hành nghề luật sư nhận người đó vào tập sự; trong trường hợp tổ chức hành nghề luật sư từ chối phải thông báo bằng văn bản cho Đoàn luật sư và nêu rõ lý do",No,22.99281880099708
+q-224,Môi giới mại dâm với trẻ từ 13 đến 16 tuổi thì sẽ bị phạt ngồi tù dưới 3 năm.,"3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 07 năm đến 15 năm:
+
+a) Đối với người từ đủ 13 tuổi đến dưới 16 tuổi",No,10.95738212147742
+q-468,"Khi hoàn thành thời gian tập sự hành nghề luật sư, người tập sự có trách nhiệm báo cáo bằng văn bản về quá trình tập sự hành nghề luật sư trong thời gian tập sư cho người đứng đầu tổ chức hành nghề luật sư nhận tập sự.","Báo cáo quá trình tập sự hành nghề luật sư
+
+1. Khi hoàn thành thời gian tập sự hành nghề luật sư theo quy định tại khoản 1 Điều 6 của Thông tư này, người tập sự có trách nhiệm báo cáo bằng văn bản về quá trình tập sự hành nghề luật sư trong thời gian tập sự cho Đoàn luật sư nơi đăng ký tập sự",No,17.959524751960565
+q-14,Nhà nước thực hiện phổ cập giáo dục mầm non cho trẻ em năm tuổi và phổ cập giáo dục THCS.,Nhà nước thực hiện phổ cập giáo dục mầm non cho trẻ em 05 tuổi và phổ cập giáo dục trung học cơ sở,Yes,6.174625811435965
+q-264,"Quyền hưởng dụng là quyền của chủ thể được khai thác công dụng và hưởng hoa lợi, lợi tức đối với tài sản thuộc quyền sở hữu của mình trong một thời hạn nhất định.","Quyền hưởng dụng
+
+Quyền hưởng dụng là quyền của chủ thể được khai thác công dụng và hưởng hoa lợi, lợi tức đối với tài sản thuộc quyền sở hữu của chủ thể khác trong một thời hạn nhất định.",No,7.81598565674189
+q-239,Công dân dưới chín tuổi phải có sự đồng ý của người đó trong việc thay đổi họ.,2. Việc thay đổi họ cho người từ đủ chín tuổi trở lên phải có sự đồng ý của người đó,No,16.554361394612105
+q-341,"Sau khi đã thụ lý đơn yêu cầu ly hôn, Tòa án tiến hành hòa giải theo quy định của pháp luật về tố tụng dân sự.","Hòa giải tại Tòa án
+
+Sau khi đã thụ lý đơn yêu cầu ly hôn, Tòa án tiến hành hòa giải theo quy định của pháp luật về tố tụng dân sự.",Yes,5.301569620897104
+q-111,Tiền lương để tính trợ cấp mất việc làm là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động mất việc làm.,3. Tiền lương để tính trợ cấp mất việc làm là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động mất việc làm,Yes,19.758752263549024
+q-493,Người muốn tập sự hành nghề luật sư cần làm việc cho một tổ chức hành nghề luật sư để tập sự hành nghề luật sư.,"2. Trong trường hợp người muốn tập sự hành nghề luật sư không thỏa thuận được với tổ chức hành nghề luật sư về việc nhận tập sự thì có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự. Trong thời hạn mười ngày, kể từ ngày nhận được đề nghị, Ban chủ nhiệm Đoàn luật sư có trách nhiệm xem xét, phân công một tổ chức hành nghề luật sư nhận người đó vào tập sự; trong trường hợp tổ chức hành nghề luật sư từ chối phải thông báo bằng văn bản cho Đoàn luật sư và nêu rõ lý do",No,5.286738563539893
+q-304,"Theo quy định tại điều 651 bộ luật dân sự năm 2015, những người thuộc hàng thừa kế sau vẫn có quyền hưởng di sản ngay cả khi tồn tại người ở hàng thừa kế thứ nhất vẫn còn sống và đủ điều kiện nhận thừa kế.","3. Những người ở hàng thừa kế sau chỉ được hưởng thừa kế, nếu không còn ai ở hàng thừa kế trước do đã chết, không có quyền hưởng di sản, bị truất quyền hưởng di sản hoặc từ chối nhận di sản.",No,13.388913735854791
+q-33,"Nhiệm vụ của nhà giáo bao gồm việc gương mẫu thực hiện nghĩa vụ công dân, điều lệ nhà trường, quy tắc ứng xử của nhà giáo.","2. Gương mẫu thực hiện nghĩa vụ công dân, điều lệ nhà trường, quy tắc ứng xử của nhà giáo",Yes,12.664424718040307
+q-157,Hội đồng nhân dân có thẩm quyền giải quyết tranh chấp lao động cá nhân.,"Thẩm quyền giải quyết tranh chấp lao động cá nhân
+
+Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động cá nhân bao gồm:
+
+1. Hòa giải viên lao động",No,5.540049575716688
+q-569,Công ty luật trách nhiệm hữu hạn hai thành viên trở lên không thể chuyển đổi sang hình thức Công ty luật trách nhiệm hữu hạn một thành viên.,"Chuyển đổi công ty luật trách nhiệm hữu hạn và công ty luật hợp danh
+
+1. Công ty luật trách nhiệm hữu hạn một thành viên có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn hai thành viên trở lên. Công ty luật trách nhiệm hữu hạn hai thành viên trở lên có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn một thành viên. Công ty luật trách nhiệm hữu hạn có thể chuyển đổi sang hình thức công ty luật hợp danh. Công ty luật hợp danh có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn",No,29.234064586718276
+q-31,Nhà giáo giảng dạy từ trình độ đại học gọi là giảng viên.,"Nhà giáo giảng dạy ở cơ sở giáo dục mầm non, giáo dục phổ thông, cơ sở giáo dục khác, giảng dạy trình độ sơ cấp, trung cấp gọi là giáo viên; nhà giáo giảng dạy từ trình độ cao đẳng trở lên gọi là giảng viên",Yes,6.783299448983578
+q-278,Nếu trong quá trình bảo hành có xuất hiện thiệt hại do khuyết tật về kĩ thuật thì bên bán được quyền khước từ yêu cầu bồi thường đối với bên mua.,"Bồi thường thiệt hại trong thời hạn bảo hành
+
+1. Ngoài việc yêu cầu thực hiện các biện pháp bảo hành, bên mua có quyền yêu cầu bên bán bồi thường thiệt hại do khuyết tật về kỹ thuật của vật gây ra trong thời hạn bảo hành",No,7.692574249608131
+q-19,"Nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học được pháp luật bảo vệ.","Các hành vi bị nghiêm cấm trong cơ sở giáo dục
+
+1. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học",Yes,14.623555526310716
+q-77,"Trường hợp cơ quan, người có trách nhiệm thực hiện việc đăng ký thường trú, đăng ký tạm trú không đúng thẩm quyền thì cơ quan đã thực hiện việc đăng ký hoặc thủ trưởng cấp trên trực tiếp của cơ quan đã đăng ký có trách nhiệm ra quyết định hủy bỏ việc đăng ký đó.","Hủy bỏ đăng ký thường trú, đăng ký tạm trú
+
+Trường hợp cơ quan, người có trách nhiệm thực hiện việc đăng ký thường trú, đăng ký tạm trú không đúng thẩm quyền, không đúng đối tượng và điều kiện theo quy định của Luật này thì cơ quan đã thực hiện việc đăng ký hoặc thủ trưởng cấp trên trực tiếp của cơ quan đã đăng ký có trách nhiệm ra quyết định hủy bỏ việc đăng ký đó. Cơ quan đã đăng ký có trách nhiệm thông báo bằng văn bản cho người đăng ký và nêu rõ lý do.",Yes,15.994376002156809
+q-412,Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất 4 năm hành nghề liên tục.,"3. Điều kiện thành lập tổ chức hành nghề luật sư:
+
+a) Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất hai năm hành nghề liên tục làm việc theo hợp đồng lao động cho tổ chức hành nghề luật sư hoặc hành nghề với tư cách cá nhân theo hợp đồng lao động cho cơ quan, tổ chức theo quy định của Luật này",No,9.95839886486038
+q-294,Người đủ 18 tuổi và có đủ điều kiện thì có quyền lập di chúc mà không cần sự đồng ý của cha mẹ hoặc người giám hộ.,"Người lập di chúc
+
+1. Người thành niên có đủ điều kiện theo quy định tại điểm a khoản 1 Điều 630 của Bộ luật này có quyền lập di chúc để định đoạt tài sản của mình",Yes,5.692665508953835
+q-176,Luật tử hình không áp dụng đối với người 75 tuổi trở lên.,"2. Không áp dụng hình phạt tử hình đối với người dưới 18 tuổi khi phạm tội, phụ nữ có thai, phụ nữ đang nuôi con dưới 36 tháng tuổi hoặc người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử",Yes,7.861458300619313
+q-153,Người sử dụng lao động có quyền yêu cầu giữ giấy tờ tùy thân của lao động là người giúp việc gia đình,3. Giữ giấy tờ tùy thân của người lao động.,No,5.66924334822893
+q-153,Người sử dụng lao động có quyền yêu cầu giữ giấy tờ tùy thân của lao động là người giúp việc gia đình,"Hành vi người sử dụng lao động không được làm khi giao kết, thực hiện hợp đồng lao động
+
+1. Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động",No,4.7296260793716005
+q-428,Công ty luật hợp danh chỉ có thể chuyển đổi sang hình thức văn phòng luật sư.,"Chuyển đổi công ty luật trách nhiệm hữu hạn và công ty luật hợp danh
+
+1. Công ty luật trách nhiệm hữu hạn một thành viên có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn hai thành viên trở lên. Công ty luật trách nhiệm hữu hạn hai thành viên trở lên có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn một thành viên. Công ty luật trách nhiệm hữu hạn có thể chuyển đổi sang hình thức công ty luật hợp danh. Công ty luật hợp danh có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn",No,11.811316952009538
+q-522,"Theo quy định của Luật Luật sư, thì thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng kiểm tra do Liên đoàn luật sư Việt Nam thành lập.","2. Liên đoàn luật sư Việt Nam tổ chức kiểm tra kết quả tập sự hành nghề luật sư. Việc kiểm tra kết quả tập sự hành nghề luật sư do Hội đồng kiểm tra kết quả tập sự hành nghề luật sư tiến hành; thành phần Hội đồng gồm Chủ tịch hoặc một Phó Chủ tịch Liên đoàn luật sư Việt Nam làm Chủ tịch, đại diện Ban chủ nhiệm một số Đoàn luật sư và một số luật sư là thành viên. Danh sách thành viên Hội đồng do Chủ tịch Liên đoàn luật sư Việt Nam quyết định",Yes,7.841838518027576
+q-456,"Một trong những nghĩa vụ của luật sư là trợ giúp pháp lý và tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ theo quy định của Luật luật sư.","đ) Tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ",Yes,15.769692219983725
+q-440,"Bộ Tư pháp có thẩm quyền thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài.","2. Bộ Tư pháp quyết định thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài",Yes,9.778961012303657
+q-129,Mức lương theo công việc hoặc chức danh thường thấp hơn mức lương tối thiểu.,2. Mức lương theo công việc hoặc chức danh không được thấp hơn mức lương tối thiểu,No,7.384301905873801
+q-502,"Tổ chức hành nghề luật sư nhận tập sự có thể là văn phòng luật sư, công ty luật; chi nhánh của văn phòng luật sư, công ty luật.","3. Tổ chức hành nghề luật sư nhận tập sự bao gồm:
+
+a) Văn phòng luật sư, công ty luật; chi nhánh của văn phòng luật sư, công ty luật",Yes,11.87659368622434
+q-465,Thời gian phải tập sự hành nghề luật sư của những người tập sự hành nghề luật sư tham gia khóa đào tạo nghề luật sư theo Chương trình khung đào tạo nghề luật sư 6 tháng là 18 tháng; trường hợp có văn bản xin giảm của Đoàn luật sư thì còn 12 tháng.,"Thời gian tập sự hành nghề luật sư
+
+1. Thời gian tập sự hành nghề luật sư là mười hai tháng kể từ ngày Ban chủ nhiệm Đoàn luật sư ra quyết định về việc đăng ký tập sự hành nghề luật sư; người được giảm thời gian tập sự hành nghề luật sư theo quy định tại khoản 2 Điều 16 của Luật luật sư thì thời gian tập sự hành nghề luật sư là bốn tháng; người được giảm thời gian tập sự hành nghề luật sư theo quy định tại khoản 3 Điều 16 của Luật luật sư thì thời gian tập sự hành nghề luật sư là sáu tháng",No,16.11932712675004
+q-284,"Khi thừa kế được công bố, địa điểm mở thừa kế là bất kì nơi nào trong trường hợp không tìm thấy nơi cư trú cuối cùng của người có tài sản.",2. Địa điểm mở thừa kế là nơi cư trú cuối cùng của người để lại di sản; nếu không xác định được nơi cư trú cuối cùng thì địa điểm mở thừa kế là nơi có toàn bộ di sản hoặc nơi có phần lớn di sản.,No,7.42901457356535
+q-442,"Sở Tư pháp có thẩm quyền thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài.","2. Bộ Tư pháp quyết định thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài",No,7.59361318779756
+q-474,"Báo cáo quá trình tập sự hành nghề luật sư của người tập sự cần có đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.","2. Báo cáo quá trình tập sự hành nghề luật sư của người tập sự phải có nhận xét, chữ ký của luật sư hướng dẫn theo quy định tại khoản 3 Điều 13 của Thông tư này, xác nhận của tổ chức hành nghề luật sư nhận tập sự và đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.",Yes,14.630621080557386
+q-358,Đất đai thuộc sở hữu của Nhà nước.,"Sở hữu đất đai
+
+Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý. Nhà nước trao quyền sử dụng đất cho người sử dụng đất theo quy định của Luật này.",No,1.7534907273251403
+q-495,Người muốn tập sự hành nghề luật sư không phải lựa chọn và thỏa thuận với một tổ chức hành nghề luật sư để tập sự hành nghề luật sư.,"2. Trong trường hợp người muốn tập sự hành nghề luật sư không thỏa thuận được với tổ chức hành nghề luật sư về việc nhận tập sự thì có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự. Trong thời hạn mười ngày, kể từ ngày nhận được đề nghị, Ban chủ nhiệm Đoàn luật sư có trách nhiệm xem xét, phân công một tổ chức hành nghề luật sư nhận người đó vào tập sự; trong trường hợp tổ chức hành nghề luật sư từ chối phải thông báo bằng văn bản cho Đoàn luật sư và nêu rõ lý do",No,8.410850598938062
+q-418,"Luật sư hành nghề với tư cách cá nhân là luật sư làm việc theo hợp đồng lao động cho cơ quan, tổ chức là tổ chức hành nghề luật sư.","“ Luật sư hành nghề với tư cách cá nhân
+
+1. Luật sư hành nghề với tư cách cá nhân là luật sư làm việc theo hợp đồng lao động cho cơ quan, tổ chức không phải là tổ chức hành nghề luật sư",No,7.111271636683986
+q-187,"Phạm tội xâm phạm bí mật hoặc an toàn thư tín, điện thoại, điện tín hoặc hình thức trao đổi thông tin riêng tư khác của người khác và làm cho nạn nhân tự sát, thì bị phạt tù từ 1 đến 3 năm.","đ) Hành vi khác xâm phạm bí mật hoặc an toàn thư tín, điện thoại, điện tín, telex, fax hoặc hình thức trao đổi thông tin riêng tư khác của người khác",Yes,22.68536345932442
+q-247,"Động sản không bao gồm đất đai; nhà, công trình xây dựng gắn liền với đất đai; tài sản khác gắn liền với đất đai, nhà, công trình xây dựng; tài sản khác theo quy định của pháp luật.","c) Tài sản khác gắn liền với đất đai, nhà, công trình xây dựng",Yes,13.771159708727135
+q-349,Con sinh ra trong thời kỳ hôn nhân hoặc do người vợ có thai trong thời kỳ hôn nhân là con chung của vợ chồng.,"Xác định cha, mẹ
+
+1. Con sinh ra trong thời kỳ hôn nhân hoặc do người vợ có thai trong thời kỳ hôn nhân là con chung của vợ chồng",Yes,11.650370617808349
+q-209,Thu lợi bất chính từ 50.000.000 đồng đến dưới 200.000.000 đồng khi phát tán chương trình tin học gây hại cho mạng máy tính có thể bị phạt tù từ 6 tháng đến 3 năm.,"Tội phát tán chương trình tin học gây hại cho hoạt động của mạng máy tính, mạng viễn thông, phương tiện điện tử
+
+1. Người nào cố ý phát tán chương trình tin học gây hại cho mạng máy tính, mạng viễn thông, phương tiện điện tử thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ 50.000.000 đồng đến 200.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm:
+
+a) Thu lợi bất chính từ 50.000.000 đồng đến dưới 200.000.000 đồng",Yes,31.340217557290167
+q-419,"Luật sư hành nghề với tư cách cá nhân là luật sư làm việc theo hợp đồng lao động cho cơ quan, tổ chức không phải là tổ chức hành nghề luật sư.","“ Luật sư hành nghề với tư cách cá nhân
+
+1. Luật sư hành nghề với tư cách cá nhân là luật sư làm việc theo hợp đồng lao động cho cơ quan, tổ chức không phải là tổ chức hành nghề luật sư",Yes,8.188561902500783
+q-382,"Chính phủ quyết định quy hoạch, kế hoạch sử dụng đất cấp quốc gia.","Thẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất
+
+1. Quốc hội quyết định quy hoạch, kế hoạch sử dụng đất cấp quốc gia",No,5.351952596661233
+q-28,Tổ chức và hoạt động giáo dục nghề nghiệp được thực hiện chỉ theo quy định của Luật Giáo dục.,"Tổ chức và hoạt động giáo dục nghề nghiệp
+
+Tổ chức và hoạt động giáo dục nghề nghiệp được thực hiện theo quy định của Luật này và Luật Giáo dục nghề nghiệp",No,7.585713583586084
+q-388,"Ủy ban nhân dân cấp tỉnh có quyền quyết định thu hồi đất trong trường hợp đất nông nghiệp thuộc quỹ đất công ích của xã, phường, thị trấn.","b) Thu hồi đất nông nghiệp thuộc quỹ đất công ích của xã, phường, thị trấn",Yes,14.676026591262042
+q-413,Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có 3 năm hành nghề kể từ ngày được cấp thẻ luật sư.,"5. Trong thời hạn ba mươi ngày, kể từ ngày được cấp Giấy đăng ký hoạt động, các luật sư thành lập, tham gia thành lập tổ chức hành nghề luật sư không phải là thành viên của Đoàn luật sư nơi có tổ chức hành nghề luật sư phải chuyển về gia nhập Đoàn luật sư nơi có tổ chức hành nghề luật sư hoặc chi nhánh của tổ chức hành nghề luật sư theo quy định tại Điều 20 của Luật này.",No,11.468960297501322
+q-80,"Bộ Công an quy định chi tiết việc xây dựng, quản lý, sử dụng Cơ sở dữ liệu về cư trú, thông tin trong Cơ sở dữ liệu về cư trú và việc cung cấp, trao đổi thông tin, tài liệu từ Cơ sở dữ liệu về cư trú cho cơ quan, tổ chức, cá nhân.","4. Chính phủ quy định chi tiết việc xây dựng, quản lý, sử dụng Cơ sở dữ liệu về cư trú, thông tin trong Cơ sở dữ liệu về cư trú và việc cung cấp, trao đổi thông tin, tài liệu từ Cơ sở dữ liệu về cư trú cho cơ quan, tổ chức, cá nhân.",No,23.998804974666893
+q-279,Người đã công khai hứa thưởng phải có nghĩa vụ trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng.,"Hứa thưởng
+
+1. Người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng",Yes,10.982175384757934
+q-45,Công dân không có nghĩa vụ nộp lệ phí đăng ký cư trú.,3. Nộp lệ phí đăng ký cư trú theo quy định của pháp luật về phí và lệ phí.,No,3.4762316188475224
+q-130,Người sử dụng lao động trả lương cho người lao động bằng tiền mặt hoặc trả qua tài khoản cá nhân của người lao động được mở tại ngân hàng.,2. Lương được trả bằng tiền mặt hoặc trả qua tài khoản cá nhân của người lao động được mở tại ngân hàng,Yes,12.532831866836629
+q-138,"Vào ngày 01 tháng 01 mỗi năm, người lao động được hưởng nguyên lương và nghỉ làm việc.","Nghỉ lễ, tết
+
+1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây:
+
+a) Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương lịch)",Yes,10.586837567016506
+q-373,"Bộ Tài chính chỉ đạo, hướng dẫn việc lập bản đồ hành chính các cấp trong phạm vi cả nước và tổ chức thực hiện việc lập bản đồ hành chính toàn quốc, tỉnh, thành phố trực thuộc Trung ương","2. Việc lập bản đồ hành chính được thực hiện theo quy định sau đây:
+
+a) Bộ Tài nguyên và Môi trường chỉ đạo, hướng dẫn việc lập bản đồ hành chính các cấp trong phạm vi cả nước và tổ chức thực hiện việc lập bản đồ hành chính toàn quốc, tỉnh, thành phố trực thuộc trung ương",No,14.447273100661926
+q-471,"Khi hoàn thành thời gian tập sự hành nghề luật sư, người tập sự có trách nhiệm báo cáo bằng văn bản về quá trình tập sự hành nghề luật sư trong thời gian tập sự cho Đoàn luật sư và Sở Tư pháp nơi đăng ký tập sự.","Báo cáo quá trình tập sự hành nghề luật sư
+
+1. Khi hoàn thành thời gian tập sự hành nghề luật sư theo quy định tại khoản 1 Điều 6 của Thông tư này, người tập sự có trách nhiệm báo cáo bằng văn bản về quá trình tập sự hành nghề luật sư trong thời gian tập sự cho Đoàn luật sư nơi đăng ký tập sự",No,20.77483242479568
+q-313,Những người không cùng một tôn giáo không được phép kết hôn với nhau.,"2. Hôn nhân giữa công dân Việt Nam thuộc các dân tộc, tôn giáo, giữa người theo tôn giáo với người không theo tôn giáo, giữa người có tín ngưỡng với người không có tín ngưỡng, giữa công dân Việt Nam với người nước ngoài được tôn trọng và được pháp luật bảo vệ",No,9.466304338285482
+q-148,"Trường hợp người lao động gây thiệt hại không nghiêm trọng do sơ suất với giá trị không quá 10 tháng lương tối thiểu vùng do Chính phủ công bố được áp dụng tại nơi người lao động làm việc thì người lao động phải bồi thường nhiều nhất là 03 tháng tiền lương và bị khấu trừ hằng tháng vào lương và không được quá 30% tiền lương thực trả hằng tháng của người lao động sau khi trích nộp các khoản bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp, thuế thu nhập cá nhân.","3. Mức khấu trừ tiền lương hằng tháng không được quá 30% tiền lương thực trả hằng tháng của người lao động sau khi trích nộp các khoản bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp, thuế thu nhập cá nhân.",Yes,30.667699356649102
+q-148,"Trường hợp người lao động gây thiệt hại không nghiêm trọng do sơ suất với giá trị không quá 10 tháng lương tối thiểu vùng do Chính phủ công bố được áp dụng tại nơi người lao động làm việc thì người lao động phải bồi thường nhiều nhất là 03 tháng tiền lương và bị khấu trừ hằng tháng vào lương và không được quá 30% tiền lương thực trả hằng tháng của người lao động sau khi trích nộp các khoản bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp, thuế thu nhập cá nhân.",Trường hợp người lao động gây thiệt hại không nghiêm trọng do sơ suất với giá trị không quá 10 tháng lương tối thiểu vùng do Chính phủ công bố được áp dụng tại nơi người lao động làm việc thì người lao động phải bồi thường nhiều nhất là 03 tháng tiền lương và bị khấu trừ hằng tháng vào lương theo quy định tại khoản 3 Điều 102 của Bộ luật này,Yes,43.023746945586076
+q-6,Phương pháp giáo dục phải bồi dưỡng cho người học ý chí vươn lên.,"2. Phương pháp giáo dục phải khoa học, phát huy tính tích cực, tự giác, chủ động, tư duy sáng tạo của người học; bồi dưỡng cho người học năng lực tự học và hợp tác, khả năng thực hành, lòng say mê học tập và ý chí vươn lên.",Yes,5.14966644199731
+q-344,Hôn nhân chấm dứt kể từ thời điểm 3 năm sau khi vợ hoặc chồng chết.,"Thời điểm chấm dứt hôn nhân
+
+Hôn nhân chấm dứt kể từ thời điểm vợ hoặc chồng chết",No,3.4223665415674667
+q-280,Người đã công khai hứa thưởng phải có nghĩa vụ trả thưởng cho người đã thực hiện công việc theo yêu cầu(bao gồm cả việc vi phạm pháp luật) của người hứa thưởng.,"Hứa thưởng
+
+1. Người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng",No,10.982175384757934
+q-338,"Chồng không có quyền yêu cầu ly hôn trong trường hợp vợ đang có thai, sinh con hoặc đang nuôi con dưới 12 tháng tuổi.","3. Chồng không có quyền yêu cầu ly hôn trong trường hợp vợ đang có thai, sinh con hoặc đang nuôi con dưới 12 tháng tuổi.",Yes,18.604117053035456
+q-593,"Trong thời gian tập sự, ngoài nghĩa vụ tuân thủ các quy định của pháp luật về luật sư và hành nghề luật sư, người tập sự hành nghề luật sư không còn nghĩa vụ nào khác.","Nghĩa vụ của người tập sự
+
+1. Tuân thủ các quy định của pháp luật về luật sư và hành nghề luật sư",No,13.798216328592845
+q-416,Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất 3 năm hành nghề liên tục hoặc 6 năm hành nghề kể từ ngày được cấp thẻ luật sư.,"3. Điều kiện thành lập tổ chức hành nghề luật sư:
+
+a) Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất hai năm hành nghề liên tục làm việc theo hợp đồng lao động cho tổ chức hành nghề luật sư hoặc hành nghề với tư cách cá nhân theo hợp đồng lao động cho cơ quan, tổ chức theo quy định của Luật này",No,14.29046520787744
+q-501,Người muốn tập sự hành nghề luật sư có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự trong trường hợp không có khả năng tài chính để đóng góp cho tổ chức hành nghề luật sư.,"2. Trong trường hợp người muốn tập sự hành nghề luật sư không thỏa thuận được với tổ chức hành nghề luật sư về việc nhận tập sự thì có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự. Trong thời hạn mười ngày, kể từ ngày nhận được đề nghị, Ban chủ nhiệm Đoàn luật sư có trách nhiệm xem xét, phân công một tổ chức hành nghề luật sư nhận người đó vào tập sự; trong trường hợp tổ chức hành nghề luật sư từ chối phải thông báo bằng văn bản cho Đoàn luật sư và nêu rõ lý do",No,20.482323003064348
+q-105,"Trong trường hợp chấm dứt hợp đồng lao động đơn phương theo quy định tại điểm d,e thuộc khoản 1 của điều 36, Bộ luật Lao động 2019 thì người sử dụng lao động không phải báo trước cho người lao động",3. Khi đơn phương chấm dứt hợp đồng lao động quy định tại điểm d và điểm e khoản 1 Điều này thì người sử dụng lao động không phải báo trước cho người lao động.,Yes,24.18972717425272
+q-169,Người vượt quá mức cần thiết khi phòng vệ chính đáng không phải chịu trách nhiệm hình sự.,Người có hành vi vượt quá giới hạn phòng vệ chính đáng phải chịu trách nhiệm hình sự theo quy định của Bộ luật này.,No,7.378696503098159
+q-454,"Một trong những nghĩa vụ của luật sư là cung cấp các dịch vụ pháp lý cho người nghèo và tham gia các hội thảo, hội nghị góp ý các dự án luật.","b) Nghiêm chỉnh chấp hành nội quy và các quy định có liên quan trong quan hệ với các cơ quan tiến hành tố tụng; có thái độ hợp tác, tôn trọng người tiến hành tố tụng mà luật sư tiếp xúc khi hành nghề",No,6.03864036116207
+q-69,"Khi có người đến lưu trú, thành viên hộ gia đình, người đại diện cơ sở chữa bệnh, cơ sở lưu trú du lịch và các cơ sở khác có chức năng lưu trú có trách nhiệm thông báo việc lưu trú với cơ quan đăng ký cư trú.","Thông báo lưu trú
+
+1. Khi có người đến lưu trú, thành viên hộ gia đình, người đại diện cơ sở chữa bệnh, cơ sở lưu trú du lịch và các cơ sở khác có chức năng lưu trú có trách nhiệm thông báo việc lưu trú với cơ quan đăng ký cư trú; trường hợp người đến lưu trú tại chỗ ở của cá nhân, hộ gia đình mà cá nhân, thành viên hộ gia đình không có mặt tại chỗ ở đó thì người đến lưu trú có trách nhiệm thông báo việc, lưu trú với cơ quan đăng ký cư trú",Yes,37.13646846259195
+q-221,Người không hứa hẹn trước nhưng tiêu thụ tài sản từ 100.000.000 đồng đến 300.000.000 đồng do người khác phạm tội mà có thì sẽ bị phạt tù từ 3 đến 7 năm.,"Tội chứa chấp hoặc tiêu thụ tài sản do người khác phạm tội mà có
+
+1. Người nào không hứa hẹn trước mà chứa chấp, tiêu thụ tài sản biết rõ là do người khác phạm tội mà có, thì bị phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm",Yes,25.646524319497995
+q-492,Người muốn tập sự hành nghề luật sư cần lựa chọn và thỏa thuận với một luật sư chính thức để tập sự hành nghề luật sư.,"Nhận tập sự hành nghề luật sư
+
+1. Người muốn tập sự hành nghề luật sư lựa chọn và thỏa thuận với một tổ chức hành nghề luật sư để tập sự hành nghề luật sư. Tổ chức hành nghề luật sư nhận tập sự cấp Giấy xác nhận về việc nhận tập sự hành nghề luật sư theo mẫu ban hành kèm theo Thông tư này (Mẫu TP-LS-01) và cử luật sư đáp ứng đủ điều kiện theo quy định tại khoản 1 Điều 14 của Luật luật sư và Điều 12 của Thông tư này hướng dẫn người muốn tập sự hành nghề luật sư",No,7.974310642913927
+q-44,Nhà nước có chính sách và biện pháp đồng bộ để giới hạn quyền tự do cư trú của công dân.,"Bảo đảm việc thực hiện quyền tự do cư trú của công dân và quản lý cư trú
+
+1. Nhà nước có chính sách và biện pháp đồng bộ để bảo đảm việc thực hiện quyền tự do cư trú của công dân",No,8.28823550294991
+q-452,"Theo quy định của Luật Luật sư và văn bản hướng dẫn thi hành, cơ sở đào tạo nghề luật sư là cơ sở đào tạo nghề luật sư không thuộc Liên đoàn luật sư Việt Nam.","Cơ sở đào tạo nghề luật sư
+
+1. Cơ sở đào tạo nghề luật sư quy định tại Khoản 3 Điều 12 của Luật luật sư bao gồm Học viện Tư pháp thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư thuộc Liên đoàn luật sư Việt Nam",No,12.454055720678674
+q-154,"Năm 2022, tuổi nghỉ hưu của người lao động nam trong điều kiện lao động bình thường là đủ 60 tuổi 06 tháng.","Kể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường là đủ 60 tuổi 03 tháng đối với lao động nam và đủ 55 tuổi 04 tháng đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với lao động nam và 04 tháng đối với lao động nữ",Yes,13.42762663702893
+q-400,Dịch vụ pháp lý của luật sư không bao gồm hoạt động đại diện ngoài tố tụng cho khách hàng.,"Dịch vụ pháp lý của luật sư
+
+Dịch vụ pháp lý của luật sư bao gồm tham gia tố tụng, tư vấn pháp luật, đại diện ngoài tố tụng cho khách hàng và các dịch vụ pháp lý khác.",No,3.6302737714153297
+q-34,"Nhà giáo không có nhiệm vụ phải bảo vệ các quyền, lợi ích chính đáng của người học.","3. Giữ gìn phẩm chất, uy tín, danh dự của nhà giáo; tôn trọng, đối xử công bằng với người học; bảo vệ các quyền, lợi ích chính đáng của người học",No,8.189591862400551
+q-142,Nếu sử dụng từ 10 người lao động trở lên thì nội quy lao động phải được đăng ký tại cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh nơi người sử dụng lao động đăng ký kinh doanh.,"Đăng ký nội quy lao động
+
+1. Người sử dụng lao động sử dụng từ 10 người lao động trở lên phải đăng ký nội quy lao động tại cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh nơi người sử dụng lao động đăng ký kinh doanh",Yes,13.168850195923874
+q-166,Người đồng phạm luôn phải chịu trách nhiệm hình sự tương đương với người thực hiện hành vi tội phạm.,4. Người đồng phạm không phải chịu trách nhiệm hình sự về hành vi vượt quá của người thực hành.,No,7.364624358091068
+q-22,Giáo dục mầm non là cấp học đầu tiên trong hệ thống giáo dục quốc dân.,"Vị trí, vai trò và mục tiêu của giáo dục mầm non
+
+1. Giáo dục mầm non là cấp học đầu tiên trong hệ thống giáo dục quốc dân, đặt nền móng cho sự phát triển toàn diện con người Việt Nam, thực hiện việc nuôi dưỡng, chăm sóc, giáo dục trẻ em từ 03 tháng tuổi đến 06 tuổi",Yes,4.937911353953787
+q-118,"Tiền lương, trợ cấp, nâng lương, thưởng, bữa ăn và các chế độ khác cũng là một nội dung trong thương lượng tập thể.","Nội dung thương lượng tập thể
+
+Các bên thương lượng lựa chọn một hoặc một số nội dung sau để tiến hành thương lượng tập thể:
+
+1. Tiền lương, trợ cấp, nâng lương, thưởng, bữa ăn và các chế độ khác",Yes,19.032161433087445
+q-25,"Giáo dục nghề nghiệp không nhằm đáp ứng nhu cầu nhân lực trực tiếp trong sản xuất, kinh doanh và dịch vụ.","Các trình độ đào tạo giáo dục nghề nghiệp
+
+Giáo dục nghề nghiệp đào tạo trình độ sơ cấp, trình độ trung cấp, trình độ cao đẳng và chương trình đào tạo nghề nghiệp khác cho người học, đáp ứng nhu cầu nhân lực trực tiếp trong sản xuất, kinh doanh và dịch vụ.",No,3.602875478800874
+q-445,"Sở Kế hoạch và Đầu tư không có thẩm quyền thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài.","3. Sở Tư pháp quyết định thu hồi Giấy đăng ký hoạt động của chi nhánh, công ty luật nước ngoài và theo dõi, giám sát chi nhánh, công ty luật nước ngoài trong việc thực hiện các thủ tục quy định tại Khoản 2 và Khoản 3 Điều 39 của Nghị định này.",Yes,7.440279588992673
+q-517,Thời gian tập sự hành nghề luật sư là 12 tháng kể từ ngày đăng ký tập sự tại Tổ chức hành nghề luật sư.,"Thời gian tập sự hành nghề luật sư
+
+1. Thời gian tập sự hành nghề luật sư là mười hai tháng kể từ ngày Ban chủ nhiệm Đoàn luật sư ra quyết định về việc đăng ký tập sự hành nghề luật sư; người được giảm thời gian tập sự hành nghề luật sư theo quy định tại khoản 2 Điều 16 của Luật luật sư thì thời gian tập sự hành nghề luật sư là bốn tháng; người được giảm thời gian tập sự hành nghề luật sư theo quy định tại khoản 3 Điều 16 của Luật luật sư thì thời gian tập sự hành nghề luật sư là sáu tháng",No,11.306770912421179
+q-82,Độ tuổi của người lao động là từ 18 tuổi trừ một số trường hợp được quy định.,"Độ tuổi lao động tối thiểu của người lao động là đủ 15 tuổi, trừ trường hợp quy định tại Mục 1 Chương XI của Bộ luật này",No,14.000600271757985
+q-449,"Theo quy định của Luật Luật sư và văn bản hướng dẫn thi hành, cơ sở đào tạo nghề luật sư là Học viện Tư pháp thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư không thuộc Liên đoàn luật sư Việt Nam.","Cơ sở đào tạo nghề luật sư
+
+1. Cơ sở đào tạo nghề luật sư quy định tại Khoản 3 Điều 12 của Luật luật sư bao gồm Học viện Tư pháp thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư thuộc Liên đoàn luật sư Việt Nam",No,19.749195035489848
+q-562,Mỗi luật sư hướng dẫn được hướng dẫn không giới hạn số lượng người tập sự.,"Tổ chức hành nghề luật sư phân công luật sư hướng dẫn người tập sự hành nghề luật sư. Luật sư hướng dẫn tập sự phải là người có ít nhất ba năm kinh nghiệm hành nghề luật sư và không thuộc trường hợp đang trong thời gian bị xử lý kỷ luật theo quy định tại khoản 1 Điều 85 của Luật này. Tại cùng một thời điểm, một luật sư không được hướng dẫn quá ba người tập sự",No,5.131637026049593
+q-135,"Theo quy định tại khoản 3 Điều 107, Bộ luật Lao động 2019, người sử dụng lao động phải thông báo bằng văn bản cho cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp huyện.","4. Khi tổ chức làm thêm giờ theo quy định tại khoản 3 Điều này, người sử dụng lao động phải thông báo bằng văn bản cho cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh",No,32.08294328355489
+q-453,Một trong những nghĩa vụ của luật sư là không được từ chối các hợp đồng dịch vụ pháp lý đối với người nghèo và phải tham gia các khóa học do Đoàn luật sư tổ chức.,"Quyền, nghĩa vụ của luật sư[18]
+
+1. Luật sư có các quyền sau đây:
+
+a) Được pháp luật bảo đảm quyền hành nghề luật sư theo quy định của Luật này và quy định của pháp luật có liên quan",No,6.668283453859826
+q-544,Chứng chỉ hành nghề luật sư không bị thu hồi khi bị kết án và bản án đã có hiệu lực pháp luật.,i) Bị kết án mà bản án đã có hiệu lực pháp luật,No,17.009568560598375
+q-61,Chỗ ở là nhà ở đã có quyết định phá dỡ của cơ quan nhà nước có thẩm quyền không được đăng ký thường trú mới.,5. Chỗ ở là nhà ở đã có quyết định phá dỡ của cơ quan nhà nước có thẩm quyền.,Yes,11.399679406507984
+q-306,"Trong trường hợp vợ, chồng đang xin ly hôn thì nếu một người chết thì người còn sống không có quyền được thừa kế di sản của người đã chết.","2. Trường hợp vợ, chồng xin ly hôn mà chưa được hoặc đã được Tòa án cho ly hôn bằng bản án hoặc quyết định chưa có hiệu lực pháp luật, nếu một người chết thì người còn sống vẫn được thừa kế di sản",No,6.772353159611313
+q-327,Việc lựa chọn nơi cư trú của vợ chồng do vợ chồng thỏa thuận.,"Lựa chọn nơi cư trú của vợ chồng
+
+Việc lựa chọn nơi cư trú của vợ chồng do vợ chồng thỏa thuận, không bị ràng buộc bởi phong tục, tập quán, địa giới hành chính.",Yes,3.465884015728598
+q-248,"Hợp đồng làm thay đổi quyền, nghĩa vụ dân sự được coi là giao dịch dân sự.","Giao dịch dân sự
+
+Giao dịch dân sự là hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự.",Yes,3.0960070654334513
+q-46,Công dân có nghĩa vụ thực hiện việc đăng ký cư trú theo quy định của Luật cư trú và quy định khác của pháp luật có liên quan.,"Nghĩa vụ của công dân về cư trú
+
+1. Thực hiện việc đăng ký cư trú theo quy định của Luật này và quy định khác của pháp luật có liên quan",Yes,11.133055693238825
+q-59,"Trong thời hạn 07 ngày liên tiếp kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, cơ quan đăng ký cư trú có trách nhiệm thẩm định, cập nhật thông tin về nơi thường trú mới của người đăng ký vào Cơ sở dữ liệu về cư trú và thông báo cho người đăng ký về việc đã cập nhật thông tin đăng ký thường trú; trường hợp từ chối đăng ký thì phải trả lời bằng văn bản và nêu rõ lý do.","3. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, cơ quan đăng ký cư trú có trách nhiệm thẩm định, cập nhật thông tin về nơi thường trú mới của người đăng ký vào Cơ sở dữ liệu về cư trú và thông báo cho người đăng ký về việc đã cập nhật thông tin đăng ký thường trú; trường hợp từ chối đăng ký thì phải trả lời bằng văn bản và nêu rõ lý do",No,41.01846856574618
+q-245,Tài sản bao gồm bất động sản và động sản.,2. Tài sản bao gồm bất động sản và động sản. Bất động sản và động sản có thể là tài sản hiện có và tài sản hình thành trong tương lai.,Yes,3.0127078039846746
+q-108,Việc cho thôi việc đối với người lao động theo quy định tại Điều 42 này chỉ được tiến hành sau khi đã trao đổi ý kiến với tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở mà người lao động là thành viên và thông báo trước 30 ngày cho Ủy ban nhân dân cấp huyện và cho người lao động.,6. Việc cho thôi việc đối với người lao động theo quy định tại Điều này chỉ được tiến hành sau khi đã trao đổi ý kiến với tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở mà người lao động là thành viên và thông báo trước 30 ngày cho Ủy ban nhân dân cấp tỉnh và cho người lao động.,No,61.801364856194034
+q-497,Người muốn tập sự hành nghề luật sư chỉ cần giúp việc cho một tổ chức hành nghề luật sư hoặc một luật sư chính thức để tập sự hành nghề luật sư.,"2. Trong trường hợp người muốn tập sự hành nghề luật sư không thỏa thuận được với tổ chức hành nghề luật sư về việc nhận tập sự thì có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự. Trong thời hạn mười ngày, kể từ ngày nhận được đề nghị, Ban chủ nhiệm Đoàn luật sư có trách nhiệm xem xét, phân công một tổ chức hành nghề luật sư nhận người đó vào tập sự; trong trường hợp tổ chức hành nghề luật sư từ chối phải thông báo bằng văn bản cho Đoàn luật sư và nêu rõ lý do",No,6.17807915103605
+q-457,Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự được tính theo số ngày tham gia tố tụng.,"Mức trần thù lao luật sư tham gia tố tụng trong vụ án hình sự
+
+1. Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự do khách hàng và văn phòng luật sư, công ty luật thỏa thuận trong hợp đồng dịch vụ pháp lý dựa trên các căn cứ quy định tại Khoản 1 Điều 55 của Luật luật sư và được tính theo giờ hoặc tính trọn gói theo vụ việc, nhưng mức cao nhất cho 01 giờ làm việc của luật sư không được vượt quá 0,3 lần mức lương cơ sở do Chính phủ quy định",No,13.28845952090155
+q-212,Đối với người xâm nhập vào mạng máy tính và tổn hại đến dữ liệu bí mật của nhà nước có thể phạt tù từ 7 đến 12 năm.,"Tội xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác
+
+1. Người nào cố ý vượt qua cảnh báo, mã truy cập, tường lửa, sử dụng quyền quản trị của người khác hoặc bằng phương thức khác xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác chiếm quyền điều khiển; can thiệp vào chức năng hoạt động của phương tiện điện tử; lấy cắp, thay đổi, hủy hoại, làm giả dữ liệu hoặc sử dụng trái phép các dịch vụ, thì bị phạt tiền từ 50.000.000 đồng đến 300.000.000 đồng hoặc phạt tù từ 01 năm đến 05 năm",Yes,16.161845467878592
+q-296,Di chúc bằng văn bản có tổng cộng 4 loại khác nhau được quy định tại điều 628 bộ luật dân sự năm 2015.,4. Di chúc bằng văn bản có chứng thực.,Yes,1.8733595076795326
+q-172,Miễn trách nhiệm hình sự đối với người được đại xá.,"3. Người thực hiện tội phạm ít nghiêm trọng hoặc tội phạm nghiêm trọng do vô ý gây thiệt hại về tính mạng, sức khỏe, danh dự, nhân phẩm hoặc tài sản của người khác và được người bị hại hoặc người đại diện của người bị hại tự nguyện hòa giải và đề nghị miễn trách nhiệm hình sự, thì có thể được miễn trách nhiệm hình sự.",Yes,2.6882793963317946
+q-152,"Người lao động chưa thành niên không được làm các công việc như sản xuất, kinh doanh cồn, rượu, bia, thuốc lá, chất tác động đến tinh thần hoặc chất gây nghiện khác hoặc Nấu, thổi, đúc, cán, dập, hàn kim loại.","b) Sản xuất, kinh doanh cồn, rượu, bia, thuốc lá, chất tác động đến tinh thần hoặc chất gây nghiện khác",Yes,32.91631767499531
+q-147,"Phạt tiền, cắt lương thay việc xử lý kỷ luật lao động là được phép trong khi xử lý kỷ luật lao động.","2. Phạt tiền, cắt lương thay việc xử lý kỷ luật lao động",No,8.585063515891884
+q-97,Tiền lương trong thời gian thử việc của người lao động ít nhất phải bằng 85% mức lương của công việc đó,"Tiền lương thử việc
+
+Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận nhưng ít nhất phải bằng 85% mức lương của công việc đó.",Yes,5.507056815505519
+q-386,"Chính phủ không có quyền quy định điều kiện của tổ chức, cá nhân hoạt động tư vấn lập quy hoạch, kế hoạch sử dụng đất.","2. Chính phủ quy định điều kiện của tổ chức, cá nhân hoạt động tư vấn lập quy hoạch, kế hoạch sử dụng đất.",No,7.216731974022002
+q-54,Vợ và chồng luôn có cùng nơi cư trú.,"2. Vợ, chồng có thể có nơi cư trú khác nhau theo thỏa thuận hoặc theo quy định của pháp luật có liên quan.",No,1.7194964851185977
+q-447,"Theo quy định của Luật Luật sư và văn bản hướng dẫn thi hành, cơ sở đào tạo nghề luật sư là Học viện Tư pháp thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư thuộc Liên đoàn luật sư Việt Nam.","Cơ sở đào tạo nghề luật sư
+
+1. Cơ sở đào tạo nghề luật sư quy định tại Khoản 3 Điều 12 của Luật luật sư bao gồm Học viện Tư pháp thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư thuộc Liên đoàn luật sư Việt Nam",Yes,19.749195035489848
+q-523,"Theo quy định của Luật Luật sư, thì thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng kiểm tra do Bộ Giáo dục và Đào tạo thành lập.",Người được miễn tập sự hành nghề luật sư theo quy định tại khoản 1 Điều 16 của Luật này thì không phải tham dự kiểm tra kết quả tập sự hành nghề luật sư,No,6.347262883419955
+q-197,"Người làm, tàng trữ, vận chuyển, lưu hành tiền giả sẽ bị phạt tù từ 03 năm đến 07 năm.","Tội làm, tàng trữ, vận chuyển, lưu hành tiền giả
+
+1. Người nào làm, tàng trữ, vận chuyển, lưu hành tiền giả, thì bị phạt tù từ 03 năm đến 07 năm",Yes,10.92940068787222
+q-259,Khi tài sản chung đã được phân chia cho các chủ sở hữu chung thì sở hữu chung vẫn sẽ tiếp tục được duy trì.,2. Một trong số các chủ sở hữu chung được hưởng toàn bộ tài sản chung,No,6.347959016682616
+q-43,Nhà nước có chính sách và biện pháp đồng bộ để bảo đảm việc thực hiện quyền tự do cư trú của công dân.,"Bảo đảm việc thực hiện quyền tự do cư trú của công dân và quản lý cư trú
+
+1. Nhà nước có chính sách và biện pháp đồng bộ để bảo đảm việc thực hiện quyền tự do cư trú của công dân",Yes,10.393760224981916
+q-420,"Luật sư hành nghề với tư cách cá nhân là luật sư làm việc không ký hợp đồng hoặc không thành lập, tham gia thành lập bất kỳ tổ chức hành nghề luật sư nào.","“ Luật sư hành nghề với tư cách cá nhân
+
+1. Luật sư hành nghề với tư cách cá nhân là luật sư làm việc theo hợp đồng lao động cho cơ quan, tổ chức không phải là tổ chức hành nghề luật sư",No,5.713476933214155
+q-565,Công ty luật trách nhiệm hữu hạn hai thành viên trở lên có thể chuyển đổi sang hình thức Công ty luật hợp danh và Công ty luật trách nhiệm hữu hạn một thành viên.,"Chuyển đổi công ty luật trách nhiệm hữu hạn và công ty luật hợp danh
+
+1. Công ty luật trách nhiệm hữu hạn một thành viên có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn hai thành viên trở lên. Công ty luật trách nhiệm hữu hạn hai thành viên trở lên có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn một thành viên. Công ty luật trách nhiệm hữu hạn có thể chuyển đổi sang hình thức công ty luật hợp danh. Công ty luật hợp danh có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn",Yes,36.37526661643842
+q-591,"Trong thời gian tập sự, ngoài nghĩa vụ tuân thủ các quy định của pháp luật về luật sư và hành nghề luật sư, người tập sự hành nghề luật sư còn có nghĩa vụ lập thời khóa biểu tập sự, trong đó ghi chép đầy đủ số lần tham gia tố tụng, đại diện ngoài tố tụng, tư vấn pháp luật và thực hiện dịch vụ pháp lý khác cho khách hàng.","Nghĩa vụ của người tập sự
+
+1. Tuân thủ các quy định của pháp luật về luật sư và hành nghề luật sư",No,16.466393872282136
+q-560,Mỗi luật sư hướng dẫn chỉ được hướng dẫn không quá năm người tập sự tại cùng một thời điểm.,"Tổ chức hành nghề luật sư phân công luật sư hướng dẫn người tập sự hành nghề luật sư. Luật sư hướng dẫn tập sự phải là người có ít nhất ba năm kinh nghiệm hành nghề luật sư và không thuộc trường hợp đang trong thời gian bị xử lý kỷ luật theo quy định tại khoản 1 Điều 85 của Luật này. Tại cùng một thời điểm, một luật sư không được hướng dẫn quá ba người tập sự",No,13.547555361948444
+q-545,"Chứng chỉ hành nghề luật sư không bị thu hồi khi được tuyển dụng, bổ nhiệm là cán bộ, công chức, viên chức.","b) Được tuyển dụng, bổ nhiệm làm cán bộ, công chức, viên chức; sĩ quan, quân nhân chuyên nghiệp, công nhân quốc phòng trong cơ quan, đơn vị thuộc Quân đội nhân dân; sĩ quan, hạ sĩ quan, công nhân trong cơ quan, đơn vị thuộc Công an nhân dân",No,10.04353074564293
+q-206,Cưỡng bức trẻ nhỏ dưới 13 tuổi sử dụng trái phép ma túy sẽ bị phạt tù 15 năm đến 20 năm.,"Tội cưỡng bức người khác sử dụng trái phép chất ma túy
+
+1. Người nào dùng vũ lực, đe dọa dùng vũ lực hoặc dùng thủ đoạn khác uy hiếp tinh thần của người khác để buộc họ phải sử dụng trái phép chất ma túy trái với ý muốn của họ, thì bị phạt tù từ 02 năm đến 07 năm",Yes,11.341830403339989
+q-399,Dịch vụ pháp lý của luật sư không bao gồm hoạt động tư vấn pháp luật.,"Dịch vụ pháp lý của luật sư
+
+Dịch vụ pháp lý của luật sư bao gồm tham gia tố tụng, tư vấn pháp luật, đại diện ngoài tố tụng cho khách hàng và các dịch vụ pháp lý khác.",No,2.6439352372949383
+q-578,"Chỉ cần không hoạt động tại trụ sở đã đăng kí trong thời hạn 6 tháng liên tục, kể từ ngày được cấp Giấy đăng kí hoạt động, tổ chức hành nghề luật sư sẽ bị thu hồi Giấy đăng ký hoạt động.","c) Không đăng ký mã số thuế trong thời hạn 01 năm, kể từ ngày được cấp Giấy đăng ký hoạt động",No,19.23724599547627
+q-521,"Theo quy định của Luật Luật sư, thì thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng kiểm tra do Học viện Tư pháp thành lập.",Người được miễn tập sự hành nghề luật sư theo quy định tại khoản 1 Điều 16 của Luật này thì không phải tham dự kiểm tra kết quả tập sự hành nghề luật sư,No,6.347262883419955
+q-558,"Khi hành nghề, luật sư được phép tiết lộ thông tin về vụ việc về khách hàng mà mình biết được một cách tùy ý.","Bí mật thông tin
+
+1. Luật sư không được tiết lộ thông tin về vụ, việc, về khách hàng mà mình biết được trong khi hành nghề, trừ trường hợp được khách hàng đồng ý bằng văn bản hoặc pháp luật có quy định khác",No,4.444828598868464
+q-185,Nếu một người phạm tội vu khống và làm cho nạn nhân tự sát thì phải ngồi tù từ 3 đến 7 năm.,"3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 03 năm đến 07 năm:
+
+a) Vì động cơ đê hèn",Yes,8.595433721580012
+q-83,"Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không có quyền từ chối làm việc nếu có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe trong qua trình thực hiện công việc.","d) Từ chối làm việc nếu có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe trong quá trình thực hiện công việc",No,28.961899989001694
+q-273,Tài sản được giao theo phương thức do các bên thỏa thuận; nếu không có thỏa thuận thì tài sản do bên bán giao một lần và trực tiếp cho bên mua.,"Phương thức giao tài sản
+
+1. Tài sản được giao theo phương thức do các bên thỏa thuận; nếu không có thỏa thuận thì tài sản do bên bán giao một lần và trực tiếp cho bên mua",Yes,11.376665786504761
+q-213,"Mua bán, tàng trữ trái phép tài khoản ngân hàng từ 50 tài khoản đến dưới 200 tài khoản sẽ bị phạt tù từ 3 tháng đến 2 năm.","2. Phạm tội thuộc một trong những trường hợp sau đây, thì bị phạt tiền từ 100.000.000 đồng đến 200.000.000 đồng hoặc phạt tù từ 03 tháng đến 02 năm:
+
+a) Thu thập, tàng trữ, trao đổi, mua bán, công khai hóa trái phép thông tin về tài khoản ngân hàng của người khác với số lượng từ 50 tài khoản đến dưới 200 tài khoản",Yes,18.089650503690816
+q-16,Trong phát triển sự nghiệp giáo dục thì nhà nước giữa vai trò chủ đạo.,"2. Nhà nước giữ vai trò chủ đạo trong phát triển sự nghiệp giáo dục. Thực hiện đa dạng hóa các loại hình cơ sở giáo dục và hình thức giáo dục; khuyến khích, huy động và tạo điều kiện để tổ chức, cá nhân tham gia phát triển sự nghiệp giáo dục; khuyến khích phát triển cơ sở giáo dục dân lập, tư thục đáp ứng nhu cầu xã hội về giáo dục chất lượng cao",Yes,4.048082219013692
+q-220,"Người dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan mà chưa được xóa án tích thì chỉ bị đóng phạt từ 2.000.000 đồng.","Tội hành nghề mê tín, dị đoan
+
+1. Người nào dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan khác đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm",No,16.26566807127989
+q-179,Người bị kết án được miễn chấp hành hình phạt chỉ khi chết.,"Miễn chấp hành hình phạt
+
+1. Người bị kết án được miễn chấp hành hình phạt khi được đặc xá hoặc đại xá",No,5.630191295594324
+q-156,Tòa án nhân dân có thẩm quyền giải quyết tranh chấp lao động cá nhân.,"Thẩm quyền giải quyết tranh chấp lao động cá nhân
+
+Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động cá nhân bao gồm:
+
+1. Hòa giải viên lao động",Yes,5.540049575716688
+q-587,"Người tập sự hành nghề luật sư được liên hệ với cá nhân, cơ quan, tổ chức để đại diện cho luật sư hướng dẫn tập sự cung cấp thông tin pháp lý và ký hợp đồng dịch vụ pháp lý với khách hàng.","Quyền của người tập sự
+
+1. Được luật sư hướng dẫn cập nhật kiến thức pháp luật, kỹ năng tham gia tố tụng, kỹ năng tư vấn pháp luật, kỹ năng đại diện ngoài tố tụng, thực hiện dịch vụ pháp lý khác, kỹ năng quản trị, điều hành tổ chức hành nghề luật sư, việc thực hiện Quy tắc đạo đức và ứng xử nghề nghiệp luật sư Việt Nam, quyền, nghĩa vụ của người tập sự",No,8.643898342487986
+q-538,Hội đồng kiểm tra do Bộ Giáo dục và Đào tạo thành lập không có thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư.,3. Bộ Tư pháp có trách nhiệm hướng dẫn và giám sát việc tổ chức kiểm tra kết quả tập sự hành nghề luật sư.,Yes,6.708712377658083
+q-576,Tổ chức hành nghề luật sư có thể bị thu hồi Giấy đăng ký hoạt động.,"2. Giấy đăng ký hoạt động của chi nhánh của tổ chức hành nghề luật sư bị thu hồi khi thuộc một trong các trường hợp sau đây:
+
+a) Tổ chức hành nghề luật sư thành lập chi nhánh bị thu hồi Giấy đăng ký hoạt động theo quy định tại khoản 1 Điều này",Yes,5.574318474117138
+q-9,Tiếng Việt là ngoại ngữ chính thức dùng trong cơ sở giáo dục.,"Ngôn ngữ, chữ viết dùng trong cơ sở giáo dục
+
+1. Tiếng Việt là ngôn ngữ chính thức dùng trong cơ sở giáo dục. Căn cứ vào mục tiêu giáo dục và yêu cầu cụ thể về nội dung giáo dục, Chính phủ quy định việc dạy và học bằng tiếng nước ngoài trong cơ sở giáo dục",No,6.201692375984729
+q-117,"Người sử dụng lao động tuyển người vào học nghề, tập nghề để làm việc cho mình thì không phải đăng ký hoạt động giáo dục nghề nghiệp; được thu học phí; phải ký hợp đồng đào tạo theo quy định của Luật Giáo dục nghề nghiệp.","3. Người sử dụng lao động tuyển người vào học nghề, tập nghề để làm việc cho mình thì không phải đăng ký hoạt động giáo dục nghề nghiệp; không được thu học phí; phải ký hợp đồng đào tạo theo quy định của Luật Giáo dục nghề nghiệp",No,32.17393548604464
+q-36,Nhà giáo không được phép ký hợp đồng thỉnh giảng hoặc nghiên cứu khoa học tại cơ sở giáo dục khác hoặc cơ sở nghiên cứu khoa học.,"3. Được hợp đồng thỉnh giảng, nghiên cứu khoa học tại cơ sở giáo dục khác hoặc cơ sở nghiên cứu khoa học",No,19.340493473374693
+q-144,Người sử dụng lao động có thể áp dụng hình thức xử lý kỷ luật sa thải đối với người lao động khi xử lý kỷ luật lao động.,"Hình thức xử lý kỷ luật lao động
+
+1. Khiển trách",Yes,8.611946647413758
+q-10,Người dân tộc được khuyến khích học chữ của dân tộc mình.,"2. Nhà nước khuyến khích, tạo điều kiện để người dân tộc thiểu số được học tiếng nói, chữ viết của dân tộc mình theo quy định của Chính phủ; người khuyết tật nghe, nói được học bằng ngôn ngữ ký hiệu, người khuyết tật nhìn được học bằng chữ nổi Braille theo quy định của Luật Người khuyết tật",Yes,7.042998359024088
+q-443,"Bộ Kế hoạch và Đầu tư không có thẩm quyền thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài.","2. Bộ Tư pháp quyết định thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài",Yes,8.260487370259687
+q-70,"Việc thông báo lưu trú phải được thực hiện trực tiếp, không được sử dụng điện thoại hay các phương tiện điện tử.","2. Việc thông báo lưu trú được thực hiện trực tiếp, bằng điện thoại, phương tiện điện tử hoặc phương tiện khác do Bộ trưởng Bộ Công an quy định",No,10.66616386304816
+q-267,"Theo quy định tại điều 309 Bộ luật dân sự năm 2015, bên cầm cố là bên giao tài sản thuộc quyền sở hữu cuả mình cho bên nhận cầm cố.","Cầm cố tài sản
+
+Cầm cố tài sản là việc một bên (sau đây gọi là bên cầm cố) giao tài sản thuộc quyền sở hữu của mình cho bên kia (sau đây gọi là bên nhận cầm cố) để bảo đảm thực hiện nghĩa vụ.",Yes,5.588006316411865
+q-476,Báo cáo quá trình tập sự hành nghề luật sư của người tập sự chỉ cần có xác nhận của tổ chức hành nghề luật sư nhận tập sự.,"2. Báo cáo quá trình tập sự hành nghề luật sư của người tập sự phải có nhận xét, chữ ký của luật sư hướng dẫn theo quy định tại khoản 3 Điều 13 của Thông tư này, xác nhận của tổ chức hành nghề luật sư nhận tập sự và đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.",No,9.569060628344925
+q-518,Thời gian tập sự hành nghề luật sư là 12 tháng kể từ ngày Ban chủ nhiệm Đoàn luật sư ra quyết định về việc đăng ký tập sự hành nghề luật sư.,"Thời gian tập sự hành nghề luật sư
+
+1. Thời gian tập sự hành nghề luật sư là mười hai tháng kể từ ngày Ban chủ nhiệm Đoàn luật sư ra quyết định về việc đăng ký tập sự hành nghề luật sư; người được giảm thời gian tập sự hành nghề luật sư theo quy định tại khoản 2 Điều 16 của Luật luật sư thì thời gian tập sự hành nghề luật sư là bốn tháng; người được giảm thời gian tập sự hành nghề luật sư theo quy định tại khoản 3 Điều 16 của Luật luật sư thì thời gian tập sự hành nghề luật sư là sáu tháng",Yes,19.812394109382897
+q-348,Cha mẹ phải bồi thường mọi thiệt hại do con gây ra.,"Bồi thường thiệt hại do con gây ra
+
+Cha mẹ phải bồi thường thiệt hại do con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự gây ra theo quy định của Bộ luật dân sự.",No,3.109706211740679
+q-506,"Tổ chức hành nghề luật sư nhận tập sự chỉ có thể là văn phòng luật sư, công ty luật; chi nhánh của văn phòng luật sư, công ty luật.","3. Tổ chức hành nghề luật sư nhận tập sự bao gồm:
+
+a) Văn phòng luật sư, công ty luật; chi nhánh của văn phòng luật sư, công ty luật",No,11.87659368622434
+q-321,"Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên có thể kết hôn.","Điều kiện kết hôn
+
+1. Nam, nữ kết hôn với nhau phải tuân theo các điều kiện sau đây:
+
+a) Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên",Yes,18.445034205712684
+q-244,Nếu người được giám hộ là người chưa thành niên thì người giám hộ có không có nghĩa vụ làm đại diện trong các giao dịch dân sự của người được giám hộ.,"Nghĩa vụ của người giám hộ đối với người được giám hộ từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi
+
+1. Đại diện cho người được giám hộ trong các giao dịch dân sự, trừ trường hợp pháp luật quy định người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có thể tự mình xác lập, thực hiện giao dịch dân sự",No,7.349410442885575
+q-159,"Từ ngày 01 tháng 01 năm 2021, bộ luật Lao động số 10/2012/QH13 có hiệu lực thi hành.","Hiệu lực thi hành
+
+1. Bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021",No,14.194639842037489
+q-203,"Người cho thuê, cho mượn địa điểm để chứa chấp việc sử dụng trái phép chất ma túy và không nằm trong quy định tại điều 255 của bộ luật hình sự thì sẽ bị phạt tù từ 2 đến 7 năm.","Tội chứa chấp việc sử dụng trái phép chất ma túy
+
+1. Người nào cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy, nếu không thuộc trường hợp quy định tại Điều 255 của Bộ luật này, thì bị phạt tù từ 02 năm đến 07 năm",Yes,25.15936696646292
+q-572,Công ty luật trách nhiệm hữu hạn hai thành viên trở lên không được phép chuyển đổi sang hình thức Công ty luật trách nhiệm hữu hạn một thành viên.,"Chuyển đổi công ty luật trách nhiệm hữu hạn và công ty luật hợp danh
+
+1. Công ty luật trách nhiệm hữu hạn một thành viên có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn hai thành viên trở lên. Công ty luật trách nhiệm hữu hạn hai thành viên trở lên có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn một thành viên. Công ty luật trách nhiệm hữu hạn có thể chuyển đổi sang hình thức công ty luật hợp danh. Công ty luật hợp danh có thể chuyển đổi sang hình thức công ty luật trách nhiệm hữu hạn",No,29.234064586718276
+q-266,Thời hạn của quyền hưởng dụng đối với người hưởng dụng đầu tiên là cá nhân sẽ chấm dứt khi người hưởng dụng từ trần.,"Thời hạn của quyền hưởng dụng
+
+1. Thời hạn của quyền hưởng dụng do các bên thỏa thuận hoặc do luật quy định nhưng tối đa đến hết cuộc đời của người hưởng dụng đầu tiên nếu người hưởng dụng là cá nhân và đến khi pháp nhân chấm dứt tồn tại nhưng tối đa 30 năm nếu người hưởng dụng đầu tiên là pháp nhân",Yes,6.442005641658325
+q-271,"Quy định tại chương 16 điều 430, hợp đồng mua bán tài sản là sự thoả thuận của bên bán quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán.","Hợp đồng mua bán tài sản
+
+Hợp đồng mua bán tài sản là sự thỏa thuận giữa các bên, theo đó bên bán chuyển quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán",Yes,17.9743925247971
+q-543,Chứng chỉ hành nghề luật sư không bị thu hồi khi không còn thường trú tại Việt Nam.,c) Không còn thường trú tại Việt Nam,No,12.858182454735136

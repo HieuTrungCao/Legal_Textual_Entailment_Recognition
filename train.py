@@ -18,7 +18,6 @@ def train(args):
     wandb.login()
     run = wandb.init(
         project=args.project_name,
-        notes=args.notes,
         tags=["Training"]
     )
 

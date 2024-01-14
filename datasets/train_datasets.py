@@ -20,5 +20,7 @@ class Training_Dataset(Dataset):
 
         data['labels'] = int(self.df.iloc[index]["label"])
 
+        return data
+
     def __len__(self):
         return self.df.shape[0]

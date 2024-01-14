@@ -1,1 +1,3 @@
 data/zac2021-ltr-data/
+wandb/
+*/__pycache__/

@@ -22,8 +22,8 @@ def train(args):
         tags=["Training"]
     )
 
-    train_df = pd.read_csv(os.path.join(args.path_data, "arg_data_train.csv"))
-    test_df = pd.read_csv(os.path.join(args.path_data, "arg_data_test.csv"))
+    train_df = pd.read_csv(os.path.join(args.path_data, "data_aug_train.csv"))
+    test_df = pd.read_csv(os.path.join(args.path_data, "data_aug_test.csv"))
 
     tokenizer = AutoTokenizer.from_pretrained(args.model)
 
@@ -59,7 +59,7 @@ def train(args):
 if __name__ == "__main__":
     parse = argparse.ArgumentParser()
     parse.add_argument("--model", type=str, help="Enter model on huggingface to load")
-    parse.add_argument("--path_data", default="./data/datasets/arg", type=str)
+    parse.add_argument("--path_data", default="./data/datasets/aug", type=str)
     parse.add_argument("--lr", default=1e-3, type=float)
     parse.add_argument("--batch_size", default=128, type=int)
     parse.add_argument("--epoch", default=10, type=int)

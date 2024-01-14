@@ -34,6 +34,7 @@ def train(args):
     training_args = TrainingArguments(
         args.output,
         save_strategy="epoch",
+        evaluation_strategy="epoch",
         learning_rate=args.lr,
         per_device_train_batch_size=args.batch_size,
         num_train_epochs=args.epoch,

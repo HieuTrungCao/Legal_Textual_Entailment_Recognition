@@ -45,7 +45,7 @@ def train(args):
         model,
         args=training_args,
         train_dataset=train_datasets,
-        valid_dataset=test_datasets,
+        eval_dataset=test_datasets,
         tokenizer=tokenizer,
         compute_metrics=compute_metrics,
     )

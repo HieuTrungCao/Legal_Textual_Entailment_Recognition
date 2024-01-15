@@ -1,0 +1,222 @@
+[
+    {
+        "example_id": "4O7z6fOAPJ",
+        "label": "No",
+        "statement": "Khoảng thời gian cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy là bao lâu? Trả lời: Từ 48 tháng đến 60 tháng",
+        "legal_passages": [
+            {
+                "law_id": "Luật Phòng, chống ma túy 2021",
+                "article_id": "31"
+            }
+        ]
+    },
+    {
+        "example_id": "ZtB35RZhRI",
+        "label": "No",
+        "statement": "Phương pháp giáo dục thường xuyên phải phát huy tính thụ động của người học.",
+        "legal_passages": [
+            {
+                "law_id": "Luật Giáo dục 2019",
+                "article_id": "43"
+            }
+        ]
+    },
+    {
+        "example_id": "San2cDUQSm",
+        "label": "Yes",
+        "statement": "Người cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy phải có trách nhiệm nộp chi phí liên quan đến cai nghiện ma túy.",
+        "legal_passages": [
+            {
+                "law_id": "Luật Phòng, chống ma túy 2021",
+                "article_id": "31"
+            }
+        ]
+    },
+    {
+        "example_id": "VT1QuVmhCc",
+        "label": "Yes",
+        "statement": "Các biện pháp cai nghiện ma túy là những biện pháp nào sau đây?. Trả lời: Cai nghiện ma túy tự nguyện và Cai nghiện ma túy bắt buộc",
+        "legal_passages": [
+            {
+                "law_id": "Luật Phòng, chống ma túy 2021",
+                "article_id": "28"
+            }
+        ]
+    },
+    {
+        "example_id": "LQv3sLibDh",
+        "label": "Yes",
+        "statement": "Trách nhiệm của người sử dụng ma túy là phải chấp hành việc quản lý của cơ quan nhà nước, cụ thể là Ủy ban nhân dân cấp xã, phường.",
+        "legal_passages": [
+            {
+                "law_id": "Luật Phòng, chống ma túy 2021",
+                "article_id": "24"
+            }
+        ]
+    },
+    {
+        "example_id": "Rev8SuR3fn",
+        "label": "Yes",
+        "statement": "Quyền của nhà giáo là gì? Trả lời: Được giảng dạy theo chuyên môn đào tạo",
+        "legal_passages": [
+            {
+                "law_id": "Luật Giáo dục 2019",
+                "article_id": "70"
+            }
+        ]
+    },
+    {
+        "example_id": "FsWvvO33Ct",
+        "label": "No",
+        "statement": "Nhà giáo có vai trò nào sau đây? Trả lời: Đi du học nước ngoài nhằm nâng cao kiến thức.",
+        "legal_passages": [
+            {
+                "law_id": "Luật Giáo dục 2019",
+                "article_id": "66"
+            }
+        ]
+    },
+    {
+        "example_id": "NILu7qLntt",
+        "label": "Yes",
+        "statement": "Hình thức đào tạo, bồi dưỡng viên chức gồm: Đào tạo, bồi dưỡng theo tiêu chuẩn chức vụ quản lý, bồi dưỡng theo tiêu chuẩn chức danh nghề nghiệp, và bồi dưỡng nhằm bổ sung, cập nhật kiến thức, kỹ năng phục vụ hoạt động nghề nghiệp. ",
+        "legal_passages": [
+            {
+                "law_id": "Luật Viên chức 2010",
+                "article_id": "33"
+            }
+        ]
+    },
+    {
+        "example_id": "vER50gJIY7",
+        "label": "Yes",
+        "statement": "Mục tiêu của giáo dục thường xuyên là nhằm mục đích tạo điều kiện cho mọi người có cơ hội vừa làm vừa học, học liên tục",
+        "legal_passages": [
+            {
+                "law_id": "Luật Giáo dục 2019",
+                "article_id": "41"
+            }
+        ]
+    },
+    {
+        "example_id": "4bjolT6L3z",
+        "label": "Yes",
+        "statement": "Chính phủ là cơ quan thống nhất quản lý nhà nước về thanh niên ",
+        "legal_passages": [
+            {
+                "law_id": "Luật Thanh niên 2020",
+                "article_id": "37"
+            }
+        ]
+    },
+    {
+        "example_id": "zbVo7IuSOp",
+        "label": "Yes",
+        "statement": "Đoàn Thanh niên Cộng sản Hồ Chí Minh là cơ quan có trách nhiệm tổng hợp, phản ánh ý kiến, kiến nghị của thanh niên đến cơ quan, tổ chức có thẩm quyền",
+        "legal_passages": [
+            {
+                "law_id": "Luật Thanh niên 2020",
+                "article_id": "28"
+            }
+        ]
+    },
+    {
+        "example_id": "3ZjbFGpytH",
+        "label": "No",
+        "statement": "Người đứng đầu đơn vị sự nghiệp công lập đơn phương có quyền quyết định ký kết tiếp hoặc chấm dứt hợp đồng làm việc đối với viên chức.",
+        "legal_passages": [
+            {
+                "law_id": "Luật Viên chức 2010",
+                "article_id": "28"
+            }
+        ]
+    },
+    {
+        "example_id": "u4ykYXXEms",
+        "label": "Yes",
+        "statement": "Viên chức được hoạt động nghề nghiệp ngoài thời gian làm việc quy định trong hợp đồng làm việc và theo đúng các quy định của Pháp luật",
+        "legal_passages": [
+            {
+                "law_id": "Luật Viên chức 2010",
+                "article_id": "14"
+            }
+        ]
+    },
+    {
+        "example_id": "msHHa3bELB",
+        "label": "Yes",
+        "statement": "Viên chức có quyền được đào tạo, bồi dưỡng nâng cao trình độ chính trị, chuyên môn, nghiệp vụ",
+        "legal_passages": [
+            {
+                "law_id": "Luật Viên chức 2010",
+                "article_id": "11"
+            }
+        ]
+    },
+    {
+        "example_id": "cCS4VENPft",
+        "label": "Yes",
+        "statement": "Chức danh nghề nghiệp là tên gọi thể hiện trình độ và năng lực chuyên môn, nghiệp vụ của viên chức trong từng lĩnh vực nghề nghiệp",
+        "legal_passages": [
+            {
+                "law_id": "Luật Viên chức 2010",
+                "article_id": "8"
+            }
+        ]
+    },
+    {
+        "example_id": "g0tEL4A3EC",
+        "label": "Yes",
+        "statement": "Cơ quan, tổ chức có trách nhiệm tạo điều kiện thuận lợi cho cán bộ, công chức, viên chức và người lao động được thường xuyên học tập, học tập suốt đời để nhằm mục đích phát triển bản thân và nâng cao chất lượng cuộc sống.",
+        "legal_passages": [
+            {
+                "law_id": "Luật Giáo dục 2019",
+                "article_id": "46"
+            }
+        ]
+    },
+    {
+        "example_id": "tXRGZXvUPj",
+        "label": "No",
+        "statement": "Người đã chấp hành xong quyết định áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc chịu sự quản lý sau cai nghiện ma túy trong thời hạn 05 năm kể từ ngày chấp hành xong quyết định.",
+        "legal_passages": [
+            {
+                "law_id": "Luật Phòng, chống ma túy 2021",
+                "article_id": "40"
+            }
+        ]
+    },
+    {
+        "example_id": "W51vKx6Y5S",
+        "label": "Yes",
+        "statement": "Chương trình giáo dục cần phải thể hiện mục tiêu giáo dục và yêu cầu người học phải đạt về phẩm chất và năng lực tương ứng.",
+        "legal_passages": [
+            {
+                "law_id": "Luật Giáo dục 2019",
+                "article_id": "8"
+            }
+        ]
+    },
+    {
+        "example_id": "p4zs0isjph",
+        "label": "Yes",
+        "statement": "Công an cấp xã có trách nhiệm giúp Ủy ban nhân dân cùng cấp lập danh sách những người sử dụng trái phép chất ma túy tại địa phương.",
+        "legal_passages": [
+            {
+                "law_id": "Luật Phòng, chống ma túy 2021",
+                "article_id": "26"
+            }
+        ]
+    },
+    {
+        "example_id": "ddUhS1oQlT",
+        "label": "No",
+        "statement": "Cơ sở cai nghiện ma túy tự nguyện là do cơ quan nhà nước thành lập ra.",
+        "legal_passages": [
+            {
+                "law_id": "Luật Phòng, chống ma túy 2021",
+                "article_id": "36"
+            }
+        ]
+    }
+]

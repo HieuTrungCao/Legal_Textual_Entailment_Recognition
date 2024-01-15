@@ -1,0 +1,4562 @@
+[
+  {
+    "question_id": "q-189",
+    "text": "Chiếm đoạt tài sản lớn hơn 500.000.000 đồng sẽ bị phạt tù dưới 5 năm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "170"
+      }
+    ]
+  },
+  {
+    "question_id": "q-552",
+    "text": "Luật sư có các nghĩa vụ: (1) tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ, (2) tham gia tố tụng đầy đủ, kịp thời trong các vụ án do cơ quan tiến hành tố tụng yêu cầu, (3) thực hiện trợ giúp pháp lý.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "21"
+      }
+    ]
+  },
+  {
+    "question_id": "q-541",
+    "text": "Chứng chỉ hành nghề luật sư bị thu hồi khi được tuyển dụng, bổ nhiệm là cán bộ, công chức, viên chức.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "18"
+      }
+    ]
+  },
+  {
+    "question_id": "q-249",
+    "text": "Chỉ những hành vi pháp lý đơn phương làm thay đổi quyền, nghĩa vụ dân sự mới được coi là giao dịch dân sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "116"
+      }
+    ]
+  },
+  {
+    "question_id": "q-542",
+    "text": "Chứng chỉ hành nghề luật sư bị thu hồi khi không còn thường trú tại Việt Nam, hoặc bị thu hồi khi bị kết án và bản án đã có hiệu lực pháp luật, hoặc được tuyển dụng, bổ nhiệm là cán bộ, công chức, viên chức.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "18"
+      }
+    ]
+  },
+  {
+    "question_id": "q-20",
+    "text": "Hút thuốc là hành vi bị nghiêm cấm trong cơ sở giáo dục.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "22"
+      }
+    ]
+  },
+  {
+    "question_id": "q-561",
+    "text": "Mỗi luật sư hướng dẫn chỉ được hướng dẫn không quá hai người tập sự tại cùng một thời điểm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-330",
+    "text": "Sau khi kết hôn, người vợ phải cải đạo theo người chồng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "22"
+      }
+    ]
+  },
+  {
+    "question_id": "q-485",
+    "text": "Luật sư hướng dẫn tập sự hành nghề luật sư không cần đang hành nghề trong một tổ chức hành nghề luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "12"
+      }
+    ]
+  },
+  {
+    "question_id": "q-305",
+    "text": "Theo quy định về việc thừa kế theo pháp luật đối với vợ, chồng đã li hôn và kết hôn với người khác thì người đang là vợ hoặc chồng của một người tại thời điểm người đó chết thì dù sau đó đã kết hôn với người khác vẫn được thừa kế di sản.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "655"
+      }
+    ]
+  },
+  {
+    "question_id": "q-406",
+    "text": "Người tập sự hành nghề luật sư không được đại diện, bào chữa, bảo về quyền lợi và lợi ích hợp pháp cho khách hàng tại phiên tòa",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "21/2010/TT-BTP",
+        "article_id": "10"
+      }
+    ]
+  },
+  {
+    "question_id": "q-211",
+    "text": "Thu lợi bất chính từ việc xâm nhập trái phép vào mạng máy tính của người khác từ 2.000.000.000 đồng đến 10.000.000.000 đồng sẽ bị phạt tù từ 3 đến 7 năm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "289"
+      }
+    ]
+  },
+  {
+    "question_id": "q-340",
+    "text": "Nhà nước và xã hội khuyến khích việc hòa giải ở cơ sở khi vợ, chồng có yêu cầu ly hôn.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "52"
+      }
+    ]
+  },
+  {
+    "question_id": "q-461",
+    "text": "Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự được tính theo tính chất nghiêm trọng của vụ án.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "18"
+      }
+    ]
+  },
+  {
+    "question_id": "q-115",
+    "text": "Hằng năm, người sử dụng lao động thông báo kết quả đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề cho cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp huyện.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "60"
+      }
+    ]
+  },
+  {
+    "question_id": "q-480",
+    "text": "Báo cáo quá trình tập sự hành nghề luật sư của người tập sự không cần có đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-286",
+    "text": "Theo điều 612 bộ luật dân sự năm 2015, di sản của người chết bao gồm toàn bộ tài sản riêng của người chết, phần tài sản chung của với các chủ sở hữu khác.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "612"
+      }
+    ]
+  },
+  {
+    "question_id": "q-362",
+    "text": "Nhà nước quy định nguyên tắc, phương pháp định giá đất.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "18"
+      }
+    ]
+  },
+  {
+    "question_id": "q-334",
+    "text": "Mọi tài sản riêng của vợ và chồng trước khi kết hôn sẽ trở thành tài sản chung của vợ chồng sau khi kết hôn.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "43"
+      }
+    ]
+  },
+  {
+    "question_id": "q-15",
+    "text": "Phát triển giáo dục, xây dựng xã hội học tập là sự nghiệp của riêng Nhà nước.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "16"
+      }
+    ]
+  },
+  {
+    "question_id": "q-102",
+    "text": "Trong quá trình thực hiện hợp đồng lao động, nếu các bên có yêu cầu sửa đổi, bổ sung nội dung hợp đồng lao động thì có thể báo cho bên còn lại biết trước ít nhất vài ngày làm việc về nội dung cần sửa đổi, bổ sung hoặc không.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "33"
+      }
+    ]
+  },
+  {
+    "question_id": "q-11",
+    "text": "Cơ hội học tập không bình đẳng với mọi công dân mà phân biệt dựa vào dân tộc, tôn giáo, tín ngưỡng, giới tính, đặc điểm cá nhân, nguồn gốc gia đình, địa vị xã hội và hoàn cảnh kinh tế.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "13"
+      }
+    ]
+  },
+  {
+    "question_id": "q-592",
+    "text": "Trong thời gian tập sự, ngoài nghĩa vụ tuân thủ các quy định của pháp luật về luật sư và hành nghề luật sư, người tập sự hành nghề luật sư còn có nghĩa vụ lập thời khóa biểu tập sự, ghi chép lịch đến tổ chức hành nghề tập sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "10"
+      }
+    ]
+  },
+  {
+    "question_id": "q-88",
+    "text": "Việc làm bao gồm tất cả các hoạt động tạo ra thu nhập",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "9"
+      }
+    ]
+  },
+  {
+    "question_id": "q-87",
+    "text": "Mọi cơ quan nhà nước đều có thẩm quyền hỗ trợ xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "7"
+      }
+    ]
+  },
+  {
+    "question_id": "q-136",
+    "text": "Làm thêm giờ trong trường hợp thực hiện lệnh động viên, huy động bảo đảm nhiệm vụ quốc phòng, an ninh theo quy định của pháp luật, người sử dụng lao động được sử dụng người lao động làm thêm giờ vào bất kỳ ngày nào mà không bị giới hạn về số giờ làm thêm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "108"
+      }
+    ]
+  },
+  {
+    "question_id": "q-551",
+    "text": "Luật sư không có nghĩa vụ thực hiện trợ giúp pháp lý.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "21"
+      }
+    ]
+  },
+  {
+    "question_id": "q-293",
+    "text": "Trong bộ luật dân sự năm 2015 đã chỉ rõ, di chúc là sự thể hiện ý chí cá nhân nhằm để lại di sản của mình cho người khác sau khi chết.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "624"
+      }
+    ]
+  },
+  {
+    "question_id": "q-437",
+    "text": "Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 1 ngày lương theo mức lương tối thiểu vùng và phụ cấp tàu xe, lưu trú (nếu có).",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "19"
+      }
+    ]
+  },
+  {
+    "question_id": "q-424",
+    "text": "Công ty luật hợp danh có thể chuyển đổi sang hình thức văn phòng luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-484",
+    "text": "Luật sư hướng dẫn tập sự hành nghề luật sư phải không trong thời gian bị áp dụng các hình thức xử lý kỉ luật theo quy định của Điều lệ của Liên đoàn luật sư Việt Nam.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "12"
+      }
+    ]
+  },
+  {
+    "question_id": "q-357",
+    "text": "Đất đai thuộc sở hữu cá nhân.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-312",
+    "text": "Công dân nữ được phép có nhiều hơn một chồng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "2"
+      }
+    ]
+  },
+  {
+    "question_id": "q-242",
+    "text": "Nơi cư trú của người chưa thành niên là nơi người đó thường xuyên sinh sống mà không cần sự đồng ý của cha, mẹ.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "41"
+      }
+    ]
+  },
+  {
+    "question_id": "q-563",
+    "text": "Luật sư không được phép hướng dẫn người tập sự nào.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-366",
+    "text": "Bộ Tư pháp chịu trách nhiệm trước Chính phủ trong việc thống nhất quản lý nhà nước về đất đai.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "23"
+      }
+    ]
+  },
+  {
+    "question_id": "q-380",
+    "text": "Chính phủ phê duyệt quy hoạch, kế hoạch sử dụng đất cấp tỉnh; quy hoạch, kế hoạch sử dụng đất quốc phòng; quy hoạch, kế hoạch sử dụng đất an ninh.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "45"
+      }
+    ]
+  },
+  {
+    "question_id": "q-315",
+    "text": "Kết hôn là việc nam và nữ, hoặc nam và nam, hoặc nữ và nữ xác lập quan hệ vợ chồng với nhau theo quy định của Luật này về điều kiện kết hôn và đăng ký kết hôn.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "3"
+      }
+    ]
+  },
+  {
+    "question_id": "q-78",
+    "text": "Trường hợp cơ quan, người có trách nhiệm thực hiện việc đăng ký thường trú, đăng ký tạm trú không đúng đối tượng và điều kiện theo quy định của Luật này thì cơ quan đã thực hiện việc đăng ký không được ra quyết định hủy bỏ việc đăng ký đó.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "35"
+      }
+    ]
+  },
+  {
+    "question_id": "q-26",
+    "text": "Giáo dục nghề nghiệp đào tạo trình độ sơ cấp, trình độ trung cấp, trình độ cao đẳng và chương trình đào tạo nghề nghiệp khác cho người học, đáp ứng nhu cầu nhân lực trực tiếp trong sản xuất, kinh doanh và dịch vụ.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "35"
+      }
+    ]
+  },
+  {
+    "question_id": "q-580",
+    "text": "Theo quy định của Luật luật sư và văn bản hướng dẫn thi hành, hồ sơ đăng kí tập sự hành nghề luật sư gồm giấy đề nghị đăng kí tập sự hành nghề luật sư; giấy xác nhận của tổ chức hành nghề luật sư về việc nhận tập sự, bản sao Giấy chứng nhận tốt nghiệp đào tạo nghề luật sư hoặc giấy tờ chứng minh được miễn đào tạo nghề luật sư.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "5"
+      }
+    ]
+  },
+  {
+    "question_id": "q-109",
+    "text": "Phương án sử dụng lao động nhất định phải được thông báo công khai cho người lao động biết trong thời hạn không quá 15 ngày kể từ ngày phương án sử dụng lao động được thông qua.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "44"
+      }
+    ]
+  },
+  {
+    "question_id": "q-479",
+    "text": "Báo cáo quá trình tập sự hành nghề luật sư của người tập sự không cần có xác nhận của tổ chức hành nghề luật sư nhận tập sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-460",
+    "text": "Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự được tính theo giờ hoặc tính trọn gói theo vụ việc nhưng mức cao nhất cho một giờ làm việc của luật sư không được vượt quá 0,3 lần mức lương cơ sở do Chính phủ quy định.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "18"
+      }
+    ]
+  },
+  {
+    "question_id": "q-175",
+    "text": "Người dưới 18 tuổi vẫn có thể nhận án tử hình.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "40"
+      }
+    ]
+  },
+  {
+    "question_id": "q-496",
+    "text": "Người muốn tập sự hành nghề luật sư không phải lựa chọn và thỏa thuận với một luật sư chính thức để tập sự hành nghề luật sư.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-124",
+    "text": "Thời hạn của thỏa ước lao động tập thể phải từ 01 năm đến 03 năm. Thời hạn cụ thể do các bên thỏa thuận và ghi trong thỏa ước lao động tập thể.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "78"
+      }
+    ]
+  },
+  {
+    "question_id": "q-342",
+    "text": "Khi vợ hoặc chồng yêu cầu ly hôn mà hòa giải tại Tòa án không thành thì Tòa án giải quyết cho ly hôn nếu có căn cứ về việc vợ, chồng có hành vi bạo lực gia đình hoặc vi phạm nghiêm trọng quyền, nghĩa vụ của vợ, chồng làm cho hôn nhân lâm vào tình trạng trầm trọng, đời sống chung không thể kéo dài, mục đích của hôn nhân không đạt được.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "56"
+      }
+    ]
+  },
+  {
+    "question_id": "q-103",
+    "text": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động nhưng nhất định phải báo trước cho người sử dụng lao động tối thiểu là trước 45 ngày trong trường hợp làm việc theo hợp đồng lao động không xác định thời hạn",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "35"
+      }
+    ]
+  },
+  {
+    "question_id": "q-462",
+    "text": "Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự được tính từ khi bắt đầu khởi tố cho đến khi bắt đầu phiên tòa sơ thẩm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "18"
+      }
+    ]
+  },
+  {
+    "question_id": "q-51",
+    "text": "Nơi cư trú của người được giám hộ là nơi cư trú của người giám hộ nếu người giám hộ không phản đối và pháp luật không có có quy định khác.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "13"
+      }
+    ]
+  },
+  {
+    "question_id": "q-391",
+    "text": "Nhà nước thu hồi đất không được bồi thường về đất nếu đất được Nhà nước giao để quản lý.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "82"
+      }
+    ]
+  },
+  {
+    "question_id": "q-505",
+    "text": "Tổ chức hành nghề luật sư nhận tập sự không thể là chi nhánh của tổ chức hành nghề luật sư nước ngoài tại Việt Nam.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-379",
+    "text": "Quốc hội quyết định quy hoạch, kế hoạch sử dụng đất cấp quốc gia.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "45"
+      }
+    ]
+  },
+  {
+    "question_id": "q-277",
+    "text": "Nếu trong quá trình bảo hành có xuất hiện thiệt hại do khuyết tật về kĩ thuật thì bên mua được quyền yêu cầu bồi thường đối với bên bán.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "449"
+      }
+    ]
+  },
+  {
+    "question_id": "q-230",
+    "text": "Người phạm tội không bị cấm đảm nhiệm chức vụ nhất định sau khi đăng ký hộ tịch trái pháp luật.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "336"
+      }
+    ]
+  },
+  {
+    "question_id": "q-223",
+    "text": "Môi giới mại dâm đối với người từ 16 đến 18 tuổi sẽ bị phạt tù từ 3 đến 7 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "328"
+      }
+    ]
+  },
+  {
+    "question_id": "q-381",
+    "text": "Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp thông qua quy hoạch, kế hoạch sử dụng đất cấp tỉnh trước khi trình Chính phủ phê duyệt.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "45"
+      }
+    ]
+  },
+  {
+    "question_id": "q-363",
+    "text": "Nhà nước quy định quyền và nghĩa vụ của người sử dụng đất phù hợp với hình thức giao đất, cho thuê đất, công nhận quyền sử dụng đất, nguồn gốc sử dụng đất và nghĩa vụ tài chính của người sử dụng đất.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "20"
+      }
+    ]
+  },
+  {
+    "question_id": "q-415",
+    "text": "Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất 3 năm hành nghề liên tục hoặc 5 năm hành nghề kể từ ngày được cấp thẻ luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "32"
+      }
+    ]
+  },
+  {
+    "question_id": "q-186",
+    "text": "Nếu vu khống người khác phạm tội rất nghiêm trọng hoặc đặc biệt nghiêm trọng sẽ bị phạt tù dưới 1 năm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "156"
+      }
+    ]
+  },
+  {
+    "question_id": "q-178",
+    "text": "Thời hiệu thi hành bản án hình sự đối với người bị xử phạt chung thân là 20 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "60"
+      }
+    ]
+  },
+  {
+    "question_id": "q-507",
+    "text": "Tổ chức hành nghề luật sư nhận tập sự không thể là công ty luật nước ngoài tại Việt Nam, chi nhánh của công ty luật nước ngoài tại Việt Nam.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-167",
+    "text": "Người che giấu tội phạm an ninh quốc gia nếu là ông, bà, cha, mẹ, con, cháu, anh chị em ruột, vợ hoặc chồng của người phạm tội thì không phải chịu trách nhiệm hình sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "18"
+      }
+    ]
+  },
+  {
+    "question_id": "q-140",
+    "text": "Mỗi 5 năm làm việc cho cùng người sử dụng lao động, thì người lao động làm việc cho một người sử dụng lao động thì số ngày nghỉ được tăng thêm 1 ngày hàng năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "114"
+      }
+    ]
+  },
+  {
+    "question_id": "q-139",
+    "text": "Người lao động được nghỉ làm việc, hưởng nguyên lương tối thiểu 20 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "113"
+      }
+    ]
+  },
+  {
+    "question_id": "q-322",
+    "text": "Nam từ đủ 18 tuổi trở lên có thể kết hôn.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "8"
+      }
+    ]
+  },
+  {
+    "question_id": "q-65",
+    "text": "Thời hạn tạm trú tối đa là hai năm nếu không gia hạn.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "27"
+      }
+    ]
+  },
+  {
+    "question_id": "q-258",
+    "text": "Khi tài sản chung được một trong các chủ sở hữu chung sở hữu toàn bộ thì sở hữu chung sẽ chấm dứt.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "220"
+      }
+    ]
+  },
+  {
+    "question_id": "q-584",
+    "text": "Người tập sự hành nghề luật sư được liên hệ với cá nhân, cơ quan, tổ chức để thực hiện việc bào chữa, đại diện, bảo về quyền, lợi ích hợp pháp của khách hàng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "9"
+      }
+    ]
+  },
+  {
+    "question_id": "q-514",
+    "text": "Chi nhánh của công ty luật nước ngoài tại Việt Nam không được nhận người tập sự hành nghề luật sư khi chỉ có sự đồng ý bằng văn bản của Sở Tư pháp nơi Chi nhánh của công ty luật nước ngoài tại Việt Nam đặt trụ sở.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-64",
+    "text": "Thành viên hộ gia đình không được tách hộ để đăng ký thường trú tại cùng một chỗ ở hợp pháp.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "25"
+      }
+    ]
+  },
+  {
+    "question_id": "q-526",
+    "text": "Theo quy định của Luật Luật sư, thì thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng tư vấn do Bộ Giáo dục và Đào tạo thành lập.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "15"
+      }
+    ]
+  },
+  {
+    "question_id": "q-252",
+    "text": "Đại diện theo pháp luật của cá nhân chưa thành niên là cha, mẹ hoặc người giám hộ theo bộ luật dân sự quy định.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "136"
+      }
+    ]
+  },
+  {
+    "question_id": "q-446",
+    "text": "Sở Tư pháp không có thẩm quyền thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "40"
+      }
+    ]
+  },
+  {
+    "question_id": "q-215",
+    "text": "Người sử dụng trái phép tần số vô tuyến dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh và gây thiệt hại 200.000.000 đồng đến 500.000.000 đồng hoặc chưa được xóa án tích về tội này sẽ có thể bị phạt cải tạo không giam giữ đến 3 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "293"
+      }
+    ]
+  },
+  {
+    "question_id": "q-32",
+    "text": "Nhà giáo làm nhiệm vụ giảng dạy, giáo dục trong mọi cơ sở giáo dục.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "66"
+      }
+    ]
+  },
+  {
+    "question_id": "q-369",
+    "text": "Bộ Tài nguyên và Môi trường chỉ đạo, hướng dẫn việc lập bản đồ hành chính các cấp trong phạm vi cả nước và tổ chức thực hiện việc lập bản đồ hành chính toàn quốc, tỉnh, thành phố trực thuộc Trung ương.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "30"
+      }
+    ]
+  },
+  {
+    "question_id": "q-39",
+    "text": "Ngày 20 tháng 11 hằng năm là ngày Nhà giáo Việt Nam.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "75"
+      }
+    ]
+  },
+  {
+    "question_id": "q-200",
+    "text": "Nếu vi phạm các quy định sử dụng đất đai và lặp lại 2 lần trở lên thì bị phạt tù 20 năm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "228"
+      }
+    ]
+  },
+  {
+    "question_id": "q-262",
+    "text": "Nếu chủ sở hữu có bất động sản bị bịt kín bởi các bất động sản của các chủ sở hữu khác và không có đủ lối đi ra đường công cộng, có quyền yêu cầu các chủ sở hữu vây quanh dành cho mình một lối đi hợp lý trên đất của họ. Vị trí, chiều dài, chiều rộng sẽ do chủ sở hữu có bất động sản bị vây bọc đơn phương quyết định.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "254"
+      }
+    ]
+  },
+  {
+    "question_id": "q-67",
+    "text": "Người có quyết định của Tòa án tuyên bố mất tích hoặc đã chết thì bị xóa đăng ký tạm trú.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "29"
+      }
+    ]
+  },
+  {
+    "question_id": "q-237",
+    "text": "Mọi người thành niên đều có đầy đủ năng lực hành vi dân sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "20"
+      }
+    ]
+  },
+  {
+    "question_id": "q-554",
+    "text": "Luật sư có quyền không tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ nếu muốn.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "21"
+      }
+    ]
+  },
+  {
+    "question_id": "q-302",
+    "text": "Trong trường hợp người chết không để lại di chúc thì người thừa kế sẽ được xác định thừa kế theo pháp luật",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "650"
+      }
+    ]
+  },
+  {
+    "question_id": "q-555",
+    "text": "Luật sư có quyền không tham gia tố tụng trong các vụ án do cơ quan tiến hành tố tụng yêu cầu nếu muốn.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "21"
+      }
+    ]
+  },
+  {
+    "question_id": "q-377",
+    "text": "Kỳ quy hoạch sử dụng đất là 10 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "37"
+      }
+    ]
+  },
+  {
+    "question_id": "q-435",
+    "text": "Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 8 lần mức lương cơ sở và các khoản phụ cấp khác do Chính phủ quy định.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "19"
+      }
+    ]
+  },
+  {
+    "question_id": "q-17",
+    "text": "Nhà nước khuyến khích truyền bá tôn giáo, tiến hành các lễ nghi tôn giáo trong cơ sở giáo dục của hệ thống giáo dục quốc dân, cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội và lực lượng vũ trang nhân dân.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "20"
+      }
+    ]
+  },
+  {
+    "question_id": "q-72",
+    "text": "Nội dung khai báo tạm vắng bao gồm họ và tên, số định danh cá nhân hoặc số Chứng minh nhân dân, số hộ chiếu của người khai báo tạm vắng; lý do tạm vắng; thời gian tạm vắng; địa chỉ nơi đến.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "31"
+      }
+    ]
+  },
+  {
+    "question_id": "q-472",
+    "text": "Báo cáo quá trình tập sự hành nghề luật sư của người tập sự cần có nhận xét, chữ ký của luật sư hướng dẫn.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-254",
+    "text": "Theo quy định của Bộ luật dân sự năm 2015, thời điểm bắt đầu của thời hạn được xác định bằng một sự kiện thì được tính từ ngày xảy ra sự kiện đó.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "147"
+      }
+    ]
+  },
+  {
+    "question_id": "q-272",
+    "text": "Hợp đồng mua bán tài sản là sự thoả thuận của bên bán quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán theo điều 400 bộ luật dân sự năm 2015.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "430"
+      },
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "400"
+      }
+    ]
+  },
+  {
+    "question_id": "q-104",
+    "text": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động không cần báo trước trong trường hợp được trả đủ lương và trả lương đúng thời hạn.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "35"
+      }
+    ]
+  },
+  {
+    "question_id": "q-353",
+    "text": "Quan hệ hôn nhân và gia đình có yếu tố nước ngoài được tôn trọng và bảo vệ phù hợp với các quy định của pháp luật Việt Nam và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "121"
+      }
+    ]
+  },
+  {
+    "question_id": "q-328",
+    "text": "Người chồng là người được phép quyết định việc lựa chọn nơi cư trú.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "20"
+      }
+    ]
+  },
+  {
+    "question_id": "q-316",
+    "text": "Tảo hôn là việc lấy vợ, lấy chồng khi một bên hoặc cả hai bên đã đủ tuổi kết hôn theo quy định tại Điểm a khoản 1 Điều 8 của Luật này.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "3"
+      }
+    ]
+  },
+  {
+    "question_id": "q-75",
+    "text": "Thực hiện công tác đăng ký cư trú không cần đến chuyên môn, nghiệp vụ.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "34"
+      }
+    ]
+  },
+  {
+    "question_id": "q-550",
+    "text": "Luật sư không có nghĩa vụ tham gia tố tụng đầy đủ, kịp thời trong các vụ án do cơ quan tiến hành tố tụng yêu cầu.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "21"
+      }
+    ]
+  },
+  {
+    "question_id": "q-119",
+    "text": "Thương lượng tập thể không thành khi thời gian thương lượng tập thể quá 60 ngày kể từ ngày bắt đầu thương lượng, trừ trường hợp các bên có thỏa thuận khác.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "70"
+      },
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "71"
+      }
+    ]
+  },
+  {
+    "question_id": "q-547",
+    "text": "Luật sư có nghĩa vụ tham gia tố tụng đầy đủ, kịp thời trong các vụ án do cơ quan tiến hành tố tụng yêu cầu.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "21"
+      }
+    ]
+  },
+  {
+    "question_id": "q-455",
+    "text": "Một trong những nghĩa vụ của luật sư là hỗ trợ pháp lý miễn phí cho người nghèo và học tập nâng cao kiến thức chuyên môn, kỹ năng hành nghề theo quy định của Luật luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "21"
+      }
+    ]
+  },
+  {
+    "question_id": "q-359",
+    "text": "Người sử dụng đất thực hiện quyền, nghĩa vụ của mình trong thời hạn sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "6"
+      }
+    ]
+  },
+  {
+    "question_id": "q-581",
+    "text": "Theo quy định của Luật luật sư và văn bản hướng dẫn thi hành, hồ sơ đăng kí tập sự hành nghề luật sư gồm giấy đề nghị đăng kí tập sự hành nghề luật sư; giấy xác nhận của tổ chức hành nghề luật sư về việc nhận tập sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "5"
+      }
+    ]
+  },
+  {
+    "question_id": "q-360",
+    "text": "Người sử dụng đất có quyền thực hiện bất kỳ điều gì trong giới hạn phạm vi đất của mình mà không cần xin phép.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "6"
+      },
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-308",
+    "text": "Mọi thoả thuận của người thừa kế trong họp mặt thừa kế bắt buộc phải lập thành văn bản.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "656"
+      }
+    ]
+  },
+  {
+    "question_id": "q-356",
+    "text": "Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-38",
+    "text": "Nhà giáo có bằng tiến sỹ không được phép dạy giáo dục mầm non.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "72"
+      }
+    ]
+  },
+  {
+    "question_id": "q-513",
+    "text": "Chi nhánh của công ty luật nước ngoài tại Việt Nam không đủ điều kiện nhận được người tập sự hành nghề luật sư khi có sự đồng ý bằng văn bản của Sở Tư pháp nơi Chi nhánh của công ty luật nước ngoài tại Việt Nam đặt trụ sở.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-414",
+    "text": "Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có 4 năm hành nghề kể từ ngày được cấp thẻ luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "32"
+      }
+    ]
+  },
+  {
+    "question_id": "q-196",
+    "text": "Người nào quảng cáo gian dối về hàng hóa, dịch vụ, đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì có thể bị phạt cải tạo không giam giữ đến 03 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "197"
+      }
+    ]
+  },
+  {
+    "question_id": "q-214",
+    "text": "Thu lợi bất chính từ việc mua bán, trao đổi tài khoản ngân hàng người khác nhiều hơn 200.000.000 đồng sẽ bị phạt tù dưới 1 năm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "291"
+      }
+    ]
+  },
+  {
+    "question_id": "q-132",
+    "text": "Thời gian làm việc ban đêm tính từ 10 giờ tối đến 6 giờ sáng ngày hôm sau.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "106"
+      }
+    ]
+  },
+  {
+    "question_id": "q-251",
+    "text": "Mục đích của giao dịch dân sự là nghĩa vụ mà chủ thể mong muốn đạt được khi xác lập giao dịch đó.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "118"
+      }
+    ]
+  },
+  {
+    "question_id": "q-409",
+    "text": "Người tập sự hành nghề luật sư được đại diện, bào chữa, bảo vệ quyền và lợi ích hợp pháp cho khách hàng tại phiên tòa nếu được tòa án cho phép.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "21/2010/TT-BTP",
+        "article_id": "10"
+      }
+    ]
+  },
+  {
+    "question_id": "q-525",
+    "text": "Theo quy định của Luật Luật sư, thì thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng tư vấn do Liên đoàn luật sư Việt Nam thành lập.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "15"
+      }
+    ]
+  },
+  {
+    "question_id": "q-238",
+    "text": "Người chưa đủ mười tám tuổi trở lên không phải là người thành niên.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "20"
+      }
+    ]
+  },
+  {
+    "question_id": "q-149",
+    "text": "Bộ Lao động và thương binh xã hội cấp tỉnh quyết định Chương trình an toàn, vệ sinh lao động của địa phương và đưa vào kế hoạch phát triển kinh tế - xã hội.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "133"
+      }
+    ]
+  },
+  {
+    "question_id": "q-53",
+    "text": "Nơi cư trú của vợ, chồng có thể khác nhau.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-498",
+    "text": "Người muốn tập sự hành nghề luật sư có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự trong trường hợp không thỏa thuận được với tổ chức hành nghề luật sư về thu nhập, thù lao trong quá trình tập sự hành nghề luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-163",
+    "text": "Người đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật Hình Sự có quy định khác.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "12"
+      }
+    ]
+  },
+  {
+    "question_id": "q-62",
+    "text": "Mọi chỗ ở đều có thể được đăng ký thường trú mới.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "23"
+      }
+    ]
+  },
+  {
+    "question_id": "q-201",
+    "text": "Người lợi dụng chức vụ, quyền hạn và cố ý làm thất thoát tiền, hàng cứu trợ từ 100.000.000 đồng đến 300.000.000 đồng có thể sẽ bị phạt cải tạo không giam giữ đến 2 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "231"
+      }
+    ]
+  },
+  {
+    "question_id": "q-287",
+    "text": "Theo quy định trong bộ luật dân sự năm 2015, tính từ thời điểm bắt đầu mở thừa kế, những cá nhân là người còn sống sẽ được tính là người thừa kế.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "613"
+      }
+    ]
+  },
+  {
+    "question_id": "q-350",
+    "text": "Con được sinh ra trong thời hạn 365 ngày kể từ thời điểm chấm dứt hôn nhân được coi là con do người vợ có thai trong thời kỳ hôn nhân.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "88"
+      }
+    ]
+  },
+  {
+    "question_id": "q-41",
+    "text": "Lưu trú là việc công dân ở lại một địa điểm không phải nơi thường trú hoặc nơi tạm trú trong thời gian không quá 29 ngày.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "2"
+      }
+    ]
+  },
+  {
+    "question_id": "q-309",
+    "text": "Quy định của điều 658 91/2015/QH13, thứ tự ưu tiên thanh toán của việc mai táng sẽ được thanh toán sau khi đã hoàn thành việc chi trả chi phí cho việc bảo quản di sản.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "658"
+      }
+    ]
+  },
+  {
+    "question_id": "q-368",
+    "text": "Công chức địa chính ở xã, phường, thị trấn có trách nhiệm giúp Ủy ban nhân dân cấp xã trong việc quản lý đất đai tại địa phương.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "25"
+      }
+    ]
+  },
+  {
+    "question_id": "q-81",
+    "text": "Người lao động có độ tuổi thấp nhất là đủ 15 tuổi trừ một số trường hợp được quy định.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "3"
+      }
+    ]
+  },
+  {
+    "question_id": "q-451",
+    "text": "Theo quy định của Luật Luật sư và văn bản hướng dẫn thi hành, cơ sở đào tạo nghề luật sư là Học viện Tư pháp không thuộc Bộ Tư pháp.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "2"
+      }
+    ]
+  },
+  {
+    "question_id": "q-180",
+    "text": "Người mắc bệnh hiểm nghèo có thể được miễn chấp hành hình phạt.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "62"
+      }
+    ]
+  },
+  {
+    "question_id": "q-509",
+    "text": "Chi nhánh của công ty luật nước ngoài tại Việt Nam nhận được người tập sự hành nghề luật sư khi có sự đồng ý bằng văn bản của Sở Tư pháp nơi Chi nhánh của công ty luật nước ngoài tại Việt Nam đặt trụ sở.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-401",
+    "text": "Khi thực hiện trợ giúp pháp lý cho các khách hàng thuộc đối tượng được hưởng trợ giúp pháp lý, luật sư được nhận tiền hoặc lợi ích khác.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "11/2017/QH14",
+        "article_id": "2"
+      }
+    ]
+  },
+  {
+    "question_id": "q-199",
+    "text": "Người vi phạm các quy định về sử dụng đất đai, chưa được xóa án tích và còn tái phạm thì có thể sẽ bị phạt tù từ 6 tháng đến 3 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "228"
+      }
+    ]
+  },
+  {
+    "question_id": "q-511",
+    "text": "Chi nhánh của công ty luật nước ngoài tại Việt Nam nhận được người tập sự hành nghề luật sư khi có sự đồng ý bằng văn bản của Đoàn luật sư nơi Chi nhánh của công ty luật nước ngoài tại Việt Nam đặt trụ sở.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-390",
+    "text": "Việc bồi thường khi Nhà nước thu hồi đất phải bảo đảm dân chủ, khách quan, công bằng, công khai, kịp thời và đúng quy định của pháp luật.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "74"
+      }
+    ]
+  },
+  {
+    "question_id": "q-229",
+    "text": "Người đăng ký hộ tịch trái phép cho 2 người trở lên sẽ có thể bị phạt từ 3 tháng đến 2 năm tù.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "336"
+      }
+    ]
+  },
+  {
+    "question_id": "q-370",
+    "text": "Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương tổ chức thực hiện việc lập bản đồ hành chính huyện, quận, thị xã, thành phố thuộc tỉnh.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "30"
+      }
+    ]
+  },
+  {
+    "question_id": "q-42",
+    "text": "Chỗ ở hợp pháp buộc phải là bất động sản.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "2"
+      }
+    ]
+  },
+  {
+    "question_id": "q-324",
+    "text": "Nhà nước thừa nhận hôn nhân giữa những người cùng giới tính.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "8"
+      }
+    ]
+  },
+  {
+    "question_id": "q-202",
+    "text": "Người cố ý làm trái quy định về phân phối tiền, hàng cứu trợ và gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội sẽ bị phạt dưới 50.000.000 đồng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "231"
+      }
+    ]
+  },
+  {
+    "question_id": "q-49",
+    "text": "Người chưa thành niên không thể có nơi cư trú khác với nơi cư trú của cha, mẹ.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "12"
+      }
+    ]
+  },
+  {
+    "question_id": "q-295",
+    "text": "Người đủ mười lăm tuổi đến chưa đủ 18 tuổi được phép lập di chúc mà không cần có sự đồng ý của cha mẹ, hoặc người giám hộ",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "625"
+      }
+    ]
+  },
+  {
+    "question_id": "q-184",
+    "text": "Phạm tội với một người và người đó có tỷ lệ thương tổn hơn 61% thì bị phạt đến 10 năm tù.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "138"
+      }
+    ]
+  },
+  {
+    "question_id": "q-289",
+    "text": "Quy định tại điều 616 bộ luật dân sự năm 2015 đã chỉ ra rằng cá nhân do người chết chỉ định trong di chúc hoặc do những người thừa kế tiến cử để tiến hành quản lý tài sản của người chết trong quá trình xác định thừa kế sẽ là người quản lý di sản.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "616"
+      }
+    ]
+  },
+  {
+    "question_id": "q-577",
+    "text": "Chỉ cần không đăng kí mã số thuế trong thời hạn 1 năm kể từ ngày được cấp Giấy đăng kí hoạt động, tổ chức hành nghề luật sư sẽ bị thu hồi Giấy đăng ký hoạt động.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "137/2018/NĐ-CP",
+        "article_id": "17"
+      }
+    ]
+  },
+  {
+    "question_id": "q-481",
+    "text": "Báo cáo quá trình tập sự hành nghề luật sư của người tập sự cần có nhận xét, chữ ký của luật sư hướng dẫn, xác nhận của tổ chức hành nghề luật sư nhận tập sự và đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-128",
+    "text": "Tiền lương bao gồm mức lương theo công việc hoặc chức danh, phụ cấp lương và các khoản bổ sung khác.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "90"
+      }
+    ]
+  },
+  {
+    "question_id": "q-283",
+    "text": "Thời điểm xác nhận người có tài sản đã từ trần là thời điêm thừa kế của người đó được công bố.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "611"
+      }
+    ]
+  },
+  {
+    "question_id": "q-190",
+    "text": "Lừa đảo chiếm đoạt tài sản có tổ chức và từ 50.000.000 đồng đến 200.000.000 đồng sẽ bị phạt tù 2 đến 7 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "174"
+      }
+    ]
+  },
+  {
+    "question_id": "q-269",
+    "text": "Bên nhận cầm cố không có nghĩa vụ bồi thường nếu tài sản cầm cố không có thiệt hại.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "313"
+      }
+    ]
+  },
+  {
+    "question_id": "q-469",
+    "text": "Khi hoàn thành thời gian tập sự hành nghề luật sư, người tập sự có trách nhiệm báo cáo bằng văn bản về quá trình tập sự hành nghề luật sư trong thời gian tập sư cho người đứng đầu tổ chức hành nghề luật sư nhận tập sự và Đoàn luật sư nơi đăng ký tập sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-91",
+    "text": "Người sử dụng lao động không được buộc người lao động thực hiện hợp đồng lao động để trả nợ cho người sử dụng lao động trong khi giao kết, thực hiện hợp đồng lao động.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "17"
+      }
+    ]
+  },
+  {
+    "question_id": "q-85",
+    "text": "Người sử dụng lao động phải thực hiện quy định của pháp luật về lao động, việc làm, giáo dục nghề nghiệp, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động; xây dựng và thực hiện các giải pháp phòng, chống quấy rối tình dục tại nơi làm việc.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "6"
+      }
+    ]
+  },
+  {
+    "question_id": "q-233",
+    "text": "Nếu là chỉ huy hoặc là sĩ quan phạm tội đào ngũ thì sẽ bị phạt tù từ 2 đến 7 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "402"
+      }
+    ]
+  },
+  {
+    "question_id": "q-165",
+    "text": "Trường hợp có nhiều hơn 1 người thực hiện hành vi phạm tội gọi là đồng phạm",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "17"
+      }
+    ]
+  },
+  {
+    "question_id": "q-218",
+    "text": "Tội xâm phạm thi thể, mồ mả, hài cốt vì động cơ đê hèn có thể bị phạt tù từ 02 năm đến 07 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "319"
+      }
+    ]
+  },
+  {
+    "question_id": "q-439",
+    "text": "Bộ Kế hoạch và Đầu tư có thẩm quyền thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "40"
+      }
+    ]
+  },
+  {
+    "question_id": "q-448",
+    "text": "Theo quy định của Luật Luật sư và văn bản hướng dẫn thi hành, cơ sở đào tạo nghề luật sư là Học viện Tư pháp không thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư thuộc Liên đoàn luật sư Việt Nam.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "2"
+      }
+    ]
+  },
+  {
+    "question_id": "q-47",
+    "text": "Nơi cư trú của công dân chỉ bao gồm nơi thường trú.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-473",
+    "text": "Báo cáo quá trình tập sự hành nghề luật sư của người tập sự cần có xác nhận của tổ chức hành nghề luật sư nhận tập sự.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-90",
+    "text": "Người sử dụng lao động được giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động khi giao kết, thực hiện hợp đồng lao động.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "17"
+      }
+    ]
+  },
+  {
+    "question_id": "q-404",
+    "text": "Khi thực hiện trợ giúp pháp lý cho các khách hàng thuộc đối tượng được hưởng trợ giúp pháp lý, luật sư được nhận thù lao theo quy định của pháp luật về chế độ công tác phí của cán bộ công chức.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "11/2017/QH14",
+        "article_id": "2"
+      }
+    ]
+  },
+  {
+    "question_id": "q-332",
+    "text": "Trong trường hợp không có căn cứ để chứng minh tài sản mà vợ, chồng đang có tranh chấp là tài sản riêng của mỗi bên thì tài sản đó được sung công quỹ.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "33"
+      }
+    ]
+  },
+  {
+    "question_id": "q-27",
+    "text": "Tổ chức và hoạt động giáo dục nghề nghiệp được thực hiện theo quy định của Luật Giáo dục và Luật Giáo dục nghề nghiệp.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "37"
+      }
+    ]
+  },
+  {
+    "question_id": "q-417",
+    "text": "Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất 4 năm hành nghề liên tục hoặc 5 năm hành nghề kể từ ngày được cấp thẻ luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "32"
+      }
+    ]
+  },
+  {
+    "question_id": "q-429",
+    "text": "Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 1 ngày lương theo mức lương tối thiểu vùng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "19"
+      }
+    ]
+  },
+  {
+    "question_id": "q-205",
+    "text": "Người dùng vũ lực để uy hiếp tinh thần và buộc người khác sử dụng trái phép chất ma túy thì sẽ bị phạt tù lên đến 50 năm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "257"
+      }
+    ]
+  },
+  {
+    "question_id": "q-573",
+    "text": "Tổ chức hành nghề luật sư bị thu hồi Giấy đăng ký hoạt động khi không đăng kí mã số thuế trong thời hạn 1 năm kể từ ngày được cấp Giấy đăng kí hoạt động và không hoạt động tại trụ sở đã đăng kí trong thời hạn 6 tháng liên tục, kể từ ngày được cấp Giấy đăng kí hoạt động.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "137/2018/NĐ-CP",
+        "article_id": "17"
+      }
+    ]
+  },
+  {
+    "question_id": "q-21",
+    "text": "Giáo dục mầm non là cấp học đầu tiên trong hệ thống giáo dục quốc dân, đặt nền móng cho sự phát triển toàn diện con người Việt Nam, thực hiện việc nuôi dưỡng, chăm sóc, giáo dục trẻ em từ 03 đến 06 tuổi.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "23"
+      }
+    ]
+  },
+  {
+    "question_id": "q-232",
+    "text": "Người phạm tội sửa chữa và sử dụng giấy chứng nhận, các tài liệu của cơ quan, tổ chức trên 3 lần thì sẽ bị phạt tù dưới 1 năm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "340"
+      }
+    ]
+  },
+  {
+    "question_id": "q-2",
+    "text": "Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "3"
+      }
+    ]
+  },
+  {
+    "question_id": "q-228",
+    "text": "Lôi kéo người khác trốn tránh nghĩa vụ quân sự không bị xử phạt.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "332"
+      }
+    ]
+  },
+  {
+    "question_id": "q-508",
+    "text": "Tổ chức hành nghề luật sư nhận tập sự chỉ có thể là công ty luật nước ngoài tại Việt Nam, chi nhánh của công ty luật nước ngoài tại Việt Nam.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-116",
+    "text": "Người sử dụng lao động phải tổ chức đối thoại tại nơi làm việc mỗi năm tối thiểu một lần.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "63"
+      }
+    ]
+  },
+  {
+    "question_id": "q-329",
+    "text": "Vợ, chồng có nghĩa vụ tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhau.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "22"
+      }
+    ]
+  },
+  {
+    "question_id": "q-276",
+    "text": "Khi hợp đồng mua bán tài sản xảy ra rủi ro, bên bán sẽ chịu ảnh hưởng của rủi ro với tài sản kể từ khi nhận được tài sản từ bên bán.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "441"
+      }
+    ]
+  },
+  {
+    "question_id": "q-458",
+    "text": "Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự được tính theo số ngày tham gia vụ án.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "18"
+      }
+    ]
+  },
+  {
+    "question_id": "q-548",
+    "text": "Luật sư có nghĩa vụ thực hiện trợ giúp pháp lý.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "21"
+      }
+    ]
+  },
+  {
+    "question_id": "q-134",
+    "text": "Khoảng thời gian làm việc ngoài thời giờ làm việc bình thường được trả lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc đang làm vào ngày thường, ít nhất bằng 150%, 200% đối với ngày nghỉ hàng tuần, và 300% vào ngày nghỉ lễ tết.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "98"
+      }
+    ]
+  },
+  {
+    "question_id": "q-450",
+    "text": "Theo quy định của Luật Luật sư và văn bản hướng dẫn thi hành, cơ sở đào tạo nghề luật sư là Học viện Tư pháp không thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư không thuộc Liên đoàn luật sư Việt Nam.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "2"
+      }
+    ]
+  },
+  {
+    "question_id": "q-331",
+    "text": "Tài sản chung của vợ chồng thuộc sở hữu chung hợp nhất, được dùng để bảo đảm nhu cầu của gia đình, thực hiện nghĩa vụ chung của vợ chồng.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "33"
+      }
+    ]
+  },
+  {
+    "question_id": "q-160",
+    "text": "Tội phạm rất nghiêm trọng không phải ngồi tù.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "9"
+      }
+    ]
+  },
+  {
+    "question_id": "q-204",
+    "text": "Người chứa chấp việc sử dụng trái phép ma túy và còn tái phạm một cách nguy hiểm thì có thể bị phạt tù dưới 5 năm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "256"
+      }
+    ]
+  },
+  {
+    "question_id": "q-24",
+    "text": "Trường trung học cơ sở và trường tiểu học thuộc cơ sở giáo dục phổ thông.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "33"
+      }
+    ]
+  },
+  {
+    "question_id": "q-463",
+    "text": "Thời gian phải tập sự hành nghề luật sư của những người tập sự hành nghề luật sư tham gia khóa đào tạo nghề luật sư theo Chương trình khung đào tạo nghề luật sư 6 tháng là 12 tháng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "6"
+      }
+    ]
+  },
+  {
+    "question_id": "q-125",
+    "text": "Trong thời hạn 90 ngày sau ngày thỏa ước lao động tập thể hết hạn, các bên có thể thương lượng để kéo dài thời hạn của thỏa ước lao động tập thể hoặc ký kết thỏa ước lao động tập thể mới.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "83"
+      }
+    ]
+  },
+  {
+    "question_id": "q-35",
+    "text": "Nghỉ hè theo quy định của Chính phủ là quyền của nhà giáo.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "70"
+      }
+    ]
+  },
+  {
+    "question_id": "q-207",
+    "text": "Lôi kéo người khác sử dụng trái phép ma túy và làm chết 2 người trở lên thì có khả năng sẽ bị phạt tù chung thân",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "258"
+      }
+    ]
+  },
+  {
+    "question_id": "q-431",
+    "text": "Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 4 ngày lương theo mức lương tối thiểu vùng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "19"
+      }
+    ]
+  },
+  {
+    "question_id": "q-243",
+    "text": "Người giám hộ phải có năng lực pháp luật dân sự phù hợp với việc giám hộ và có điều kiện cần thiết để thực hiện quyền và nghĩa vụ của người giám hộ.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "50"
+      }
+    ]
+  },
+  {
+    "question_id": "q-320",
+    "text": "Tập quán không được phép áp dụng vào hôn nhân và gia đình.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "7"
+      }
+    ]
+  },
+  {
+    "question_id": "q-96",
+    "text": "Thời gian thử việc không quá 60 ngày đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "25"
+      }
+    ]
+  },
+  {
+    "question_id": "q-333",
+    "text": "Tài sản riêng của vợ, chồng gồm tài sản mà mỗi người có trước khi kết hôn; tài sản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "43"
+      }
+    ]
+  },
+  {
+    "question_id": "q-281",
+    "text": "Người hứa thưởng có thể rút lại tuyên bố hứa thưởng trước khi công việc yêu cầu được hoàn thành.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "571"
+      }
+    ]
+  },
+  {
+    "question_id": "q-268",
+    "text": "Theo quy định tại điều 300 Bộ luật dân sự năm 2015, Cầm cố tài sản là việc một bên (sau đây gọi là bên cầm cố) giao tài sản thuộc quyền sở hữu của mình cho bên kia (sau đây gọi là bên nhận cầm cố) để bảo đảm thực hiện nghĩa vụ.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "309"
+      },
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "300"
+      }
+    ]
+  },
+  {
+    "question_id": "q-494",
+    "text": "Người muốn tập sự hành nghề luật sư cần giúp việc cho một luật sư chính thức để tập sự hành nghề luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-29",
+    "text": "Trình độ tiến sĩ là một cấp đào tạo của giáo dục đại học.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "38"
+      }
+    ]
+  },
+  {
+    "question_id": "q-198",
+    "text": "Nếu số lượng tiền giả có giá trị từ 5.000.000 đồng đến 50.000.000 đồng thì sẽ bị phạt hơn 15 năm tù.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "207"
+      }
+    ]
+  },
+  {
+    "question_id": "q-589",
+    "text": "Trong thời gian tập sự, ngoài nghĩa vụ tuân thủ các quy định của pháp luật về luật sư và hành nghề luật sư, người tập sự hành nghề luật sư còn có nghĩa vụ lập nhật ký tập sự, trong đó ghi chép đầy đủ việc thực hiện các công việc trong thời gian tập sự.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "10"
+      }
+    ]
+  },
+  {
+    "question_id": "q-588",
+    "text": "Người tập sự hành nghề luật sư không được liên hệ với cá nhân, cơ quan, tổ chức dưới bất kỳ hình thức nào.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "9"
+      }
+    ]
+  },
+  {
+    "question_id": "q-483",
+    "text": "Luật sư hướng dẫn tập sự hành nghề luật sư phải có ít nhất 3 năm kinh nghiệm trong nghề luật sư, có uy tín, trách nhiệm trong công việc hướng dẫn tập sự hành nghề luật sư.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "12"
+      }
+    ]
+  },
+  {
+    "question_id": "q-3",
+    "text": "Giáo dục mầm non bao gồm trình độ đại học, trình độ thạc sĩ và trình độ tiến sĩ.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "6"
+      }
+    ]
+  },
+  {
+    "question_id": "q-60",
+    "text": "Khi tiếp nhận hồ sơ đăng ký thường trú, cơ quan đăng ký cư trú kiểm tra và cấp phiếu tiếp nhận hồ sơ cho người đăng ký.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "22"
+      }
+    ]
+  },
+  {
+    "question_id": "q-557",
+    "text": "Khi hành nghề, luật sư không được sử dụng thông tin về vụ việc về khách hàng mà mình biết được trong khi hành nghề vào mục đích xâm phạm lợi ích Nhà nước, lợi ích công cộng, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "25"
+      }
+    ]
+  },
+  {
+    "question_id": "q-161",
+    "text": "Tội phạm đặc biệt nghiêm trọng có thể phải tử hình.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "9"
+      }
+    ]
+  },
+  {
+    "question_id": "q-310",
+    "text": "Quyền sở hữu trí tuệ được xác định theo pháp luật của nước nơi đối tượng quyền sở hữu trí tuệ được yêu cầu bảo hộ.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "679"
+      }
+    ]
+  },
+  {
+    "question_id": "q-177",
+    "text": "Thời hiệu thi hành bản án hình sự đối với người bị xử phạt tù từ 3 đến 15 năm là 5 năm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "60"
+      }
+    ]
+  },
+  {
+    "question_id": "q-150",
+    "text": "Người chưa thành niên chưa đủ 13 tuổi chỉ được làm các công việc nghệ thuật, thể dục, thể thao nhưng không làm tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa đủ 13 tuổi và phải có sự đồng ý của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "145"
+      },
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "143"
+      }
+    ]
+  },
+  {
+    "question_id": "q-241",
+    "text": "Nơi cư trú của người thành niên là nơi người đó thường xuyên sinh sống.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "40"
+      }
+    ]
+  },
+  {
+    "question_id": "q-253",
+    "text": "Người bị hạn chế hành vi dân sự có quyền tự chỉ định người đại diện theo pháp luật của mình.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "136"
+      }
+    ]
+  },
+  {
+    "question_id": "q-475",
+    "text": "Báo cáo quá trình tập sự hành nghề luật sư của người tập sự chỉ cần có nhận xét, chữ ký của luật sư hướng dẫn.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-467",
+    "text": "Thời gian phải tập sự hành nghề luật sư của những người tập sự hành nghề luật sư tham gia khóa đào tạo nghề luật sư theo Chương trình khung đào tạo nghề luật sư 6 tháng là 24 tháng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "6"
+      }
+    ]
+  },
+  {
+    "question_id": "q-84",
+    "text": "Người lao động vừa có quyền đơn phương chấm dứt hợp đồng lao động và cũng có quyền từ chối làm việc nếu có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe trong qua trình thực hiện công việc.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "5"
+      }
+    ]
+  },
+  {
+    "question_id": "q-389",
+    "text": "Ủy ban nhân dân cấp xã có quyền quyết định thu hồi đất trong trường hợp đất nông nghiệp thuộc quỹ đất công ích của xã, phường, thị trấn.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "66"
+      }
+    ]
+  },
+  {
+    "question_id": "q-290",
+    "text": "Theo điều 616 bộ luật dân sự năm 2015, cơ quan nhà nước có thẩm quyền sẽ là người quản lý di sản của người chết trong mọi trường hợp.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "616"
+      }
+    ]
+  },
+  {
+    "question_id": "q-155",
+    "text": "Năm 2022, tuổi nghỉ hưu của người lao động nam trong điều kiện lao động bình thường là đủ 60 tuổi 03 tháng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "169"
+      }
+    ]
+  },
+  {
+    "question_id": "q-355",
+    "text": "Luật Đất đai chỉ được áp dụng đối với người sử dụng đất.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "2"
+      }
+    ]
+  },
+  {
+    "question_id": "q-436",
+    "text": "Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là mức lương cơ sở do Chính phủ quy định.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "19"
+      }
+    ]
+  },
+  {
+    "question_id": "q-488",
+    "text": "Luật sư hướng dẫn tập sự hành nghề luật sư phải đang hành nghề tự do hoặc trong một tổ chức hành nghề luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "12"
+      }
+    ]
+  },
+  {
+    "question_id": "q-195",
+    "text": "Ngược đãi người dưới 16 tuổi sẽ bị phạt tù dưới 1 năm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "185"
+      }
+    ]
+  },
+  {
+    "question_id": "q-173",
+    "text": "Tù có thời hạn đối với một người phạm tội có mức tối thiểu là dưới 3 tháng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "38"
+      }
+    ]
+  },
+  {
+    "question_id": "q-411",
+    "text": "Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất 3 năm hành nghề liên tục.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "32"
+      }
+    ]
+  },
+  {
+    "question_id": "q-282",
+    "text": "Người hứa thưởng có thể rút lại tuyên bố hứa thưởng trước khi công việc yêu cầu được bắt đầu.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "571"
+      }
+    ]
+  },
+  {
+    "question_id": "q-145",
+    "text": "Người sử dụng lao động không thể áp dụng hình thức xử lý kỷ luật sa thải đối với người lao động khi xử lý kỷ luật lao động.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "124"
+      }
+    ]
+  },
+  {
+    "question_id": "q-559",
+    "text": "Mỗi luật sư hướng dẫn chỉ được hướng dẫn không quá ba người tập sự tại cùng một thời điểm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-574",
+    "text": "Tổ chức hành nghề luật sư bị thu hồi Giấy đăng ký hoạt động khi không đăng kí mã số thuế trong thời hạn 6 tháng hoặc không hoạt động tại trụ sở đã đăng kí trong thời hạn 6 tháng liên tục, kể từ ngày được cấp Giấy đăng kí hoạt động.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "137/2018/NĐ-CP",
+        "article_id": "17"
+      }
+    ]
+  },
+  {
+    "question_id": "q-100",
+    "text": "Trong trường hợp người lao động phải thực hiện nghĩa vụ quân sự, nghĩa vụ tham gia Dân quân tự vệ thì người lao động được tạm hoãn thực hiện hợp đồng lao động. Trong trường hợp đó, người lao động vẫn được hưởng lương và quyền, lợi ích đã giao kết trong hợp đồng lao động, trừ trường hợp hai bên có thỏa thuận khác.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "30"
+      }
+    ]
+  },
+  {
+    "question_id": "q-438",
+    "text": "Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 0,8 ngày lương theo mức lương tối thiểu vùng và phụ cấp tàu xe, lưu trú (nếu có).",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "19"
+      }
+    ]
+  },
+  {
+    "question_id": "q-405",
+    "text": "Người tập sự hành nghề luật sư được đại diện, bào chữa, bảo về quyền lợi và lợi ích hợp pháp cho khách hàng tại phiên tòa.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "21/2010/TT-BTP",
+        "article_id": "10"
+      }
+    ]
+  },
+  {
+    "question_id": "q-121",
+    "text": "Nội dung thỏa ước lao động tập thể không được trái với quy định của pháp luật; khuyến khích có lợi hơn cho người sử dụng lao động so với quy định của pháp luật.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "75"
+      }
+    ]
+  },
+  {
+    "question_id": "q-297",
+    "text": "Di chúc bằng văn bản có tổng cộng 2 loại khác nhau: di chúc bằng văn bản có công chứng và di chúc bằng văn bản có chứng thực được quy định tại điều 628 bộ luật dân sự năm 2015.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "628"
+      }
+    ]
+  },
+  {
+    "question_id": "q-210",
+    "text": "Người nào cố ý phát tán, làm lây nhiễm hơn 500 phương tiện điện tử sẽ bị phạt lên đến 50 năm tù.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "286"
+      }
+    ]
+  },
+  {
+    "question_id": "q-288",
+    "text": "Theo quy định trong bộ luật dân sự năm 2015, tính từ thời điểm bắt đầu mở thừa kế, những cá nhân là trẻ được sinh ra và thành thai sau khi người chết để lại tài sản sẽ được tính là người thừa kế.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "613"
+      }
+    ]
+  },
+  {
+    "question_id": "q-546",
+    "text": "Luật sư có nghĩa vụ tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "21"
+      }
+    ]
+  },
+  {
+    "question_id": "q-385",
+    "text": "Chính phủ quy định điều kiện của tổ chức, cá nhân hoạt động tư vấn lập quy hoạch, kế hoạch sử dụng đất.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "47"
+      }
+    ]
+  },
+  {
+    "question_id": "q-434",
+    "text": "Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 0,8 lần mức lương cơ sở và các khoản phụ cấp khác do Chính phủ quy định.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "19"
+      }
+    ]
+  },
+  {
+    "question_id": "q-323",
+    "text": "Nam từ đủ 10 tuổi trở lên, nữ từ đủ 20 tuổi trở lên có thể kết hôn.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "8"
+      }
+    ]
+  },
+  {
+    "question_id": "q-398",
+    "text": "Dịch vụ pháp lý của luật sư không bao gồm hoạt động tham gia tố tụng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "65/2006/QH11",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-7",
+    "text": "Bộ trưởng Bộ Giáo dục và Đào tạo, Bộ trưởng Bộ Lao động - Thương binh và Xã hội, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định việc thực hiện chương trình giáo dục và việc công nhận về giá trị chuyển đổi kết quả học tập trong đào tạo các trình độ của giáo dục đại học, giáo dục nghề nghiệp quy định tại Điều 8 Luật giáo dục.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "8"
+      }
+    ]
+  },
+  {
+    "question_id": "q-512",
+    "text": "Chi nhánh của công ty luật nước ngoài tại Việt Nam nhận được người tập sự hành nghề luật sư khi có ủy quyền bằng văn bản của Giám đốc công ty luật nước ngoài tại Việt Nam.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-325",
+    "text": "Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng thì phải đăng ký kết hôn.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "9"
+      }
+    ]
+  },
+  {
+    "question_id": "q-86",
+    "text": "Các tổ chức có vai trò đại diện, bảo vệ quyền và lợi ích hợp pháp của người sử dụng lao động chỉ bao gồm phòng Thương mại và Công nghiệp Việt Nam, Liên minh Hợp tác xã Việt Nam và các tổ chức đại diện của người sử dụng lao động khác được thành lập theo quy định của pháp luật",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "7"
+      }
+    ]
+  },
+  {
+    "question_id": "q-407",
+    "text": "Người tập sự hành nghề luật sư được đại diện, bào chữa, bảo vệ quyền và lợi ích hợp pháp cho khách hàng tại phiên tòa nếu được khách hàng đồng ý bằng văn bản.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "21/2010/TT-BTP",
+        "article_id": "10"
+      }
+    ]
+  },
+  {
+    "question_id": "q-270",
+    "text": "Bên nhận cầm cố được phép cho thuê sử dụng tài sản cầm cố để hưởng lợi tức mà không cần sự đồng ý của bên cầm cố.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "313"
+      }
+    ]
+  },
+  {
+    "question_id": "q-549",
+    "text": "Luật sư không có nghĩa vụ tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "21"
+      }
+    ]
+  },
+  {
+    "question_id": "q-208",
+    "text": "Lôi kéo người đã cai nghiện sử dụng trái phép ma túy có thể bị phạt tù 30 năm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "258"
+      }
+    ]
+  },
+  {
+    "question_id": "q-226",
+    "text": "Người trên 18 tuổi mua dâm và gây tổn hại trên 61% cơ thể của nạn nhân thì sẽ bị chung thân.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "329"
+      }
+    ]
+  },
+  {
+    "question_id": "q-395",
+    "text": "Dịch vụ pháp lý của luật sư có bao gồm hoạt động đại diện ngoài tố tụng cho khách hàng.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "65/2006/QH11",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-532",
+    "text": "Thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng kiểm tra do Bộ Giáo dục và Đào tạo thành lập.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "15"
+      }
+    ]
+  },
+  {
+    "question_id": "q-298",
+    "text": "Trong trường hợp nguy kịch đến tính mạng, cá nhân có thể lập di chúc miệng và sau 2 tháng kể từ ngày di chúc được lập, di chúc sẽ không có hiệu lực khi người lập di chúc còn sống, minh mẫn sáng suốt.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "629"
+      }
+    ]
+  },
+  {
+    "question_id": "q-275",
+    "text": "Khi hợp đồng mua bán tài sản xảy ra rủi ro, bên mua sẽ chịu ảnh hưởng của rủi ro với tài sản kể từ khi nhận được tài sản từ bên bán.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "441"
+      }
+    ]
+  },
+  {
+    "question_id": "q-510",
+    "text": "Chi nhánh của công ty luật nước ngoài tại Việt Nam nhận được người tập sự hành nghề luật sư khi có sự đồng ý bằng văn bản của Liên đoàn luật sư Việt Nam.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-491",
+    "text": "Người muốn tập sự hành nghề luật sư cần lựa chọn và thỏa thuận với một tổ chức hành nghề luật sư để tập sự hành nghề luật sư.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-392",
+    "text": "Nhà nước thu hồi đất luôn phải bồi thường trong mọi trường hợp.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "82"
+      }
+    ]
+  },
+  {
+    "question_id": "q-164",
+    "text": "Người phạm tội chưa đạt không phải chịu trách nhiệm hình sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "15"
+      }
+    ]
+  },
+  {
+    "question_id": "q-231",
+    "text": "Người nào sửa chữa, làm sai lệch nội dung hộ chiếu, thị thực, hộ khẩu, hộ tịch, các loại giấy chứng nhận hoặc tài liệu của cơ quan, tổ chức và sử dụng giấy tờ đó thực hiện tội phạm hoặc đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì có thể bị phạt cảnh cáo, phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "340"
+      }
+    ]
+  },
+  {
+    "question_id": "q-527",
+    "text": "Theo quy định của Luật Lao động, thì thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng tư vấn do Bộ Giáo dục và Đào tạo thành lập.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "15"
+      }
+    ]
+  },
+  {
+    "question_id": "q-235",
+    "text": "Năng lực pháp luật dân sự của cá nhân là khả năng của cá nhân có quyền dân sự và nghĩa vụ dân sự.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "16"
+      }
+    ]
+  },
+  {
+    "question_id": "q-260",
+    "text": "Theo khoản 2 điều 230, với tài sản bị đánh rơi là tài sản thuộc di tích lịch sử - văn hoá theo quy định của Luật di sản văn hoá thì sẽ được thuộc về Nhà nước nếu sau 1 năm không thể xác định được chủ sở hữu.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "230"
+      }
+    ]
+  },
+  {
+    "question_id": "q-531",
+    "text": "Thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng kiểm tra do Liên đoàn luật sư Việt Nam thành lập.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "15"
+      }
+    ]
+  },
+  {
+    "question_id": "q-107",
+    "text": "Khi đơn phương chấm dứt hợp đồng lao động trái pháp luật, người lao động phải bồi thường cho người sử dụng lao động một phần hai tiền lương theo hợp đồng lao động và một khoản tiền ứng với tiền lương theo hợp đồng lao động trong những ngày không báo trước.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "40"
+      }
+    ]
+  },
+  {
+    "question_id": "q-433",
+    "text": "Đối với những vụ án do cơ quan tiến hành tố tụng yêu cầu luật sư thì mức thù lao được trả cho 1 ngày làm việc của luật sư là 4 lần mức lương cơ sở do Chính phủ quy định.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "19"
+      }
+    ]
+  },
+  {
+    "question_id": "q-12",
+    "text": "Học tập là một trong những quyền của công dân, ngoài ra nó cũng là nghĩa vụ của họ.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "13"
+      }
+    ]
+  },
+  {
+    "question_id": "q-225",
+    "text": "Người lớn hơn 18 tuổi mua dâm người dưới 18 tuổi và làm tổn hại cơ thể từ 31% đến 60% thì sẽ bị phạt tù từ 3 đến 7 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "329"
+      }
+    ]
+  },
+  {
+    "question_id": "q-500",
+    "text": "Người muốn tập sự hành nghề luật sư có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự trong trường hợp không thỏa thuận được với một luật sư chính thức về việc nhận tập sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-224",
+    "text": "Môi giới mại dâm với trẻ từ 13 đến 16 tuổi thì sẽ bị phạt ngồi tù dưới 3 năm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "328"
+      }
+    ]
+  },
+  {
+    "question_id": "q-468",
+    "text": "Khi hoàn thành thời gian tập sự hành nghề luật sư, người tập sự có trách nhiệm báo cáo bằng văn bản về quá trình tập sự hành nghề luật sư trong thời gian tập sư cho người đứng đầu tổ chức hành nghề luật sư nhận tập sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-14",
+    "text": "Nhà nước thực hiện phổ cập giáo dục mầm non cho trẻ em năm tuổi và phổ cập giáo dục THCS.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-264",
+    "text": "Quyền hưởng dụng là quyền của chủ thể được khai thác công dụng và hưởng hoa lợi, lợi tức đối với tài sản thuộc quyền sở hữu của mình trong một thời hạn nhất định.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "257"
+      }
+    ]
+  },
+  {
+    "question_id": "q-239",
+    "text": "Công dân dưới chín tuổi phải có sự đồng ý của người đó trong việc thay đổi họ.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "27"
+      }
+    ]
+  },
+  {
+    "question_id": "q-341",
+    "text": "Sau khi đã thụ lý đơn yêu cầu ly hôn, Tòa án tiến hành hòa giải theo quy định của pháp luật về tố tụng dân sự.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "54"
+      }
+    ]
+  },
+  {
+    "question_id": "q-111",
+    "text": "Tiền lương để tính trợ cấp mất việc làm là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động mất việc làm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "47"
+      }
+    ]
+  },
+  {
+    "question_id": "q-493",
+    "text": "Người muốn tập sự hành nghề luật sư cần làm việc cho một tổ chức hành nghề luật sư để tập sự hành nghề luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-304",
+    "text": "Theo quy định tại điều 651 bộ luật dân sự năm 2015, những người thuộc hàng thừa kế sau vẫn có quyền hưởng di sản ngay cả khi tồn tại người ở hàng thừa kế thứ nhất vẫn còn sống và đủ điều kiện nhận thừa kế.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "651"
+      }
+    ]
+  },
+  {
+    "question_id": "q-33",
+    "text": "Nhiệm vụ của nhà giáo bao gồm việc gương mẫu thực hiện nghĩa vụ công dân, điều lệ nhà trường, quy tắc ứng xử của nhà giáo.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "69"
+      }
+    ]
+  },
+  {
+    "question_id": "q-157",
+    "text": "Hội đồng nhân dân có thẩm quyền giải quyết tranh chấp lao động cá nhân.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "187"
+      }
+    ]
+  },
+  {
+    "question_id": "q-569",
+    "text": "Công ty luật trách nhiệm hữu hạn hai thành viên trở lên không thể chuyển đổi sang hình thức Công ty luật trách nhiệm hữu hạn một thành viên.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-31",
+    "text": "Nhà giáo giảng dạy từ trình độ đại học gọi là giảng viên.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "66"
+      }
+    ]
+  },
+  {
+    "question_id": "q-278",
+    "text": "Nếu trong quá trình bảo hành có xuất hiện thiệt hại do khuyết tật về kĩ thuật thì bên bán được quyền khước từ yêu cầu bồi thường đối với bên mua.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "449"
+      }
+    ]
+  },
+  {
+    "question_id": "q-19",
+    "text": "Nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học được pháp luật bảo vệ.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "22"
+      }
+    ]
+  },
+  {
+    "question_id": "q-77",
+    "text": "Trường hợp cơ quan, người có trách nhiệm thực hiện việc đăng ký thường trú, đăng ký tạm trú không đúng thẩm quyền thì cơ quan đã thực hiện việc đăng ký hoặc thủ trưởng cấp trên trực tiếp của cơ quan đã đăng ký có trách nhiệm ra quyết định hủy bỏ việc đăng ký đó.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "35"
+      }
+    ]
+  },
+  {
+    "question_id": "q-412",
+    "text": "Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất 4 năm hành nghề liên tục.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "32"
+      }
+    ]
+  },
+  {
+    "question_id": "q-294",
+    "text": "Người đủ 18 tuổi và có đủ điều kiện thì có quyền lập di chúc mà không cần sự đồng ý của cha mẹ hoặc người giám hộ.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "625"
+      }
+    ]
+  },
+  {
+    "question_id": "q-176",
+    "text": "Luật tử hình không áp dụng đối với người 75 tuổi trở lên.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "40"
+      }
+    ]
+  },
+  {
+    "question_id": "q-153",
+    "text": "Người sử dụng lao động có quyền yêu cầu giữ giấy tờ tùy thân của lao động là người giúp việc gia đình",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "165"
+      },
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "17"
+      }
+    ]
+  },
+  {
+    "question_id": "q-428",
+    "text": "Công ty luật hợp danh chỉ có thể chuyển đổi sang hình thức văn phòng luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-522",
+    "text": "Theo quy định của Luật Luật sư, thì thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng kiểm tra do Liên đoàn luật sư Việt Nam thành lập.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "15"
+      }
+    ]
+  },
+  {
+    "question_id": "q-456",
+    "text": "Một trong những nghĩa vụ của luật sư là trợ giúp pháp lý và tham gia bồi dưỡng bắt buộc về chuyên môn, nghiệp vụ theo quy định của Luật luật sư.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "21"
+      }
+    ]
+  },
+  {
+    "question_id": "q-440",
+    "text": "Bộ Tư pháp có thẩm quyền thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "40"
+      }
+    ]
+  },
+  {
+    "question_id": "q-129",
+    "text": "Mức lương theo công việc hoặc chức danh thường thấp hơn mức lương tối thiểu.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "90"
+      }
+    ]
+  },
+  {
+    "question_id": "q-502",
+    "text": "Tổ chức hành nghề luật sư nhận tập sự có thể là văn phòng luật sư, công ty luật; chi nhánh của văn phòng luật sư, công ty luật.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-465",
+    "text": "Thời gian phải tập sự hành nghề luật sư của những người tập sự hành nghề luật sư tham gia khóa đào tạo nghề luật sư theo Chương trình khung đào tạo nghề luật sư 6 tháng là 18 tháng; trường hợp có văn bản xin giảm của Đoàn luật sư thì còn 12 tháng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "6"
+      }
+    ]
+  },
+  {
+    "question_id": "q-284",
+    "text": "Khi thừa kế được công bố, địa điểm mở thừa kế là bất kì nơi nào trong trường hợp không tìm thấy nơi cư trú cuối cùng của người có tài sản.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "611"
+      }
+    ]
+  },
+  {
+    "question_id": "q-442",
+    "text": "Sở Tư pháp có thẩm quyền thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "40"
+      }
+    ]
+  },
+  {
+    "question_id": "q-474",
+    "text": "Báo cáo quá trình tập sự hành nghề luật sư của người tập sự cần có đánh giá của Đoàn luật sư về tư cách đạo đức, ý thức tuân thủ pháp luật của người tập sự.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-358",
+    "text": "Đất đai thuộc sở hữu của Nhà nước.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-495",
+    "text": "Người muốn tập sự hành nghề luật sư không phải lựa chọn và thỏa thuận với một tổ chức hành nghề luật sư để tập sự hành nghề luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-418",
+    "text": "Luật sư hành nghề với tư cách cá nhân là luật sư làm việc theo hợp đồng lao động cho cơ quan, tổ chức là tổ chức hành nghề luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "20/2012/QH13",
+        "article_id": "49"
+      }
+    ]
+  },
+  {
+    "question_id": "q-187",
+    "text": "Phạm tội xâm phạm bí mật hoặc an toàn thư tín, điện thoại, điện tín hoặc hình thức trao đổi thông tin riêng tư khác của người khác và làm cho nạn nhân tự sát, thì bị phạt tù từ 1 đến 3 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "159"
+      }
+    ]
+  },
+  {
+    "question_id": "q-247",
+    "text": "Động sản không bao gồm đất đai; nhà, công trình xây dựng gắn liền với đất đai; tài sản khác gắn liền với đất đai, nhà, công trình xây dựng; tài sản khác theo quy định của pháp luật.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "107"
+      }
+    ]
+  },
+  {
+    "question_id": "q-349",
+    "text": "Con sinh ra trong thời kỳ hôn nhân hoặc do người vợ có thai trong thời kỳ hôn nhân là con chung của vợ chồng.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "88"
+      }
+    ]
+  },
+  {
+    "question_id": "q-209",
+    "text": "Thu lợi bất chính từ 50.000.000 đồng đến dưới 200.000.000 đồng khi phát tán chương trình tin học gây hại cho mạng máy tính có thể bị phạt tù từ 6 tháng đến 3 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "286"
+      }
+    ]
+  },
+  {
+    "question_id": "q-419",
+    "text": "Luật sư hành nghề với tư cách cá nhân là luật sư làm việc theo hợp đồng lao động cho cơ quan, tổ chức không phải là tổ chức hành nghề luật sư.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "20/2012/QH13",
+        "article_id": "49"
+      }
+    ]
+  },
+  {
+    "question_id": "q-382",
+    "text": "Chính phủ quyết định quy hoạch, kế hoạch sử dụng đất cấp quốc gia.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "45"
+      }
+    ]
+  },
+  {
+    "question_id": "q-28",
+    "text": "Tổ chức và hoạt động giáo dục nghề nghiệp được thực hiện chỉ theo quy định của Luật Giáo dục.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "37"
+      }
+    ]
+  },
+  {
+    "question_id": "q-388",
+    "text": "Ủy ban nhân dân cấp tỉnh có quyền quyết định thu hồi đất trong trường hợp đất nông nghiệp thuộc quỹ đất công ích của xã, phường, thị trấn.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "66"
+      }
+    ]
+  },
+  {
+    "question_id": "q-413",
+    "text": "Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có 3 năm hành nghề kể từ ngày được cấp thẻ luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "32"
+      }
+    ]
+  },
+  {
+    "question_id": "q-80",
+    "text": "Bộ Công an quy định chi tiết việc xây dựng, quản lý, sử dụng Cơ sở dữ liệu về cư trú, thông tin trong Cơ sở dữ liệu về cư trú và việc cung cấp, trao đổi thông tin, tài liệu từ Cơ sở dữ liệu về cư trú cho cơ quan, tổ chức, cá nhân.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "36"
+      }
+    ]
+  },
+  {
+    "question_id": "q-279",
+    "text": "Người đã công khai hứa thưởng phải có nghĩa vụ trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "570"
+      }
+    ]
+  },
+  {
+    "question_id": "q-45",
+    "text": "Công dân không có nghĩa vụ nộp lệ phí đăng ký cư trú.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "9"
+      }
+    ]
+  },
+  {
+    "question_id": "q-130",
+    "text": "Người sử dụng lao động trả lương cho người lao động bằng tiền mặt hoặc trả qua tài khoản cá nhân của người lao động được mở tại ngân hàng.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "96"
+      }
+    ]
+  },
+  {
+    "question_id": "q-138",
+    "text": "Vào ngày 01 tháng 01 mỗi năm, người lao động được hưởng nguyên lương và nghỉ làm việc.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "112"
+      }
+    ]
+  },
+  {
+    "question_id": "q-373",
+    "text": "Bộ Tài chính chỉ đạo, hướng dẫn việc lập bản đồ hành chính các cấp trong phạm vi cả nước và tổ chức thực hiện việc lập bản đồ hành chính toàn quốc, tỉnh, thành phố trực thuộc Trung ương",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "30"
+      }
+    ]
+  },
+  {
+    "question_id": "q-471",
+    "text": "Khi hoàn thành thời gian tập sự hành nghề luật sư, người tập sự có trách nhiệm báo cáo bằng văn bản về quá trình tập sự hành nghề luật sư trong thời gian tập sự cho Đoàn luật sư và Sở Tư pháp nơi đăng ký tập sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-313",
+    "text": "Những người không cùng một tôn giáo không được phép kết hôn với nhau.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "2"
+      }
+    ]
+  },
+  {
+    "question_id": "q-148",
+    "text": "Trường hợp người lao động gây thiệt hại không nghiêm trọng do sơ suất với giá trị không quá 10 tháng lương tối thiểu vùng do Chính phủ công bố được áp dụng tại nơi người lao động làm việc thì người lao động phải bồi thường nhiều nhất là 03 tháng tiền lương và bị khấu trừ hằng tháng vào lương và không được quá 30% tiền lương thực trả hằng tháng của người lao động sau khi trích nộp các khoản bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp, thuế thu nhập cá nhân.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "102"
+      },
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "129"
+      }
+    ]
+  },
+  {
+    "question_id": "q-6",
+    "text": "Phương pháp giáo dục phải bồi dưỡng cho người học ý chí vươn lên.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "7"
+      }
+    ]
+  },
+  {
+    "question_id": "q-344",
+    "text": "Hôn nhân chấm dứt kể từ thời điểm 3 năm sau khi vợ hoặc chồng chết.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "65"
+      }
+    ]
+  },
+  {
+    "question_id": "q-280",
+    "text": "Người đã công khai hứa thưởng phải có nghĩa vụ trả thưởng cho người đã thực hiện công việc theo yêu cầu(bao gồm cả việc vi phạm pháp luật) của người hứa thưởng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "570"
+      }
+    ]
+  },
+  {
+    "question_id": "q-338",
+    "text": "Chồng không có quyền yêu cầu ly hôn trong trường hợp vợ đang có thai, sinh con hoặc đang nuôi con dưới 12 tháng tuổi.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "51"
+      }
+    ]
+  },
+  {
+    "question_id": "q-593",
+    "text": "Trong thời gian tập sự, ngoài nghĩa vụ tuân thủ các quy định của pháp luật về luật sư và hành nghề luật sư, người tập sự hành nghề luật sư không còn nghĩa vụ nào khác.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "10"
+      }
+    ]
+  },
+  {
+    "question_id": "q-416",
+    "text": "Luật sư thành lập hoặc tham gia thành lập tổ chức hành nghề luật sư phải có ít nhất 3 năm hành nghề liên tục hoặc 6 năm hành nghề kể từ ngày được cấp thẻ luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "32"
+      }
+    ]
+  },
+  {
+    "question_id": "q-501",
+    "text": "Người muốn tập sự hành nghề luật sư có thể đề nghị Ban chủ nhiệm Đoàn luật sư giới thiệu tổ chức hành nghề luật sư để tập sự trong trường hợp không có khả năng tài chính để đóng góp cho tổ chức hành nghề luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-105",
+    "text": "Trong trường hợp chấm dứt hợp đồng lao động đơn phương theo quy định tại điểm d,e thuộc khoản 1 của điều 36, Bộ luật Lao động 2019 thì người sử dụng lao động không phải báo trước cho người lao động",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "36"
+      }
+    ]
+  },
+  {
+    "question_id": "q-169",
+    "text": "Người vượt quá mức cần thiết khi phòng vệ chính đáng không phải chịu trách nhiệm hình sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "22"
+      }
+    ]
+  },
+  {
+    "question_id": "q-454",
+    "text": "Một trong những nghĩa vụ của luật sư là cung cấp các dịch vụ pháp lý cho người nghèo và tham gia các hội thảo, hội nghị góp ý các dự án luật.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "21"
+      }
+    ]
+  },
+  {
+    "question_id": "q-69",
+    "text": "Khi có người đến lưu trú, thành viên hộ gia đình, người đại diện cơ sở chữa bệnh, cơ sở lưu trú du lịch và các cơ sở khác có chức năng lưu trú có trách nhiệm thông báo việc lưu trú với cơ quan đăng ký cư trú.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "30"
+      }
+    ]
+  },
+  {
+    "question_id": "q-221",
+    "text": "Người không hứa hẹn trước nhưng tiêu thụ tài sản từ 100.000.000 đồng đến 300.000.000 đồng do người khác phạm tội mà có thì sẽ bị phạt tù từ 3 đến 7 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "323"
+      }
+    ]
+  },
+  {
+    "question_id": "q-492",
+    "text": "Người muốn tập sự hành nghề luật sư cần lựa chọn và thỏa thuận với một luật sư chính thức để tập sự hành nghề luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-44",
+    "text": "Nhà nước có chính sách và biện pháp đồng bộ để giới hạn quyền tự do cư trú của công dân.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "5"
+      }
+    ]
+  },
+  {
+    "question_id": "q-452",
+    "text": "Theo quy định của Luật Luật sư và văn bản hướng dẫn thi hành, cơ sở đào tạo nghề luật sư là cơ sở đào tạo nghề luật sư không thuộc Liên đoàn luật sư Việt Nam.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "2"
+      }
+    ]
+  },
+  {
+    "question_id": "q-154",
+    "text": "Năm 2022, tuổi nghỉ hưu của người lao động nam trong điều kiện lao động bình thường là đủ 60 tuổi 06 tháng.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "169"
+      }
+    ]
+  },
+  {
+    "question_id": "q-400",
+    "text": "Dịch vụ pháp lý của luật sư không bao gồm hoạt động đại diện ngoài tố tụng cho khách hàng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "65/2006/QH11",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-34",
+    "text": "Nhà giáo không có nhiệm vụ phải bảo vệ các quyền, lợi ích chính đáng của người học.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "69"
+      }
+    ]
+  },
+  {
+    "question_id": "q-142",
+    "text": "Nếu sử dụng từ 10 người lao động trở lên thì nội quy lao động phải được đăng ký tại cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh nơi người sử dụng lao động đăng ký kinh doanh.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "119"
+      }
+    ]
+  },
+  {
+    "question_id": "q-166",
+    "text": "Người đồng phạm luôn phải chịu trách nhiệm hình sự tương đương với người thực hiện hành vi tội phạm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "17"
+      }
+    ]
+  },
+  {
+    "question_id": "q-22",
+    "text": "Giáo dục mầm non là cấp học đầu tiên trong hệ thống giáo dục quốc dân.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "23"
+      }
+    ]
+  },
+  {
+    "question_id": "q-118",
+    "text": "Tiền lương, trợ cấp, nâng lương, thưởng, bữa ăn và các chế độ khác cũng là một nội dung trong thương lượng tập thể.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "67"
+      }
+    ]
+  },
+  {
+    "question_id": "q-25",
+    "text": "Giáo dục nghề nghiệp không nhằm đáp ứng nhu cầu nhân lực trực tiếp trong sản xuất, kinh doanh và dịch vụ.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "35"
+      }
+    ]
+  },
+  {
+    "question_id": "q-445",
+    "text": "Sở Kế hoạch và Đầu tư không có thẩm quyền thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "40"
+      }
+    ]
+  },
+  {
+    "question_id": "q-517",
+    "text": "Thời gian tập sự hành nghề luật sư là 12 tháng kể từ ngày đăng ký tập sự tại Tổ chức hành nghề luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "6"
+      }
+    ]
+  },
+  {
+    "question_id": "q-82",
+    "text": "Độ tuổi của người lao động là từ 18 tuổi trừ một số trường hợp được quy định.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "3"
+      }
+    ]
+  },
+  {
+    "question_id": "q-449",
+    "text": "Theo quy định của Luật Luật sư và văn bản hướng dẫn thi hành, cơ sở đào tạo nghề luật sư là Học viện Tư pháp thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư không thuộc Liên đoàn luật sư Việt Nam.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "2"
+      }
+    ]
+  },
+  {
+    "question_id": "q-562",
+    "text": "Mỗi luật sư hướng dẫn được hướng dẫn không giới hạn số lượng người tập sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-135",
+    "text": "Theo quy định tại khoản 3 Điều 107, Bộ luật Lao động 2019, người sử dụng lao động phải thông báo bằng văn bản cho cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp huyện.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "107"
+      }
+    ]
+  },
+  {
+    "question_id": "q-453",
+    "text": "Một trong những nghĩa vụ của luật sư là không được từ chối các hợp đồng dịch vụ pháp lý đối với người nghèo và phải tham gia các khóa học do Đoàn luật sư tổ chức.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "21"
+      }
+    ]
+  },
+  {
+    "question_id": "q-544",
+    "text": "Chứng chỉ hành nghề luật sư không bị thu hồi khi bị kết án và bản án đã có hiệu lực pháp luật.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "18"
+      }
+    ]
+  },
+  {
+    "question_id": "q-61",
+    "text": "Chỗ ở là nhà ở đã có quyết định phá dỡ của cơ quan nhà nước có thẩm quyền không được đăng ký thường trú mới.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "23"
+      }
+    ]
+  },
+  {
+    "question_id": "q-306",
+    "text": "Trong trường hợp vợ, chồng đang xin ly hôn thì nếu một người chết thì người còn sống không có quyền được thừa kế di sản của người đã chết.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "655"
+      }
+    ]
+  },
+  {
+    "question_id": "q-327",
+    "text": "Việc lựa chọn nơi cư trú của vợ chồng do vợ chồng thỏa thuận.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "20"
+      }
+    ]
+  },
+  {
+    "question_id": "q-248",
+    "text": "Hợp đồng làm thay đổi quyền, nghĩa vụ dân sự được coi là giao dịch dân sự.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "116"
+      }
+    ]
+  },
+  {
+    "question_id": "q-46",
+    "text": "Công dân có nghĩa vụ thực hiện việc đăng ký cư trú theo quy định của Luật cư trú và quy định khác của pháp luật có liên quan.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "9"
+      }
+    ]
+  },
+  {
+    "question_id": "q-59",
+    "text": "Trong thời hạn 07 ngày liên tiếp kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, cơ quan đăng ký cư trú có trách nhiệm thẩm định, cập nhật thông tin về nơi thường trú mới của người đăng ký vào Cơ sở dữ liệu về cư trú và thông báo cho người đăng ký về việc đã cập nhật thông tin đăng ký thường trú; trường hợp từ chối đăng ký thì phải trả lời bằng văn bản và nêu rõ lý do.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "22"
+      }
+    ]
+  },
+  {
+    "question_id": "q-245",
+    "text": "Tài sản bao gồm bất động sản và động sản.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "105"
+      }
+    ]
+  },
+  {
+    "question_id": "q-108",
+    "text": "Việc cho thôi việc đối với người lao động theo quy định tại Điều 42 này chỉ được tiến hành sau khi đã trao đổi ý kiến với tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở mà người lao động là thành viên và thông báo trước 30 ngày cho Ủy ban nhân dân cấp huyện và cho người lao động.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "42"
+      }
+    ]
+  },
+  {
+    "question_id": "q-497",
+    "text": "Người muốn tập sự hành nghề luật sư chỉ cần giúp việc cho một tổ chức hành nghề luật sư hoặc một luật sư chính thức để tập sự hành nghề luật sư.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-457",
+    "text": "Mức thù lao luật sư tham gia tố tụng trong vụ án hình sự được tính theo số ngày tham gia tố tụng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "18"
+      }
+    ]
+  },
+  {
+    "question_id": "q-212",
+    "text": "Đối với người xâm nhập vào mạng máy tính và tổn hại đến dữ liệu bí mật của nhà nước có thể phạt tù từ 7 đến 12 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "289"
+      }
+    ]
+  },
+  {
+    "question_id": "q-296",
+    "text": "Di chúc bằng văn bản có tổng cộng 4 loại khác nhau được quy định tại điều 628 bộ luật dân sự năm 2015.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "628"
+      }
+    ]
+  },
+  {
+    "question_id": "q-172",
+    "text": "Miễn trách nhiệm hình sự đối với người được đại xá.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "29"
+      }
+    ]
+  },
+  {
+    "question_id": "q-152",
+    "text": "Người lao động chưa thành niên không được làm các công việc như sản xuất, kinh doanh cồn, rượu, bia, thuốc lá, chất tác động đến tinh thần hoặc chất gây nghiện khác hoặc Nấu, thổi, đúc, cán, dập, hàn kim loại.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "147"
+      }
+    ]
+  },
+  {
+    "question_id": "q-147",
+    "text": "Phạt tiền, cắt lương thay việc xử lý kỷ luật lao động là được phép trong khi xử lý kỷ luật lao động.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "127"
+      }
+    ]
+  },
+  {
+    "question_id": "q-97",
+    "text": "Tiền lương trong thời gian thử việc của người lao động ít nhất phải bằng 85% mức lương của công việc đó",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "26"
+      }
+    ]
+  },
+  {
+    "question_id": "q-386",
+    "text": "Chính phủ không có quyền quy định điều kiện của tổ chức, cá nhân hoạt động tư vấn lập quy hoạch, kế hoạch sử dụng đất.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2013/QH13",
+        "article_id": "47"
+      }
+    ]
+  },
+  {
+    "question_id": "q-54",
+    "text": "Vợ và chồng luôn có cùng nơi cư trú.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-447",
+    "text": "Theo quy định của Luật Luật sư và văn bản hướng dẫn thi hành, cơ sở đào tạo nghề luật sư là Học viện Tư pháp thuộc Bộ Tư pháp và cơ sở đào tạo nghề luật sư thuộc Liên đoàn luật sư Việt Nam.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "2"
+      }
+    ]
+  },
+  {
+    "question_id": "q-523",
+    "text": "Theo quy định của Luật Luật sư, thì thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng kiểm tra do Bộ Giáo dục và Đào tạo thành lập.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "15"
+      }
+    ]
+  },
+  {
+    "question_id": "q-197",
+    "text": "Người làm, tàng trữ, vận chuyển, lưu hành tiền giả sẽ bị phạt tù từ 03 năm đến 07 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "207"
+      }
+    ]
+  },
+  {
+    "question_id": "q-259",
+    "text": "Khi tài sản chung đã được phân chia cho các chủ sở hữu chung thì sở hữu chung vẫn sẽ tiếp tục được duy trì.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "220"
+      }
+    ]
+  },
+  {
+    "question_id": "q-43",
+    "text": "Nhà nước có chính sách và biện pháp đồng bộ để bảo đảm việc thực hiện quyền tự do cư trú của công dân.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "5"
+      }
+    ]
+  },
+  {
+    "question_id": "q-420",
+    "text": "Luật sư hành nghề với tư cách cá nhân là luật sư làm việc không ký hợp đồng hoặc không thành lập, tham gia thành lập bất kỳ tổ chức hành nghề luật sư nào.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "20/2012/QH13",
+        "article_id": "49"
+      }
+    ]
+  },
+  {
+    "question_id": "q-565",
+    "text": "Công ty luật trách nhiệm hữu hạn hai thành viên trở lên có thể chuyển đổi sang hình thức Công ty luật hợp danh và Công ty luật trách nhiệm hữu hạn một thành viên.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-591",
+    "text": "Trong thời gian tập sự, ngoài nghĩa vụ tuân thủ các quy định của pháp luật về luật sư và hành nghề luật sư, người tập sự hành nghề luật sư còn có nghĩa vụ lập thời khóa biểu tập sự, trong đó ghi chép đầy đủ số lần tham gia tố tụng, đại diện ngoài tố tụng, tư vấn pháp luật và thực hiện dịch vụ pháp lý khác cho khách hàng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "10"
+      }
+    ]
+  },
+  {
+    "question_id": "q-560",
+    "text": "Mỗi luật sư hướng dẫn chỉ được hướng dẫn không quá năm người tập sự tại cùng một thời điểm.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-545",
+    "text": "Chứng chỉ hành nghề luật sư không bị thu hồi khi được tuyển dụng, bổ nhiệm là cán bộ, công chức, viên chức.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "18"
+      }
+    ]
+  },
+  {
+    "question_id": "q-206",
+    "text": "Cưỡng bức trẻ nhỏ dưới 13 tuổi sử dụng trái phép ma túy sẽ bị phạt tù 15 năm đến 20 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "257"
+      }
+    ]
+  },
+  {
+    "question_id": "q-399",
+    "text": "Dịch vụ pháp lý của luật sư không bao gồm hoạt động tư vấn pháp luật.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "65/2006/QH11",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-578",
+    "text": "Chỉ cần không hoạt động tại trụ sở đã đăng kí trong thời hạn 6 tháng liên tục, kể từ ngày được cấp Giấy đăng kí hoạt động, tổ chức hành nghề luật sư sẽ bị thu hồi Giấy đăng ký hoạt động.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "137/2018/NĐ-CP",
+        "article_id": "17"
+      }
+    ]
+  },
+  {
+    "question_id": "q-521",
+    "text": "Theo quy định của Luật Luật sư, thì thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư là Hội đồng kiểm tra do Học viện Tư pháp thành lập.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "15"
+      }
+    ]
+  },
+  {
+    "question_id": "q-558",
+    "text": "Khi hành nghề, luật sư được phép tiết lộ thông tin về vụ việc về khách hàng mà mình biết được một cách tùy ý.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "25"
+      }
+    ]
+  },
+  {
+    "question_id": "q-185",
+    "text": "Nếu một người phạm tội vu khống và làm cho nạn nhân tự sát thì phải ngồi tù từ 3 đến 7 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "156"
+      }
+    ]
+  },
+  {
+    "question_id": "q-83",
+    "text": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không có quyền từ chối làm việc nếu có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe trong qua trình thực hiện công việc.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "5"
+      }
+    ]
+  },
+  {
+    "question_id": "q-273",
+    "text": "Tài sản được giao theo phương thức do các bên thỏa thuận; nếu không có thỏa thuận thì tài sản do bên bán giao một lần và trực tiếp cho bên mua.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "436"
+      }
+    ]
+  },
+  {
+    "question_id": "q-213",
+    "text": "Mua bán, tàng trữ trái phép tài khoản ngân hàng từ 50 tài khoản đến dưới 200 tài khoản sẽ bị phạt tù từ 3 tháng đến 2 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "291"
+      }
+    ]
+  },
+  {
+    "question_id": "q-16",
+    "text": "Trong phát triển sự nghiệp giáo dục thì nhà nước giữa vai trò chủ đạo.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "16"
+      }
+    ]
+  },
+  {
+    "question_id": "q-220",
+    "text": "Người dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan mà chưa được xóa án tích thì chỉ bị đóng phạt từ 2.000.000 đồng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "320"
+      }
+    ]
+  },
+  {
+    "question_id": "q-179",
+    "text": "Người bị kết án được miễn chấp hành hình phạt chỉ khi chết.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "62"
+      }
+    ]
+  },
+  {
+    "question_id": "q-156",
+    "text": "Tòa án nhân dân có thẩm quyền giải quyết tranh chấp lao động cá nhân.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "187"
+      }
+    ]
+  },
+  {
+    "question_id": "q-587",
+    "text": "Người tập sự hành nghề luật sư được liên hệ với cá nhân, cơ quan, tổ chức để đại diện cho luật sư hướng dẫn tập sự cung cấp thông tin pháp lý và ký hợp đồng dịch vụ pháp lý với khách hàng.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "9"
+      }
+    ]
+  },
+  {
+    "question_id": "q-538",
+    "text": "Hội đồng kiểm tra do Bộ Giáo dục và Đào tạo thành lập không có thẩm quyền tổ chức kiểm tra kết quả tập sự hành nghề luật sư.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "15"
+      }
+    ]
+  },
+  {
+    "question_id": "q-576",
+    "text": "Tổ chức hành nghề luật sư có thể bị thu hồi Giấy đăng ký hoạt động.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "137/2018/NĐ-CP",
+        "article_id": "17"
+      }
+    ]
+  },
+  {
+    "question_id": "q-9",
+    "text": "Tiếng Việt là ngoại ngữ chính thức dùng trong cơ sở giáo dục.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-117",
+    "text": "Người sử dụng lao động tuyển người vào học nghề, tập nghề để làm việc cho mình thì không phải đăng ký hoạt động giáo dục nghề nghiệp; được thu học phí; phải ký hợp đồng đào tạo theo quy định của Luật Giáo dục nghề nghiệp.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "61"
+      }
+    ]
+  },
+  {
+    "question_id": "q-36",
+    "text": "Nhà giáo không được phép ký hợp đồng thỉnh giảng hoặc nghiên cứu khoa học tại cơ sở giáo dục khác hoặc cơ sở nghiên cứu khoa học.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "70"
+      }
+    ]
+  },
+  {
+    "question_id": "q-144",
+    "text": "Người sử dụng lao động có thể áp dụng hình thức xử lý kỷ luật sa thải đối với người lao động khi xử lý kỷ luật lao động.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "124"
+      }
+    ]
+  },
+  {
+    "question_id": "q-10",
+    "text": "Người dân tộc được khuyến khích học chữ của dân tộc mình.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "43/2019/QH14",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-443",
+    "text": "Bộ Kế hoạch và Đầu tư không có thẩm quyền thu hồi Giấy phép thành lập của chi nhánh, công ty luật nước ngoài.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "40"
+      }
+    ]
+  },
+  {
+    "question_id": "q-70",
+    "text": "Việc thông báo lưu trú phải được thực hiện trực tiếp, không được sử dụng điện thoại hay các phương tiện điện tử.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "68/2020/QH14",
+        "article_id": "30"
+      }
+    ]
+  },
+  {
+    "question_id": "q-267",
+    "text": "Theo quy định tại điều 309 Bộ luật dân sự năm 2015, bên cầm cố là bên giao tài sản thuộc quyền sở hữu cuả mình cho bên nhận cầm cố.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "309"
+      }
+    ]
+  },
+  {
+    "question_id": "q-476",
+    "text": "Báo cáo quá trình tập sự hành nghề luật sư của người tập sự chỉ cần có xác nhận của tổ chức hành nghề luật sư nhận tập sự.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "11"
+      }
+    ]
+  },
+  {
+    "question_id": "q-518",
+    "text": "Thời gian tập sự hành nghề luật sư là 12 tháng kể từ ngày Ban chủ nhiệm Đoàn luật sư ra quyết định về việc đăng ký tập sự hành nghề luật sư.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "6"
+      }
+    ]
+  },
+  {
+    "question_id": "q-348",
+    "text": "Cha mẹ phải bồi thường mọi thiệt hại do con gây ra.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "74"
+      }
+    ]
+  },
+  {
+    "question_id": "q-506",
+    "text": "Tổ chức hành nghề luật sư nhận tập sự chỉ có thể là văn phòng luật sư, công ty luật; chi nhánh của văn phòng luật sư, công ty luật.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "19/2013/TT-BTP",
+        "article_id": "4"
+      }
+    ]
+  },
+  {
+    "question_id": "q-321",
+    "text": "Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên có thể kết hôn.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "52/2014/QH13",
+        "article_id": "8"
+      }
+    ]
+  },
+  {
+    "question_id": "q-244",
+    "text": "Nếu người được giám hộ là người chưa thành niên thì người giám hộ có không có nghĩa vụ làm đại diện trong các giao dịch dân sự của người được giám hộ.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "56"
+      }
+    ]
+  },
+  {
+    "question_id": "q-159",
+    "text": "Từ ngày 01 tháng 01 năm 2021, bộ luật Lao động số 10/2012/QH13 có hiệu lực thi hành.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "45/2019/QH14",
+        "article_id": "220"
+      }
+    ]
+  },
+  {
+    "question_id": "q-203",
+    "text": "Người cho thuê, cho mượn địa điểm để chứa chấp việc sử dụng trái phép chất ma túy và không nằm trong quy định tại điều 255 của bộ luật hình sự thì sẽ bị phạt tù từ 2 đến 7 năm.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "100/2015/QH13",
+        "article_id": "256"
+      }
+    ]
+  },
+  {
+    "question_id": "q-572",
+    "text": "Công ty luật trách nhiệm hữu hạn hai thành viên trở lên không được phép chuyển đổi sang hình thức Công ty luật trách nhiệm hữu hạn một thành viên.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "123/2013/NĐ-CP",
+        "article_id": "14"
+      }
+    ]
+  },
+  {
+    "question_id": "q-266",
+    "text": "Thời hạn của quyền hưởng dụng đối với người hưởng dụng đầu tiên là cá nhân sẽ chấm dứt khi người hưởng dụng từ trần.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "260"
+      }
+    ]
+  },
+  {
+    "question_id": "q-271",
+    "text": "Quy định tại chương 16 điều 430, hợp đồng mua bán tài sản là sự thoả thuận của bên bán quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán.",
+    "label": true,
+    "relevant_articles": [
+      {
+        "law_id": "91/2015/QH13",
+        "article_id": "430"
+      }
+    ]
+  },
+  {
+    "question_id": "q-543",
+    "text": "Chứng chỉ hành nghề luật sư không bị thu hồi khi không còn thường trú tại Việt Nam.",
+    "label": false,
+    "relevant_articles": [
+      {
+        "law_id": "03/VBHN-VPQH",
+        "article_id": "18"
+      }
+    ]
+  }
+]

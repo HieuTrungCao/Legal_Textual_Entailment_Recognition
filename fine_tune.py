@@ -27,7 +27,7 @@ def fine_tune(args):
     wandb.login()
     run = wandb.init(
         project=args.project_name,
-        tags=["Finetune"]
+        tags=args.tags.split("-")
     )
     
     train_data = get_data_frame("./data/datasets/VLSP/train.json", "./data/VLSP2023-LTER-Data/legal_passages.json")
@@ -97,6 +97,7 @@ if __name__ == "__main__":
     parsers.add_argument("--add_bm25", default=False, type=bool, help="Do you want add BM25 score to train")
     parsers.add_argument("--project_name", default="VLSP", type=str, help="project name on wandb")
     parsers.add_argument("--data_aug", default=False, type=bool, help="Do you want to segment text for training?")
+    parsers.add_argument("--tags", default="Finetune", type=str, help="Do you want to segment text for training?")
 
     args = parsers.parse_args()
     fine_tune(args)

@@ -74,7 +74,7 @@ def get_data_frame(path_data, path_law):
   label = []
 
   for d in data:
-    example_id.append(d["example_is"])
+    example_id.append(d["example_id"])
     statement.append(d["statement"].lower())
     if "label" in d.keys():
       label.append(d["label"])

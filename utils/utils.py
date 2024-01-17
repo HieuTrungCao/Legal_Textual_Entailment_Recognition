@@ -3,7 +3,7 @@ import json
 import numpy as np
 import pandas as pd
 
-from bm25 import get_scores
+from .bm25 import get_scores
 
 def compute_metrics(eval_pred):
   preds, labels = eval_pred

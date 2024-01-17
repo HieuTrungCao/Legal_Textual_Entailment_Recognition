@@ -2,3 +2,6 @@ data/zac2021-ltr-data/
 wandb/
 */__pycache__/
 get_raw_data.py
+get_statement.py
+aug_data.py
+data.txt

@@ -30,15 +30,15 @@ def fine_tune(args):
         tags=["Finetune"]
     )
     
-    train_data = get_data_frame("data\datasets\VLSP\\train.json", "data\VLSP2023-LTER-Data\legal_passages.json")
-    test_data = get_data_frame("data\datasets\VLSP\\test.json", "data\VLSP2023-LTER-Data\legal_passages.json")
+    train_data = get_data_frame("./data\datasets\VLSP\\train.json", "./data\VLSP2023-LTER-Data\legal_passages.json")
+    test_data = get_data_frame("./data\datasets\VLSP\\test.json", "./data\VLSP2023-LTER-Data\legal_passages.json")
 
     if args.extra_data:
-        train_data = pd.concat([train_data, get_data_frame("data\datasets\KSE\question.json", "data\ALQAC 2021\law.json")])
+        train_data = pd.concat([train_data, get_data_frame("./data\datasets\KSE\question.json", "./data\ALQAC 2021\law.json")])
     
     if args.data_aug:
-        train_data = pd.concat([train_data, get_data_frame("data\datasets\\aug\kse.json", "data\ALQAC 2021\law.json")])
-        train_data = pd.concat([train_data, get_data_frame("data\datasets\\aug\\vlsp.json", "data\VLSP2023-LTER-Data\legal_passages.json")])
+        train_data = pd.concat([train_data, get_data_frame("./data\datasets\\aug\kse.json", "./data\ALQAC 2021\law.json")])
+        train_data = pd.concat([train_data, get_data_frame("./data\datasets\\aug\\vlsp.json", "./data\VLSP2023-LTER-Data\legal_passages.json")])
 
 
     #load tokenizer

@@ -21,7 +21,7 @@ def split_legal_passage(legal_passages):
   for s in temp:
     if len(s) == 0:
       continue
-    
+
     s = s.lower()
     if s[0].isdigit():
       s = s[s.find(" ") + 1:]
@@ -58,7 +58,7 @@ def get_legal_passage(statement, legal_passages, law):
   for l in legal_passages:
     text = get_article(l, law)
     sens = split_legal_passage(text)
-    sentences.append(sens)
+    sentences += sens
 
   scores = get_scores(statement, sentences)
   id_max = np.argmax(scores)

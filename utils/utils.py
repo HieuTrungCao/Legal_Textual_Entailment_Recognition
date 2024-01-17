@@ -19,6 +19,9 @@ def split_legal_passage(legal_passages):
   res = []
   temp = legal_passages.split('\n')
   for s in temp:
+    if len(s) == 0:
+      continue
+    
     s = s.lower()
     if s[0].isdigit():
       s = s[s.find(" ") + 1:]

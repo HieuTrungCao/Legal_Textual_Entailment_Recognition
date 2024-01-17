@@ -56,4 +56,4 @@ if __name__ == "__main__":
         }
         result.append(r)
     
-    json.dump(result, open("result/result_prediction.json", "wt", encoding='utf8'), ensure_ascii=False, indent=2)
+    json.dump(result, open("./result/result_prediction.json", "wt", encoding='utf8'), ensure_ascii=False, indent=2)

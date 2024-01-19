@@ -6,3 +6,4 @@ get_statement.py
 aug_data.py
 data.txt
 result/
+get_bm25.py

@@ -83,10 +83,8 @@ if __name__ == "__main__":
     parsers.add_argument("--batch_size", default=32, type=int, help="Enter batch size")
     parsers.add_argument("--num_labels", default=2, type=int, help="Enter num labels")
     parsers.add_argument("--weight_decay", default=0.002, type=float, help="Enter weight decay")
-    parsers.add_argument("--extra_data", default=False, type=bool, help="Do you want to add more data?")
     parsers.add_argument("--add_bm25", default=False, type=bool, help="Do you want add BM25 score to train")
     parsers.add_argument("--project_name", default="VLSP", type=str, help="project name on wandb")
-    parsers.add_argument("--data_aug", default=False, type=bool, help="Do you want to segment text for training?")
     parsers.add_argument("--tags", default="Finetune_Retrieval", type=str, help="Do you want to segment text for training?")
 
     args = parsers.parse_args()

@@ -15,12 +15,58 @@ def compute_metrics(eval_pred):
       "acc": acc
   }
 
+
+def precision(pred, relevant):
+  count = 0
+  for p in pred:
+    if p in relevant:
+      count += 1
+  
+  return count / len(pred)
+
+def recall(pred, relevant):
+  count = 0
+  for r in relevant:
+    if r in pred:
+      r += 1
+
+  return count / len(relevant)
+
+def f2(pred, relevant):
+  p = precision(pred, relevant)
+  r = recall(pred, relevant)
+
+  return 5 * p * r / (4*p + r + 1e-3), p, r
+
+
 def f2_score(eval_pred, example_id, id_legal, ground_truth):
   f2 = 0
   p = 0
   r = 0
 
-  return f2, p, r
+  preds, labels = eval_pred
+
+  preds = torch.argmax(torch.tensor(preds), dim = 1)
+  preds = preds.tolist()
+
+  predicts = {}
+  
+
+  for pr, e_id, l_id in zip(preds, example_id, id_legal):
+    if pr == 1:
+      if e_id not in predicts.keys():
+        predicts[e_id] = []
+      
+      if id not in predicts[e_id]:
+        predicts[e_id].append(l_id)
+
+  for k in predicts.keys():
+    _f2, _p, _r = f2(predicts[k], ground_truth[k])
+    f2 += _f2
+    p += _p
+    r += _r
+
+  return f2 / len(predicts.keys()), p  / len(predicts.keys()), r  / len(predicts.keys())
 
 def split_legal_passage_sentence_level(legal_passages):
   res = []

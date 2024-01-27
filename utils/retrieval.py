@@ -1,8 +1,7 @@
 import pandas as pd
 
 
-def preprocess(path):
-    data = pd.read_csv(path)
+def preprocess(data):
     
     id2label = {
         0: "No",

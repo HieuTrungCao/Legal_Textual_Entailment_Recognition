@@ -15,6 +15,46 @@ def compute_metrics(eval_pred):
       "acc": acc
   }
 
+def f2_score(eval_pred, example_id, id_legal, ground_truth):
+  f2 = 0
+  p = 0
+  r = 0
+
+  return f2, p, r
+
+def split_legal_passage_sentence_level(legal_passages):
+  res = []
+  temp = legal_passages.replace("\n\n", " ")
+  temp = temp.replace("\n", " ")
+  temp = temp.split(".")
+  
+  for s in temp:
+    if len(s) == 0:
+      continue
+
+    s = s.lower()
+    if s[0].isdigit():
+      s = s[s.find(" ") + 1:]
+
+    if s[0].isalpha() and s[1] == ")":
+      s = s[s.find(" ") + 1:]
+
+    if s[-1] == ":":
+      s = s[: -1]
+
+    if s[-1] == ".":
+      s = s[: -1]
+
+    if s[-1] == ";":
+      s = s[: -1]
+
+    s = s.strip()
+    res.append(s)
+
+  return res
+
+
+
 def split_legal_passage(legal_passages):
   res = []
   temp = legal_passages.split('\n')
@@ -58,6 +98,8 @@ def get_legal_passage(statement, legal_passages, law):
   for l in legal_passages:
     text = get_article(l, law)
     sens = split_legal_passage(text)
+    sentences += sens
+    sens = split_legal_passage_sentence_level(text)
     sentences += sens
 
   scores = get_scores(statement, sentences)

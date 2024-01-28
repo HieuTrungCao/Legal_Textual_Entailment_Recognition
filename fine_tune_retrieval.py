@@ -65,7 +65,11 @@ def fine_tune(args):
     )
     
     #fine-tune
-    trainer.train()
+    if args.resume:
+        print("Resume from checkpoint")
+        trainer.train(resume_from_checkpoint=True)
+    else:
+        trainer.train()
 
     wandb.finish()
     
@@ -74,6 +78,7 @@ def fine_tune(args):
 if __name__ == "__main__":
     parsers = argparse.ArgumentParser()
     parsers.add_argument("--model_name", type=str, help="Enter model name")
+    parsers.add_argument("--resume", type=bool, default=False)
     parsers.add_argument("--path_data", default="data\zac2021-ltr-data", type=str, help="Enter model name")
     parsers.add_argument("--output", default="output", type=str, help="Enter ouput dir to save model")
     parsers.add_argument("--log", default="log", type=str, help="Enter log dir to save log")

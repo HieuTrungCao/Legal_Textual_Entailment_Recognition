@@ -36,6 +36,9 @@ def fine_tune(args):
     train_data = preprocess(train_data)
     test_data = preprocess(test_data)
 
+    print("Training sample: ", len(train_data.index))
+    print("Test sample: ", len(test_data.index))
+
     #load tokenizer
     tokenizer = AutoTokenizer.from_pretrained(args.model_name)  
 

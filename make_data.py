@@ -70,7 +70,7 @@ def make_data(args, filename, bm25, legal, id_law):
         scores = np.array(scores)
         
         idx = np.argsort(scores)
-        idx = list(np.flip(idx)[:150])
+        idx = list(np.flip(idx)[:args.n_sample])
 
         label_relevants = []
         for r in d["relevant_articles"]:
@@ -103,6 +103,8 @@ def make_data(args, filename, bm25, legal, id_law):
         "score": score
     })
 
+    print("Length of ", filename[:-5], ": ", len(df.index))
+
     filename = filename[: -5] + ".csv"
     df.to_csv(os.path.join(args.path_data, filename), index=False)
 
@@ -118,6 +120,7 @@ def make_data(args, filename, bm25, legal, id_law):
 if __name__ == "__main__":
     parse = argparse.ArgumentParser()
     parse.add_argument("--path_data", default= 'data\zac2021-ltr-data', type=str)
+    parse.add_argument("--n_sample", default= 10, type=int)
 
     args = parse.parse_args()
 

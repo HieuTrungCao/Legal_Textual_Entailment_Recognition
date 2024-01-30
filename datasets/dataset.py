@@ -19,10 +19,31 @@ class MyDataset(Dataset):
         }
         self.add_bm25 = add_bm25
 
-        self.df = df        
+        self.df = df 
+
+        self.tokenizer()       
 
     def __len__(self):
         return len(self.df.index)
+
+    def tokenizer(self):
+        data = []
+        for i in range(len(self.df.index)):
+            sentence1 = self.df.iloc[i]["statement"]
+            sentence2 = self.df.iloc[i]["legal_passage"]
+            if self.add_bm25:
+                sentence1 = sentence1 + " [SEP] " + self.standard_bm25_score(self.df.iloc[i]["score"])
+                
+            token = self.tokenizer(sentence1, sentence2, padding="max_length", truncation=True, max_length=self.max_length)
+            d = {
+                "input_ids": torch.tensor(token["input_ids"]),
+                "attention_mask": torch.tensor(token["attention_mask"]),
+                "token_type_ids": torch.tensor(token["token_type_ids"]),
+            }
+
+            data.append(d)
+        
+        self.data = data
 
     def get_example_id(self):
         example_id = []
@@ -40,17 +61,19 @@ class MyDataset(Dataset):
         return str(score)
     
     def __getitem__(self, index: Any) -> Any:
-        sentence1 = self.df.iloc[index]["statement"]
-        sentence2 = self.df.iloc[index]["legal_passage"]
-        if self.add_bm25:
-            sentence1 = sentence1 + " [SEP] " + self.standard_bm25_score(self.df.iloc[index]["score"])
+        # sentence1 = self.df.iloc[index]["statement"]
+        # sentence2 = self.df.iloc[index]["legal_passage"]
+        # if self.add_bm25:
+        #     sentence1 = sentence1 + " [SEP] " + self.standard_bm25_score(self.df.iloc[index]["score"])
             
-        token = self.tokenizer(sentence1, sentence2, padding="max_length", truncation=True, max_length=self.max_length)
-        data = {
-            "input_ids": torch.tensor(token["input_ids"]),
-            "attention_mask": torch.tensor(token["attention_mask"]),
-            "token_type_ids": torch.tensor(token["token_type_ids"]),
-        }
+        # token = self.tokenizer(sentence1, sentence2, padding="max_length", truncation=True, max_length=self.max_length)
+        # data = {
+        #     "input_ids": torch.tensor(token["input_ids"]),
+        #     "attention_mask": torch.tensor(token["attention_mask"]),
+        #     "token_type_ids": torch.tensor(token["token_type_ids"]),
+        # }
+
+        data = self.data[index]
 
         if "label" in self.df.keys():
             data['labels'] = self.label2id[self.df.iloc[index]["label"]]

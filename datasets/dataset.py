@@ -21,7 +21,7 @@ class MyDataset(Dataset):
 
         self.df = df 
 
-        self.tokenizer()       
+        tokenizer()       
 
     def __len__(self):
         return len(self.df.index)

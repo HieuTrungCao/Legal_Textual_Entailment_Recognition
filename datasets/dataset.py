@@ -21,12 +21,12 @@ class MyDataset(Dataset):
 
         self.df = df 
 
-        tokenizer()       
+        self.tokenizer_text()       
 
     def __len__(self):
         return len(self.df.index)
 
-    def tokenizer(self):
+    def tokenizer_text(self):
         data = []
         for i in range(len(self.df.index)):
             sentence1 = self.df.iloc[i]["statement"]

@@ -57,10 +57,12 @@ def f2_score(eval_pred, example_id, id_legal, ground_truth):
       if e_id not in predicts.keys():
         predicts[e_id] = []
       
-      if id not in predicts[e_id]:
+      if l_id not in predicts[e_id]:
         predicts[e_id].append(l_id)
 
   for k in predicts.keys():
+    print(predicts)
+    print(ground_truth)
     _f2, _p, _r = f2(predicts[k], ground_truth[k])
     f2 += _f2
     p += _p

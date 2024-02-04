@@ -61,7 +61,9 @@ def f2_score(eval_pred, example_id, id_legal, ground_truth):
         predicts[e_id].append(l_id)
 
   for k in predicts.keys():
-    _f2, _p, _r = call_f2(predicts[k], ground_truth[k])
+    pre = predicts[k]
+    gro = ground_truth[k]
+    _f2, _p, _r = call_f2(pre, gro)
     f2 += _f2
     p += _p
     r += _r

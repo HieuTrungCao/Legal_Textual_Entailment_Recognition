@@ -28,7 +28,7 @@ def recall(pred, relevant):
   count = 0
   for r in relevant:
     if r in pred:
-      r += 1
+      count += 1
 
   return count / len(relevant)
 

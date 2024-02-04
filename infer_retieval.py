@@ -50,10 +50,10 @@ if __name__ == "__main__":
         model
     )
 
-    preds, labels, metrics = trainer.predict(test_datasets, test_data["example_id"], test_data["id_legal"], ground_truth)
+    preds, labels, metrics = trainer.predict(test_datasets)
 
     if labels is not None:
-        f2, p, r = f2_score((preds, labels))
+        f2, p, r = f2_score((preds, labels),test_data["example_id"], test_data["id_legal"], ground_truth)
         print("F2: ", f2, end="\t")
         print("P: ", p, end="\t")
         print("R: ", r)

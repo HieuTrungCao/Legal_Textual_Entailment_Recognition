@@ -26,7 +26,7 @@ def get_result(pred, example_id, id_legal, ground_truth):
             if l_id in ground_truth[e_id]:
                 if e_id not in predict:
                     predict[e_id] = []
-                predict.append(l_id)
+                predict[e_id].append(l_id)
     return predict
 
 if __name__ == "__main__":
